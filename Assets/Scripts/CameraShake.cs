@@ -4,7 +4,7 @@ public class CameraShake : MonoBehaviour
 {
     public static CameraShake instance;
 
-    private Vector3 originalPos;
+    private Vector3 shakeOffset;
 
     public float shakeIntensity = 0.2f;
     public float shakeDuration = 0.2f;
@@ -14,19 +14,21 @@ public class CameraShake : MonoBehaviour
     void Awake()
     {
         instance = this;
-        originalPos = transform.position;
     }
 
     void Update()
     {
         if (timer > 0)
         {
-            transform.position = originalPos + (Vector3)Random.insideUnitCircle * shakeIntensity;
+            shakeOffset =
+                (Vector3)Random.insideUnitCircle
+                * shakeIntensity;
+
             timer -= Time.deltaTime;
         }
         else
         {
-            transform.position = originalPos;
+            shakeOffset = Vector3.zero;
         }
     }
 
@@ -35,5 +37,10 @@ public class CameraShake : MonoBehaviour
         shakeIntensity = intensity;
         shakeDuration = duration;
         timer = duration;
+    }
+
+    public Vector3 GetShakeOffset()
+    {
+        return shakeOffset;
     }
 }

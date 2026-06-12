@@ -9,17 +9,20 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/OpeningCutscene.unity
+    guid: ee7b84e166bb8d243aba4bc6704d471d
+  - enabled: 1
     path: Assets/Scenes/Level1_Denial.unity
     guid: 20dbee821e6c2424380dfb15206268d4
   - enabled: 1
+    path: Assets/Scenes/Level2Cutscene.unity
+    guid: 53fa2b00ec78c6f41b30ddc702c64ea8
+  - enabled: 1
     path: Assets/Scenes/Level2_Paranoia.unity
-    guid: 87e5b915e447c7740b701e7eff9ad214
+    guid: fc43b68c7da4a9c45874f7d9f3168580
   - enabled: 1
-    path: Assets/Scenes/Level3_Confrontation.unity
-    guid: 30c96b9294e69d5439d205b4728fc2fd
-  - enabled: 1
-    path: Assets/Scenes/Level4_Acceptance.unity
-    guid: 6414722aba6ea6841bf88fd4e93d1c6f
+    path: Assets/Scenes/EndingScene.unity
+    guid: 9f83964c17d2c4044872c8355ad73458
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 65f517f0a25546b4a9c150cee09c1bf6

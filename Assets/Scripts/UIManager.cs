@@ -1,11 +1,16 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
     public static UIManager instance;
 
-    public TextMeshProUGUI hpText;
+    public Image[] hearts;
+
+    public Sprite fullHeart;
+
+    public Sprite emptyHeart;
 
     public GameObject warningImage;
 
@@ -21,9 +26,18 @@ public class UIManager : MonoBehaviour
 
     public void UpdateHP(int hp)
     {
-        hpText.text = "HP: " + hp;
+        for (int i = 0; i < hearts.Length; i++)
+        {
+            if (i < hp)
+            {
+                hearts[i].sprite = fullHeart;
+            }
+            else
+            {
+                hearts[i].sprite = emptyHeart;
+            }
+        }
     }
-
     public void ShowWarning()
     {
         warningImage.SetActive(true);

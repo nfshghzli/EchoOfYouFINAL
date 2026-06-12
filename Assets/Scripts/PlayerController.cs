@@ -4,12 +4,8 @@ using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
     [Header("Movement")]
-
     public float forwardSpeed = 5f;
-    public float runSpeed = 5f;
-    public float jumpForce = 12f;
-    public int maxJumps = 2;
-    private int jumpsLeft;
+    public float jumpForce = 18f;
 
     [Header("Health")]
     public int hp = 3;
@@ -18,62 +14,86 @@ public class PlayerController : MonoBehaviour
     public float turnSpeed = 120f;
 
     private Rigidbody2D rb;
+    private Animator animator;
 
     private bool isGrounded;
     private bool isSliding;
     private bool isTurning;
     private bool isDead = false;
+    private bool canMove = true;
 
-    private Vector3 originalScale;
-
-    void Start()
+    private void Start()
     {
         Time.timeScale = 1f;
 
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
 
-        originalScale = transform.localScale;
+        UIManager.instance.UpdateHP(hp);
 
-        jumpsLeft = maxJumps;
+        animator.SetBool("IsRunning", true);
+        animator.SetBool("IsJumping", false);
+        animator.SetBool("IsSliding", false);
     }
 
-    void Update()
+    private void Update()
     {
-        transform.position += Vector3.right
-            * forwardSpeed
-            * Time.deltaTime;
+            Debug.Log("UPDATE RUNNING");
 
-        // STOP EVERYTHING IF DEAD
-        if (isDead)
-            return;
+            if (!canMove || isDead)
+                return;
 
-        // JUMP
-        if (Input.GetKeyDown(KeyCode.W)
-            && jumpsLeft > 0
-            && !isSliding)
+        if (Input.GetKeyDown(KeyCode.W))
         {
-            rb.linearVelocity =
-                new Vector2(
-                    rb.linearVelocity.x,
-                    jumpForce
-                );
-
-            jumpsLeft--;
+            Debug.Log("W DETECTED");
         }
 
-        // SLIDE START
-        if (Input.GetKeyDown(KeyCode.S))
+        if (!canMove || isDead)
+            return;
+
+        // Auto Run
+        rb.linearVelocity = new Vector2(
+            forwardSpeed,
+            rb.linearVelocity.y
+        );
+
+        // Jump
+        if (
+            (Input.GetKeyDown(KeyCode.W) ||
+             Input.GetKeyDown(KeyCode.UpArrow))
+            &&
+            !isSliding
+        )
+        {
+            rb.linearVelocity = new Vector2(
+                rb.linearVelocity.x,
+                jumpForce
+            );
+
+            isGrounded = false;
+
+            animator.SetBool("IsJumping", true);
+        }
+
+        // Slide Start
+        if (
+            Input.GetKeyDown(KeyCode.S) ||
+            Input.GetKeyDown(KeyCode.DownArrow)
+        )
         {
             StartSlide();
         }
 
-        // SLIDE END
-        if (Input.GetKeyUp(KeyCode.S))
+        // Slide End
+        if (
+            Input.GetKeyUp(KeyCode.S) ||
+            Input.GetKeyUp(KeyCode.DownArrow)
+        )
         {
             StopSlide();
         }
 
-        // TURNING EFFECT
+        // Turning
         if (isTurning)
         {
             transform.rotation =
@@ -85,61 +105,57 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    void StartSlide()
+    private void StartSlide()
     {
+        Debug.Log("SLIDE START");
+
+        if (isDead)
+            return;
+
         isSliding = true;
 
-        transform.localScale =
-            new Vector3(
-                originalScale.x,
-                originalScale.y / 2,
-                originalScale.z
-            );
+        animator.SetBool("IsRunning", false);
+        animator.SetBool("IsSliding", true);
     }
 
-    void StopSlide()
+    private void StopSlide()
     {
         isSliding = false;
 
-        transform.localScale = originalScale;
+        animator.SetBool("IsSliding", false);
+        animator.SetBool("IsRunning", true);
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            Debug.Log("GROUND DETECTED");
+
+            isGrounded = true;
+
+            animator.SetBool("IsJumping", false);
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // IGNORE COLLISION IF DEAD
         if (isDead)
             return;
 
-        // GROUND CHECK
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true;
-
-            jumpsLeft = maxJumps;
-        }
-
-        // OBSTACLE HIT
         if (collision.gameObject.CompareTag("Obstacle"))
         {
             hp--;
-
-            // PREVENT NEGATIVE HP
             hp = Mathf.Max(hp, 0);
 
-            // EFFECTS
             ScreenEffects.instance.Flash();
-
             AudioManager.instance.PlayHit();
-
             CameraShake.instance.Shake(0.15f, 0.15f);
 
             UIManager.instance.UpdateHP(hp);
 
-            Debug.Log("HP: " + hp);
-
             Destroy(collision.gameObject);
 
-            // GAME OVER
             if (hp <= 0)
             {
                 Die();
@@ -162,49 +178,49 @@ public class PlayerController : MonoBehaviour
 
         isDead = true;
 
-        // RESET TIME
-        Time.timeScale = 1f;
-
-        // STOP MOVEMENT
         rb.linearVelocity = Vector2.zero;
-
-        // STOP PHYSICS
         rb.bodyType = RigidbodyType2D.Kinematic;
 
-        // EFFECT
-        CameraShake.instance.Shake(0.4f, 0.5f);
+        animator.SetBool("IsRunning", false);
 
-        Debug.Log("GAME OVER");
+        CameraShake.instance.Shake(
+            0.4f,
+            0.5f
+        );
 
         PlayerPrefs.SetString(
             "LastLevel",
             SceneManager.GetActiveScene().name
         );
-        // LOAD GAME OVER
-        Invoke(nameof(LoadGameOverScene), 1.5f);
-    }
 
-    void LoadGameOverScene()
-    {
-        SceneManager.LoadScene("GameOver");
+        StartCoroutine(
+            ScreenFade.instance.PlayDeathSequence()
+        );
     }
 
     public void StartTurning()
     {
-        if (isDead)
-            return;
+        if (isDead) return;
 
-        isTurning = true;
+        animator.Play("PlayerTurn");
     }
 
     public void StopTurning()
     {
-        if (isDead)
-            return;
+        if (isDead) return;
 
-        isTurning = false;
+        animator.Play("PlayerRun");
+    }
 
-        transform.rotation =
-            Quaternion.Euler(0, 0, 0);
+    public void StopRunning()
+    {
+        canMove = false;
+
+        rb.linearVelocity = Vector2.zero;
+
+        animator.SetBool(
+            "IsRunning",
+            false
+        );
     }
 }

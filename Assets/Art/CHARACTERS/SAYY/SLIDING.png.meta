@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 86c0d5ebc5c6e294b9354b6d12000391
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2827680814389479712
+    second: SLIDING_0
+  - first:
+      213: 6512911089167677024
+    second: SLIDING_1
+  - first:
+      213: -1170654792134569586
+    second: SLIDING_2
+  - first:
+      213: -6706318255593045397
+    second: SLIDING_3
+  - first:
+      213: -4338905162686876271
+    second: SLIDING_4
+  - first:
+      213: -4483479479056120952
+    second: SLIDING_5
+  - first:
+      213: -7195867538608573235
+    second: SLIDING_6
+  - first:
+      213: -4582969154807481180
+    second: SLIDING_7
+  - first:
+      213: -7428296777034722636
+    second: SLIDING_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLIDING_0
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1266
+        width: 348
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6b020f74f02c8d0800000000000000
+      internalID: -2827680814389479712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDING_1
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1258
+        width: 346
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066ba83f022826a50800000000000000
+      internalID: 6512911089167677024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDING_2
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1271
+        width: 481
+        height: 551
+      alignment: 9
+      pivot: {x: 0.51312244, y: 0.5918636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d5304baff0cfe0800000000000000
+      internalID: -1170654792134569586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDING_3
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1274
+        width: 494
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5289603, y: 0.6625941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c8a0041f5ee2a0800000000000000
+      internalID: -6706318255593045397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDING_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 434
+        width: 488
+        height: 479
+      alignment: 9
+      pivot: {x: 0.51156104, y: 0.7296475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195b0f73ebc19c3c0800000000000000
+      internalID: -4338905162686876271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDING_5
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 445
+        width: 375
+        height: 594
+      alignment: 9
+      pivot: {x: 0.55484927, y: 0.5969553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8834b151b2b77c1c0800000000000000
+      internalID: -4483479479056120952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDING_6
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 444
+        width: 323
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4b8765994232c90800000000000000
+      internalID: -7195867538608573235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDING_7
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 443
+        width: 361
+        height: 627
+      alignment: 9
+      pivot: {x: 0.37861612, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb027d5d50660c0800000000000000
+      internalID: -4582969154807481180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8c71a14f12461fe498b490a167e4422a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SLIDING_0: -2827680814389479712
+      SLIDING_1: 6512911089167677024
+      SLIDING_2: -1170654792134569586
+      SLIDING_3: -6706318255593045397
+      SLIDING_4: -4338905162686876271
+      SLIDING_5: -4483479479056120952
+      SLIDING_6: -7195867538608573235
+      SLIDING_7: -4582969154807481180
+      SLIDING_8: -7428296777034722636
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
