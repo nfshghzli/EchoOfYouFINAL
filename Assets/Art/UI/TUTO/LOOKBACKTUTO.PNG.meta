@@ -1,0 +1,4108 @@
+fileFormatVersion: 2
+guid: ac4ce1f7dd0f5b8428132e7472eb9467
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7585505696730209975
+    second: LOOKBACKTUTO_0
+  - first:
+      213: -4369057161842201987
+    second: LOOKBACKTUTO_1
+  - first:
+      213: 1460978881211371886
+    second: LOOKBACKTUTO_2
+  - first:
+      213: -1949545683371480914
+    second: LOOKBACKTUTO_3
+  - first:
+      213: 7736795544702538777
+    second: LOOKBACKTUTO_4
+  - first:
+      213: -1755618980903999773
+    second: LOOKBACKTUTO_5
+  - first:
+      213: 93414384396374035
+    second: LOOKBACKTUTO_6
+  - first:
+      213: 4320274331896193564
+    second: LOOKBACKTUTO_7
+  - first:
+      213: 318350396918122254
+    second: LOOKBACKTUTO_8
+  - first:
+      213: -6262809245294622099
+    second: LOOKBACKTUTO_9
+  - first:
+      213: 999662183462450186
+    second: LOOKBACKTUTO_10
+  - first:
+      213: -5847820544593382659
+    second: LOOKBACKTUTO_11
+  - first:
+      213: -7339431203364608270
+    second: LOOKBACKTUTO_12
+  - first:
+      213: 6753573734561681230
+    second: LOOKBACKTUTO_13
+  - first:
+      213: -3580987695677457237
+    second: LOOKBACKTUTO_14
+  - first:
+      213: -136153317354950284
+    second: LOOKBACKTUTO_15
+  - first:
+      213: -6371522761668945108
+    second: LOOKBACKTUTO_16
+  - first:
+      213: -3320814786341221273
+    second: LOOKBACKTUTO_17
+  - first:
+      213: 1146599746681526833
+    second: LOOKBACKTUTO_18
+  - first:
+      213: 8657336880973661213
+    second: LOOKBACKTUTO_19
+  - first:
+      213: 965783119660642820
+    second: LOOKBACKTUTO_20
+  - first:
+      213: -8201207417777904193
+    second: LOOKBACKTUTO_21
+  - first:
+      213: -8602229929484273091
+    second: LOOKBACKTUTO_22
+  - first:
+      213: 8058018224743574920
+    second: LOOKBACKTUTO_23
+  - first:
+      213: 114932284807371020
+    second: LOOKBACKTUTO_24
+  - first:
+      213: 2296959761073773808
+    second: LOOKBACKTUTO_25
+  - first:
+      213: -8783647665548452029
+    second: LOOKBACKTUTO_26
+  - first:
+      213: -3764898998970907434
+    second: LOOKBACKTUTO_27
+  - first:
+      213: 8632154887516786873
+    second: LOOKBACKTUTO_28
+  - first:
+      213: -7715605681873639478
+    second: LOOKBACKTUTO_29
+  - first:
+      213: -4002228746901500283
+    second: LOOKBACKTUTO_30
+  - first:
+      213: 4861311242355805373
+    second: LOOKBACKTUTO_31
+  - first:
+      213: -2049779824746670184
+    second: LOOKBACKTUTO_32
+  - first:
+      213: 6773940700637815022
+    second: LOOKBACKTUTO_33
+  - first:
+      213: -1168086523839725679
+    second: LOOKBACKTUTO_34
+  - first:
+      213: 9194361985371670044
+    second: LOOKBACKTUTO_35
+  - first:
+      213: -7808342671428624683
+    second: LOOKBACKTUTO_36
+  - first:
+      213: 6778174827332413496
+    second: LOOKBACKTUTO_37
+  - first:
+      213: -6870199429620254120
+    second: LOOKBACKTUTO_38
+  - first:
+      213: -3340196502777563231
+    second: LOOKBACKTUTO_39
+  - first:
+      213: 5140347960204083602
+    second: LOOKBACKTUTO_40
+  - first:
+      213: 2468950105274651171
+    second: LOOKBACKTUTO_41
+  - first:
+      213: -1683031130135034756
+    second: LOOKBACKTUTO_42
+  - first:
+      213: 4744898180834081183
+    second: LOOKBACKTUTO_43
+  - first:
+      213: -8133641443819805636
+    second: LOOKBACKTUTO_44
+  - first:
+      213: 1155783773129883809
+    second: LOOKBACKTUTO_45
+  - first:
+      213: 5800906998265072307
+    second: LOOKBACKTUTO_46
+  - first:
+      213: 1743819782570841550
+    second: LOOKBACKTUTO_47
+  - first:
+      213: 1920210541028344338
+    second: LOOKBACKTUTO_48
+  - first:
+      213: 2238924916773470670
+    second: LOOKBACKTUTO_49
+  - first:
+      213: 2776066319039280323
+    second: LOOKBACKTUTO_50
+  - first:
+      213: 5504973207667982623
+    second: LOOKBACKTUTO_51
+  - first:
+      213: 3585498783357953825
+    second: LOOKBACKTUTO_52
+  - first:
+      213: 6108808030348164077
+    second: LOOKBACKTUTO_53
+  - first:
+      213: 2640356240210505679
+    second: LOOKBACKTUTO_54
+  - first:
+      213: 4044202170663507679
+    second: LOOKBACKTUTO_55
+  - first:
+      213: 8162196815728007437
+    second: LOOKBACKTUTO_56
+  - first:
+      213: -6540846448108162320
+    second: LOOKBACKTUTO_57
+  - first:
+      213: -2277418305394774807
+    second: LOOKBACKTUTO_58
+  - first:
+      213: -4130215076317308230
+    second: LOOKBACKTUTO_59
+  - first:
+      213: -8725007639092227187
+    second: LOOKBACKTUTO_60
+  - first:
+      213: -1883356513622063038
+    second: LOOKBACKTUTO_61
+  - first:
+      213: 4912884264756867906
+    second: LOOKBACKTUTO_62
+  - first:
+      213: -3636732038634262822
+    second: LOOKBACKTUTO_63
+  - first:
+      213: 4279463151581881246
+    second: LOOKBACKTUTO_64
+  - first:
+      213: -628099145862586759
+    second: LOOKBACKTUTO_65
+  - first:
+      213: 2740042596136153175
+    second: LOOKBACKTUTO_66
+  - first:
+      213: 4006552476536697292
+    second: LOOKBACKTUTO_67
+  - first:
+      213: 6899140551403474784
+    second: LOOKBACKTUTO_68
+  - first:
+      213: -2336943948234215983
+    second: LOOKBACKTUTO_69
+  - first:
+      213: -7532512579941772807
+    second: LOOKBACKTUTO_70
+  - first:
+      213: 8096798770025150625
+    second: LOOKBACKTUTO_71
+  - first:
+      213: -7333734525932635867
+    second: LOOKBACKTUTO_72
+  - first:
+      213: -6432538751824413994
+    second: LOOKBACKTUTO_73
+  - first:
+      213: -3464590966381822425
+    second: LOOKBACKTUTO_74
+  - first:
+      213: -787450070634901945
+    second: LOOKBACKTUTO_75
+  - first:
+      213: -6756752857420772877
+    second: LOOKBACKTUTO_76
+  - first:
+      213: -4000807224527587227
+    second: LOOKBACKTUTO_77
+  - first:
+      213: 6941284471134384134
+    second: LOOKBACKTUTO_78
+  - first:
+      213: 3796144921392708114
+    second: LOOKBACKTUTO_79
+  - first:
+      213: 1498629026835282132
+    second: LOOKBACKTUTO_80
+  - first:
+      213: -1338995397116172950
+    second: LOOKBACKTUTO_81
+  - first:
+      213: -3058008278982538691
+    second: LOOKBACKTUTO_82
+  - first:
+      213: -3907087050821125989
+    second: LOOKBACKTUTO_83
+  - first:
+      213: -5052174965208610138
+    second: LOOKBACKTUTO_84
+  - first:
+      213: 6233797227971474727
+    second: LOOKBACKTUTO_85
+  - first:
+      213: 8445982454879208734
+    second: LOOKBACKTUTO_86
+  - first:
+      213: 9049036245317160560
+    second: LOOKBACKTUTO_87
+  - first:
+      213: -5521480037616676609
+    second: LOOKBACKTUTO_88
+  - first:
+      213: -4251263595466954790
+    second: LOOKBACKTUTO_89
+  - first:
+      213: 4402479963143809958
+    second: LOOKBACKTUTO_90
+  - first:
+      213: -3369919031504303432
+    second: LOOKBACKTUTO_91
+  - first:
+      213: 4783150130974616377
+    second: LOOKBACKTUTO_92
+  - first:
+      213: -8486099607149991893
+    second: LOOKBACKTUTO_93
+  - first:
+      213: 8624312956670752103
+    second: LOOKBACKTUTO_94
+  - first:
+      213: -8489448600314822477
+    second: LOOKBACKTUTO_95
+  - first:
+      213: 5074286355428439660
+    second: LOOKBACKTUTO_96
+  - first:
+      213: -7222956315991495711
+    second: LOOKBACKTUTO_97
+  - first:
+      213: 7633758369766585077
+    second: LOOKBACKTUTO_98
+  - first:
+      213: 6177633513406484070
+    second: LOOKBACKTUTO_99
+  - first:
+      213: 1717713654014975390
+    second: LOOKBACKTUTO_100
+  - first:
+      213: -5847741530810503895
+    second: LOOKBACKTUTO_101
+  - first:
+      213: -2997271585791304232
+    second: LOOKBACKTUTO_102
+  - first:
+      213: 7883787189756745751
+    second: LOOKBACKTUTO_103
+  - first:
+      213: -6334834816671838646
+    second: LOOKBACKTUTO_104
+  - first:
+      213: 5383122610319260354
+    second: LOOKBACKTUTO_105
+  - first:
+      213: -7566863567542058706
+    second: LOOKBACKTUTO_106
+  - first:
+      213: 7569347750528345260
+    second: LOOKBACKTUTO_107
+  - first:
+      213: 3012066512483360468
+    second: LOOKBACKTUTO_108
+  - first:
+      213: -5121399357333226667
+    second: LOOKBACKTUTO_109
+  - first:
+      213: 7461333963441461061
+    second: LOOKBACKTUTO_110
+  - first:
+      213: -3848826045567548008
+    second: LOOKBACKTUTO_111
+  - first:
+      213: -8226679699423226774
+    second: LOOKBACKTUTO_112
+  - first:
+      213: -4930132328659113068
+    second: LOOKBACKTUTO_113
+  - first:
+      213: 1844031616133421569
+    second: LOOKBACKTUTO_114
+  - first:
+      213: 4580994366524954439
+    second: LOOKBACKTUTO_115
+  - first:
+      213: -6633510783196057738
+    second: LOOKBACKTUTO_116
+  - first:
+      213: -1703835590382986372
+    second: LOOKBACKTUTO_117
+  - first:
+      213: -8870711157355456986
+    second: LOOKBACKTUTO_118
+  - first:
+      213: -1276853470995144530
+    second: LOOKBACKTUTO_119
+  - first:
+      213: 1058329719176710782
+    second: LOOKBACKTUTO_120
+  - first:
+      213: -5507301658168378111
+    second: LOOKBACKTUTO_121
+  - first:
+      213: 7206449185498151183
+    second: LOOKBACKTUTO_122
+  - first:
+      213: 3543953043831396304
+    second: LOOKBACKTUTO_123
+  - first:
+      213: -240620653819407279
+    second: LOOKBACKTUTO_124
+  - first:
+      213: 7768359267386560604
+    second: LOOKBACKTUTO_125
+  - first:
+      213: 6086740830117197190
+    second: LOOKBACKTUTO_126
+  - first:
+      213: -8912322417564212556
+    second: LOOKBACKTUTO_127
+  - first:
+      213: 5184294023562970709
+    second: LOOKBACKTUTO_128
+  - first:
+      213: 5292352166067027735
+    second: LOOKBACKTUTO_129
+  - first:
+      213: -7805161894536860924
+    second: LOOKBACKTUTO_130
+  - first:
+      213: -8696251992646977351
+    second: LOOKBACKTUTO_131
+  - first:
+      213: -485932564766467751
+    second: LOOKBACKTUTO_132
+  - first:
+      213: -7889978959526164028
+    second: LOOKBACKTUTO_133
+  - first:
+      213: -974129396975434932
+    second: LOOKBACKTUTO_134
+  - first:
+      213: 8324010845156036219
+    second: LOOKBACKTUTO_135
+  - first:
+      213: -7961027122647014427
+    second: LOOKBACKTUTO_136
+  - first:
+      213: -7743280203534556247
+    second: LOOKBACKTUTO_137
+  - first:
+      213: 237462259123696242
+    second: LOOKBACKTUTO_138
+  - first:
+      213: 2389175901304503840
+    second: LOOKBACKTUTO_139
+  - first:
+      213: 6444714578235872364
+    second: LOOKBACKTUTO_140
+  - first:
+      213: -5621691400271136160
+    second: LOOKBACKTUTO_141
+  - first:
+      213: 8291164895398144009
+    second: LOOKBACKTUTO_142
+  - first:
+      213: -4778679320816686592
+    second: LOOKBACKTUTO_143
+  - first:
+      213: -5247689695853677839
+    second: LOOKBACKTUTO_144
+  - first:
+      213: -1292745245406288233
+    second: LOOKBACKTUTO_145
+  - first:
+      213: -7049968032388874817
+    second: LOOKBACKTUTO_146
+  - first:
+      213: -5446925816278453021
+    second: LOOKBACKTUTO_147
+  - first:
+      213: -3596443942704044052
+    second: LOOKBACKTUTO_148
+  - first:
+      213: 4993727376534004075
+    second: LOOKBACKTUTO_149
+  - first:
+      213: 7256929774880595800
+    second: LOOKBACKTUTO_150
+  - first:
+      213: -9144957346325763493
+    second: LOOKBACKTUTO_151
+  - first:
+      213: -3641232437516427492
+    second: LOOKBACKTUTO_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1275
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be5e4fcd31254960800000000000000
+      internalID: 7585505696730209975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1183
+        width: 123
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ae409d8adfd53c0800000000000000
+      internalID: -4369057161842201987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1177
+        width: 116
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6193f64d80764410800000000000000
+      internalID: 1460978881211371886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_3
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1299
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82f35b782d1f4e0800000000000000
+      internalID: -1949545683371480914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1179
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914d1dd7e8e9e5b60800000000000000
+      internalID: 7736795544702538777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1304
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a84aa6d9c2a7e0800000000000000
+      internalID: -1755618980903999773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1179
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109bde33efdb4100800000000000000
+      internalID: 93414384396374035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1304
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1229e47d92b4fb30800000000000000
+      internalID: 4320274331896193564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_8
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1117
+        width: 1075
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c862dff10b6400800000000000000
+      internalID: 318350396918122254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1257
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a8e265c280619a0800000000000000
+      internalID: -6262809245294622099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1172
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04bbac95738fdd00800000000000000
+      internalID: 999662183462450186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1276
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b741a23e58dea0800000000000000
+      internalID: -5847820544593382659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1225
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e80ed43a152a90800000000000000
+      internalID: -7339431203364608270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1236
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f05f4978389bd50800000000000000
+      internalID: 6753573734561681230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1221
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacb916e9a6cd4ec0800000000000000
+      internalID: -3580987695677457237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1225
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471311c77494c1ef0800000000000000
+      internalID: -136153317354950284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1236
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b18685ecdc397a0800000000000000
+      internalID: -6371522761668945108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_17
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1221
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c4447db881ae1d0800000000000000
+      internalID: -3320814786341221273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1211
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a5188056a89ef00800000000000000
+      internalID: 1146599746681526833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_19
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1210
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c253560a052870800000000000000
+      internalID: 8657336880973661213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1186
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402f07161a6276d00800000000000000
+      internalID: 965783119660642820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ac0e2e457f2e80800000000000000
+      internalID: -8201207417777904193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1180
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a3bd8a47dbe9880800000000000000
+      internalID: -8602229929484273091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1179
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de677d1e4d3df60800000000000000
+      internalID: 8058018224743574920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1177
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09da29dd42589100800000000000000
+      internalID: 114932284807371020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1183
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc1b2e9bb070ef10800000000000000
+      internalID: 2296959761073773808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1186
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f9bc66cf63a1680800000000000000
+      internalID: -8783647665548452029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_27
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1178
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d48d17ce4460cbc0800000000000000
+      internalID: -3764898998970907434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1070
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0179492239bc770800000000000000
+      internalID: 8632154887516786873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1069
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7afe8e289ace490800000000000000
+      internalID: -7715605681873639478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 952
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e441fc82a3578c0800000000000000
+      internalID: -4002228746901500283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 945
+        width: 116
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0b3f81d8d67340800000000000000
+      internalID: 4861311242355805373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_32
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1067
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897563e0c18bd83e0800000000000000
+      internalID: -2049779824746670184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_33
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 947
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0e3176d2fd10e50800000000000000
+      internalID: 6773940700637815022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1072
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fbc9fce7f1acfe0800000000000000
+      internalID: -1168086523839725679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_35
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1065
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160f6a038fe89f70800000000000000
+      internalID: 9194361985371670044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_36
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1068
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded8f0f5b133a390800000000000000
+      internalID: -7808342671428624683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_37
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 947
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838a4a8d71ae01e50800000000000000
+      internalID: 6778174827332413496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_38
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1072
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ab465c40628a0a0800000000000000
+      internalID: -6870199429620254120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1070
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7f0f35afc35a1d0800000000000000
+      internalID: -3340196502777563231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_40
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1069
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2914edd2c3f265740800000000000000
+      internalID: 5140347960204083602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_41
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1070
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3221f092a09734220800000000000000
+      internalID: 2468950105274651171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_42
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1069
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74806eaa1ca4a8e0800000000000000
+      internalID: -1683031130135034756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_43
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 951
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99330481c349d140800000000000000
+      internalID: 4744898180834081183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_44
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1063
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34a9b263308f1f80800000000000000
+      internalID: -8133641443819805636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_45
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 945
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a04192d73b2a0010800000000000000
+      internalID: 1155783773129883809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_46
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1067
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bacaae2e26f08050800000000000000
+      internalID: 5800906998265072307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_47
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 948
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec51f646ada433810800000000000000
+      internalID: 1743819782570841550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_48
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 947
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21284f73055f5aa10800000000000000
+      internalID: 1920210541028344338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_49
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1056
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1cd077952421f10800000000000000
+      internalID: 2238924916773470670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_50
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 945
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c43343eb91968620800000000000000
+      internalID: 2776066319039280323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_51
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1067
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c71d37f7956c40800000000000000
+      internalID: 5504973207667982623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1032
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12765ac852042c130800000000000000
+      internalID: 3585498783357953825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 945
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb4f9a988d6c450800000000000000
+      internalID: 6108808030348164077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_54
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 940
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfab32e20e64a420800000000000000
+      internalID: 2640356240210505679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_55
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1044
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd613467274ef1830800000000000000
+      internalID: 4044202170663507679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_56
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 954
+        width: 8
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09da4c32c2f54170800000000000000
+      internalID: 8162196815728007437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_57
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 947
+        width: 61
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f233227fce3a35a0800000000000000
+      internalID: -6540846448108162320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_58
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1032
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ece8f51e1cf460e0800000000000000
+      internalID: -2277418305394774807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_59
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 945
+        width: 123
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abad42a55478ea6c0800000000000000
+      internalID: -4130215076317308230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_60
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1032
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83965187cb8ae680800000000000000
+      internalID: -8725007639092227187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_61
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 945
+        width: 123
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488324ba39fcd5e0800000000000000
+      internalID: -1883356513622063038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_62
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 977
+        width: 11
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243707f85321e2440800000000000000
+      internalID: 4912884264756867906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_63
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1021
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade2ce5aa7bb78dc0800000000000000
+      internalID: -3636732038634262822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_64
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1044
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9369631015b36b30800000000000000
+      internalID: 4279463151581881246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_65
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1023
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5227972b8847f0800000000000000
+      internalID: -628099145862586759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_66
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 940
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750722c4936960620800000000000000
+      internalID: 2740042596136153175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_67
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1044
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc17ee1ff322a9730800000000000000
+      internalID: 4006552476536697292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_68
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 993
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f85ed37cbaebf50800000000000000
+      internalID: 6899140551403474784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_69
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1004
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd20895cd1819fd0800000000000000
+      internalID: -2336943948234215983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_70
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 989
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d86ea7b3277790800000000000000
+      internalID: -7532512579941772807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_71
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 993
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a83b29259b9d5070800000000000000
+      internalID: 8096798770025150625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_72
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1004
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52974c0fd47593a90800000000000000
+      internalID: -7333734525932635867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_73
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 989
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da329516180bb6a0800000000000000
+      internalID: -6432538751824413994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_74
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 979
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eb8cc4fdc4befc0800000000000000
+      internalID: -3464590966381822425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_75
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 956
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e4375355a6215f0800000000000000
+      internalID: -787450070634901945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_76
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 979
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9445233113b32a0800000000000000
+      internalID: -6756752857420772877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_77
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 952
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5687737c6074a78c0800000000000000
+      internalID: -4000807224527587227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 949
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60076e23375645060800000000000000
+      internalID: 6941284471134384134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_79
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 943
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21af38371bd9ea430800000000000000
+      internalID: 3796144921392708114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_80
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 945
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83b9ae8233cc410800000000000000
+      internalID: 1498629026835282132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_81
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 951
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65e107d7ceea6de0800000000000000
+      internalID: -1338995397116172950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_82
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 954
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aca0b1ca5cf85d0800000000000000
+      internalID: -3058008278982538691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_83
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 946
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b983745270d37c9c0800000000000000
+      internalID: -3907087050821125989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_84
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 948
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa8e9ff2a113e9b0800000000000000
+      internalID: -5052174965208610138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_85
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 948
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725fd0ffc85e28650800000000000000
+      internalID: 6233797227971474727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_86
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 947
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c1424b48263570800000000000000
+      internalID: 8445982454879208734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_87
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 946
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e83c17582a49d70800000000000000
+      internalID: 9049036245317160560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_88
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 945
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0927be823cf53b0800000000000000
+      internalID: -5521480037616676609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_89
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 950
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad764a9b84a7005c0800000000000000
+      internalID: -4251263595466954790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_90
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 946
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab26fd7330c81d30800000000000000
+      internalID: 4402479963143809958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_91
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 945
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba8b55de74ab31d0800000000000000
+      internalID: -3369919031504303432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_92
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 927
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bea10b3b9216240800000000000000
+      internalID: 4783150130974616377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_93
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 747
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b282e3b5e515b3a80800000000000000
+      internalID: -8486099607149991893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_94
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 857
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765b826c0f6bfa770800000000000000
+      internalID: 8624312956670752103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 856
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b04c4f1a7b6f2a80800000000000000
+      internalID: -8489448600314822477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_96
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 858
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c667ce73e8c7b6640800000000000000
+      internalID: 5074286355428439660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 743
+        width: 117
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba92ddf77e2cb90800000000000000
+      internalID: -7222956315991495711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_98
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 747
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f23a1bbace80f960800000000000000
+      internalID: 7633758369766585077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_99
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 747
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e442f23fc5bb550800000000000000
+      internalID: 6177633513406484070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_100
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 740
+        width: 124
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d966da77b86d710800000000000000
+      internalID: 1717713654014975390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_101
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 742
+        width: 58
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dadb57f06a8dea0800000000000000
+      internalID: -5847741530810503895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_102
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 860
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd99897f5d8766d0800000000000000
+      internalID: -2997271585791304232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_103
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 863
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718d932dda6d86d60800000000000000
+      internalID: 7883787189756745751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_104
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 743
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e8f713c452618a0800000000000000
+      internalID: -6334834816671838646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_105
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 742
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caf37a3e71b4ba40800000000000000
+      internalID: 5383122610319260354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_106
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 851
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e218fc02da91df690800000000000000
+      internalID: -7566863567542058706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_107
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 735
+        width: 95
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4e4abcca9bb0960800000000000000
+      internalID: 7569347750528345260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_108
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 737
+        width: 123
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9b64d8820dc920800000000000000
+      internalID: 3012066512483360468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_109
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 743
+        width: 119
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b3d393b622de8b0800000000000000
+      internalID: -5121399357333226667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_110
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 864
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5475c7935bbfb8760800000000000000
+      internalID: 7461333963441461061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_111
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 740
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895ccaf7a19369ac0800000000000000
+      internalID: -3848826045567548008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_112
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 741
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6416f27666f4dd80800000000000000
+      internalID: -8226679699423226774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_113
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 834
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49baa9e94c6a49bb0800000000000000
+      internalID: -4930132328659113068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_114
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 749
+        width: 8
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ad83a1cf0579910800000000000000
+      internalID: 1844031616133421569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_115
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 836
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74719ceea16f29f30800000000000000
+      internalID: 4580994366524954439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_116
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 830
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f20e9a61901f3a0800000000000000
+      internalID: -6633510783196057738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_117
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 850
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bdd8fce82ca58e0800000000000000
+      internalID: -1703835590382986372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_118
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 834
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626dbb09337e4e480800000000000000
+      internalID: -8870711157355456986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_119
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 781
+        width: 7
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea02c1f7884b74ee0800000000000000
+      internalID: -1276853470995144530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_120
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 828
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a44c6b541ffae00800000000000000
+      internalID: 1058329719176710782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_121
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 819
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d34f122522293b0800000000000000
+      internalID: -5507301658168378111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_122
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 781
+        width: 7
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0935815a53720460800000000000000
+      internalID: 7206449185498151183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_123
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 828
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71c364486ae2130800000000000000
+      internalID: 3543953043831396304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_124
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 747
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154d87b4ac429acf0800000000000000
+      internalID: -240620653819407279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_125
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 751
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50903c5891cecb60800000000000000
+      internalID: 7768359267386560604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_126
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 743
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685700b3982787450800000000000000
+      internalID: 6086740830117197190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_127
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 765
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2a5511bf1115480800000000000000
+      internalID: -8912322417564212556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_128
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 745
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556c6a562ff42f740800000000000000
+      internalID: 5184294023562970709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_129
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 771
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fb1b44146327940800000000000000
+      internalID: 5292352166067027735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_130
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 757
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b27b54c9e7ea390800000000000000
+      internalID: -7805161894536860924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_131
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 761
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b87efc23e4b05780800000000000000
+      internalID: -8696251992646977351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_132
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 747
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959dc4c28ee9149f0800000000000000
+      internalID: -485932564766467751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_133
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 729
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9032070f9218290800000000000000
+      internalID: -7889978959526164028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_134
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 744
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43830089723b72f0800000000000000
+      internalID: -974129396975434932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_135
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 738
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e460cd2c3d48370800000000000000
+      internalID: 8324010845156036219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 746
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3ef53e200c48190800000000000000
+      internalID: -7961027122647014427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_137
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 744
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a322083ea75a8490800000000000000
+      internalID: -7743280203534556247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_138
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 738
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27231a2aaa2ab4300800000000000000
+      internalID: 237462259123696242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_139
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 744
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ebd27e2de082120800000000000000
+      internalID: 2389175901304503840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_140
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 738
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d78a63c9307950800000000000000
+      internalID: 6444714578235872364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_141
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 744
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a78f9d47dbbf1b0800000000000000
+      internalID: -5621691400271136160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_142
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 745
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908256c3b82201370800000000000000
+      internalID: 8291164895398144009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_143
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 742
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a673be978beadb0800000000000000
+      internalID: -4778679320816686592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_144
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 750
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2f92b66067c27b0800000000000000
+      internalID: -5247689695853677839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_145
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 747
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796ab7e6c0f3f0ee0800000000000000
+      internalID: -1292745245406288233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_146
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 744
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdf9974d6b792e90800000000000000
+      internalID: -7049968032388874817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_147
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 740
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e471d244d1a864b0800000000000000
+      internalID: -5446925816278453021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_148
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 741
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce72584f94dd61ec0800000000000000
+      internalID: -3596443942704044052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_149
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 740
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e37f47984d4540800000000000000
+      internalID: 4993727376534004075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_150
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 740
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f96bf6e2bc5b460800000000000000
+      internalID: 7256929774880595800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_151
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 734
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a672edeb5961180800000000000000
+      internalID: -9144957346325763493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOOKBACKTUTO_152
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 728
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f1431e36eb77dc0800000000000000
+      internalID: -3641232437516427492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LOOKBACKTUTO_0: 7585505696730209975
+      LOOKBACKTUTO_1: -4369057161842201987
+      LOOKBACKTUTO_10: 999662183462450186
+      LOOKBACKTUTO_100: 1717713654014975390
+      LOOKBACKTUTO_101: -5847741530810503895
+      LOOKBACKTUTO_102: -2997271585791304232
+      LOOKBACKTUTO_103: 7883787189756745751
+      LOOKBACKTUTO_104: -6334834816671838646
+      LOOKBACKTUTO_105: 5383122610319260354
+      LOOKBACKTUTO_106: -7566863567542058706
+      LOOKBACKTUTO_107: 7569347750528345260
+      LOOKBACKTUTO_108: 3012066512483360468
+      LOOKBACKTUTO_109: -5121399357333226667
+      LOOKBACKTUTO_11: -5847820544593382659
+      LOOKBACKTUTO_110: 7461333963441461061
+      LOOKBACKTUTO_111: -3848826045567548008
+      LOOKBACKTUTO_112: -8226679699423226774
+      LOOKBACKTUTO_113: -4930132328659113068
+      LOOKBACKTUTO_114: 1844031616133421569
+      LOOKBACKTUTO_115: 4580994366524954439
+      LOOKBACKTUTO_116: -6633510783196057738
+      LOOKBACKTUTO_117: -1703835590382986372
+      LOOKBACKTUTO_118: -8870711157355456986
+      LOOKBACKTUTO_119: -1276853470995144530
+      LOOKBACKTUTO_12: -7339431203364608270
+      LOOKBACKTUTO_120: 1058329719176710782
+      LOOKBACKTUTO_121: -5507301658168378111
+      LOOKBACKTUTO_122: 7206449185498151183
+      LOOKBACKTUTO_123: 3543953043831396304
+      LOOKBACKTUTO_124: -240620653819407279
+      LOOKBACKTUTO_125: 7768359267386560604
+      LOOKBACKTUTO_126: 6086740830117197190
+      LOOKBACKTUTO_127: -8912322417564212556
+      LOOKBACKTUTO_128: 5184294023562970709
+      LOOKBACKTUTO_129: 5292352166067027735
+      LOOKBACKTUTO_13: 6753573734561681230
+      LOOKBACKTUTO_130: -7805161894536860924
+      LOOKBACKTUTO_131: -8696251992646977351
+      LOOKBACKTUTO_132: -485932564766467751
+      LOOKBACKTUTO_133: -7889978959526164028
+      LOOKBACKTUTO_134: -974129396975434932
+      LOOKBACKTUTO_135: 8324010845156036219
+      LOOKBACKTUTO_136: -7961027122647014427
+      LOOKBACKTUTO_137: -7743280203534556247
+      LOOKBACKTUTO_138: 237462259123696242
+      LOOKBACKTUTO_139: 2389175901304503840
+      LOOKBACKTUTO_14: -3580987695677457237
+      LOOKBACKTUTO_140: 6444714578235872364
+      LOOKBACKTUTO_141: -5621691400271136160
+      LOOKBACKTUTO_142: 8291164895398144009
+      LOOKBACKTUTO_143: -4778679320816686592
+      LOOKBACKTUTO_144: -5247689695853677839
+      LOOKBACKTUTO_145: -1292745245406288233
+      LOOKBACKTUTO_146: -7049968032388874817
+      LOOKBACKTUTO_147: -5446925816278453021
+      LOOKBACKTUTO_148: -3596443942704044052
+      LOOKBACKTUTO_149: 4993727376534004075
+      LOOKBACKTUTO_15: -136153317354950284
+      LOOKBACKTUTO_150: 7256929774880595800
+      LOOKBACKTUTO_151: -9144957346325763493
+      LOOKBACKTUTO_152: -3641232437516427492
+      LOOKBACKTUTO_16: -6371522761668945108
+      LOOKBACKTUTO_17: -3320814786341221273
+      LOOKBACKTUTO_18: 1146599746681526833
+      LOOKBACKTUTO_19: 8657336880973661213
+      LOOKBACKTUTO_2: 1460978881211371886
+      LOOKBACKTUTO_20: 965783119660642820
+      LOOKBACKTUTO_21: -8201207417777904193
+      LOOKBACKTUTO_22: -8602229929484273091
+      LOOKBACKTUTO_23: 8058018224743574920
+      LOOKBACKTUTO_24: 114932284807371020
+      LOOKBACKTUTO_25: 2296959761073773808
+      LOOKBACKTUTO_26: -8783647665548452029
+      LOOKBACKTUTO_27: -3764898998970907434
+      LOOKBACKTUTO_28: 8632154887516786873
+      LOOKBACKTUTO_29: -7715605681873639478
+      LOOKBACKTUTO_3: -1949545683371480914
+      LOOKBACKTUTO_30: -4002228746901500283
+      LOOKBACKTUTO_31: 4861311242355805373
+      LOOKBACKTUTO_32: -2049779824746670184
+      LOOKBACKTUTO_33: 6773940700637815022
+      LOOKBACKTUTO_34: -1168086523839725679
+      LOOKBACKTUTO_35: 9194361985371670044
+      LOOKBACKTUTO_36: -7808342671428624683
+      LOOKBACKTUTO_37: 6778174827332413496
+      LOOKBACKTUTO_38: -6870199429620254120
+      LOOKBACKTUTO_39: -3340196502777563231
+      LOOKBACKTUTO_4: 7736795544702538777
+      LOOKBACKTUTO_40: 5140347960204083602
+      LOOKBACKTUTO_41: 2468950105274651171
+      LOOKBACKTUTO_42: -1683031130135034756
+      LOOKBACKTUTO_43: 4744898180834081183
+      LOOKBACKTUTO_44: -8133641443819805636
+      LOOKBACKTUTO_45: 1155783773129883809
+      LOOKBACKTUTO_46: 5800906998265072307
+      LOOKBACKTUTO_47: 1743819782570841550
+      LOOKBACKTUTO_48: 1920210541028344338
+      LOOKBACKTUTO_49: 2238924916773470670
+      LOOKBACKTUTO_5: -1755618980903999773
+      LOOKBACKTUTO_50: 2776066319039280323
+      LOOKBACKTUTO_51: 5504973207667982623
+      LOOKBACKTUTO_52: 3585498783357953825
+      LOOKBACKTUTO_53: 6108808030348164077
+      LOOKBACKTUTO_54: 2640356240210505679
+      LOOKBACKTUTO_55: 4044202170663507679
+      LOOKBACKTUTO_56: 8162196815728007437
+      LOOKBACKTUTO_57: -6540846448108162320
+      LOOKBACKTUTO_58: -2277418305394774807
+      LOOKBACKTUTO_59: -4130215076317308230
+      LOOKBACKTUTO_6: 93414384396374035
+      LOOKBACKTUTO_60: -8725007639092227187
+      LOOKBACKTUTO_61: -1883356513622063038
+      LOOKBACKTUTO_62: 4912884264756867906
+      LOOKBACKTUTO_63: -3636732038634262822
+      LOOKBACKTUTO_64: 4279463151581881246
+      LOOKBACKTUTO_65: -628099145862586759
+      LOOKBACKTUTO_66: 2740042596136153175
+      LOOKBACKTUTO_67: 4006552476536697292
+      LOOKBACKTUTO_68: 6899140551403474784
+      LOOKBACKTUTO_69: -2336943948234215983
+      LOOKBACKTUTO_7: 4320274331896193564
+      LOOKBACKTUTO_70: -7532512579941772807
+      LOOKBACKTUTO_71: 8096798770025150625
+      LOOKBACKTUTO_72: -7333734525932635867
+      LOOKBACKTUTO_73: -6432538751824413994
+      LOOKBACKTUTO_74: -3464590966381822425
+      LOOKBACKTUTO_75: -787450070634901945
+      LOOKBACKTUTO_76: -6756752857420772877
+      LOOKBACKTUTO_77: -4000807224527587227
+      LOOKBACKTUTO_78: 6941284471134384134
+      LOOKBACKTUTO_79: 3796144921392708114
+      LOOKBACKTUTO_8: 318350396918122254
+      LOOKBACKTUTO_80: 1498629026835282132
+      LOOKBACKTUTO_81: -1338995397116172950
+      LOOKBACKTUTO_82: -3058008278982538691
+      LOOKBACKTUTO_83: -3907087050821125989
+      LOOKBACKTUTO_84: -5052174965208610138
+      LOOKBACKTUTO_85: 6233797227971474727
+      LOOKBACKTUTO_86: 8445982454879208734
+      LOOKBACKTUTO_87: 9049036245317160560
+      LOOKBACKTUTO_88: -5521480037616676609
+      LOOKBACKTUTO_89: -4251263595466954790
+      LOOKBACKTUTO_9: -6262809245294622099
+      LOOKBACKTUTO_90: 4402479963143809958
+      LOOKBACKTUTO_91: -3369919031504303432
+      LOOKBACKTUTO_92: 4783150130974616377
+      LOOKBACKTUTO_93: -8486099607149991893
+      LOOKBACKTUTO_94: 8624312956670752103
+      LOOKBACKTUTO_95: -8489448600314822477
+      LOOKBACKTUTO_96: 5074286355428439660
+      LOOKBACKTUTO_97: -7222956315991495711
+      LOOKBACKTUTO_98: 7633758369766585077
+      LOOKBACKTUTO_99: 6177633513406484070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,7 +10,7 @@ public class MainMenu : MonoBehaviour
     // START GAME
     public void StartGame()
     {
-        SceneManager.LoadScene("Level1_Denial");
+        SceneManager.LoadScene("OpeningCutscene");
     }
 
     // SETTINGS PANEL

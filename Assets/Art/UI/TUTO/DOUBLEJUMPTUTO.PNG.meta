@@ -1,0 +1,4966 @@
+fileFormatVersion: 2
+guid: 8e62de0eda5767d42a70ce41e4c49824
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5269374041941823670
+    second: DOUBLEJUMPTUTO_0
+  - first:
+      213: -5241191158414396206
+    second: DOUBLEJUMPTUTO_1
+  - first:
+      213: 6364546582023297615
+    second: DOUBLEJUMPTUTO_2
+  - first:
+      213: -2637201117087788267
+    second: DOUBLEJUMPTUTO_3
+  - first:
+      213: -1435491194245952911
+    second: DOUBLEJUMPTUTO_4
+  - first:
+      213: 1534573488217508342
+    second: DOUBLEJUMPTUTO_5
+  - first:
+      213: -1865613115806502684
+    second: DOUBLEJUMPTUTO_6
+  - first:
+      213: -5565686276209697963
+    second: DOUBLEJUMPTUTO_7
+  - first:
+      213: -4194605399488082722
+    second: DOUBLEJUMPTUTO_8
+  - first:
+      213: -2148387497689226555
+    second: DOUBLEJUMPTUTO_9
+  - first:
+      213: 6071569330745786483
+    second: DOUBLEJUMPTUTO_10
+  - first:
+      213: -320333517893156930
+    second: DOUBLEJUMPTUTO_11
+  - first:
+      213: -2501651884438369997
+    second: DOUBLEJUMPTUTO_12
+  - first:
+      213: 3109952368356760502
+    second: DOUBLEJUMPTUTO_13
+  - first:
+      213: -3296145500184106257
+    second: DOUBLEJUMPTUTO_14
+  - first:
+      213: -2590470245025498737
+    second: DOUBLEJUMPTUTO_15
+  - first:
+      213: -3568726687559315054
+    second: DOUBLEJUMPTUTO_16
+  - first:
+      213: 3546827255494842505
+    second: DOUBLEJUMPTUTO_17
+  - first:
+      213: -7468801826046064185
+    second: DOUBLEJUMPTUTO_18
+  - first:
+      213: -5255746775451460336
+    second: DOUBLEJUMPTUTO_19
+  - first:
+      213: -3279817922862367030
+    second: DOUBLEJUMPTUTO_20
+  - first:
+      213: -5889925481586208740
+    second: DOUBLEJUMPTUTO_21
+  - first:
+      213: -5617525841544163684
+    second: DOUBLEJUMPTUTO_22
+  - first:
+      213: 2506166374523484845
+    second: DOUBLEJUMPTUTO_23
+  - first:
+      213: -5401487268372221058
+    second: DOUBLEJUMPTUTO_24
+  - first:
+      213: -5881469216940724716
+    second: DOUBLEJUMPTUTO_25
+  - first:
+      213: 9088222895817551918
+    second: DOUBLEJUMPTUTO_26
+  - first:
+      213: 6613070298734490936
+    second: DOUBLEJUMPTUTO_27
+  - first:
+      213: -6998364317009863502
+    second: DOUBLEJUMPTUTO_28
+  - first:
+      213: 5927078468786541302
+    second: DOUBLEJUMPTUTO_29
+  - first:
+      213: -1332868204485850424
+    second: DOUBLEJUMPTUTO_30
+  - first:
+      213: 3558048166845251287
+    second: DOUBLEJUMPTUTO_31
+  - first:
+      213: -5907012357775585845
+    second: DOUBLEJUMPTUTO_32
+  - first:
+      213: 7064581480501156438
+    second: DOUBLEJUMPTUTO_33
+  - first:
+      213: -9021876451391928709
+    second: DOUBLEJUMPTUTO_34
+  - first:
+      213: 4901417253240746610
+    second: DOUBLEJUMPTUTO_35
+  - first:
+      213: 3614840881097750209
+    second: DOUBLEJUMPTUTO_36
+  - first:
+      213: 8989786408524603491
+    second: DOUBLEJUMPTUTO_37
+  - first:
+      213: 2709723751268528676
+    second: DOUBLEJUMPTUTO_38
+  - first:
+      213: 3150128971736832780
+    second: DOUBLEJUMPTUTO_39
+  - first:
+      213: 7796811696532696835
+    second: DOUBLEJUMPTUTO_40
+  - first:
+      213: 8896529892187906296
+    second: DOUBLEJUMPTUTO_41
+  - first:
+      213: -7392809072401300676
+    second: DOUBLEJUMPTUTO_42
+  - first:
+      213: -2380240163786106009
+    second: DOUBLEJUMPTUTO_43
+  - first:
+      213: 8337035120789658683
+    second: DOUBLEJUMPTUTO_44
+  - first:
+      213: 1753307429365473916
+    second: DOUBLEJUMPTUTO_45
+  - first:
+      213: 1359396666392926907
+    second: DOUBLEJUMPTUTO_46
+  - first:
+      213: 3833876273401736667
+    second: DOUBLEJUMPTUTO_47
+  - first:
+      213: -5846280414156946917
+    second: DOUBLEJUMPTUTO_48
+  - first:
+      213: 421004006555876824
+    second: DOUBLEJUMPTUTO_49
+  - first:
+      213: -7621078561342264738
+    second: DOUBLEJUMPTUTO_50
+  - first:
+      213: 4156246178360808812
+    second: DOUBLEJUMPTUTO_51
+  - first:
+      213: 1584610446448392824
+    second: DOUBLEJUMPTUTO_52
+  - first:
+      213: 7272771819052641857
+    second: DOUBLEJUMPTUTO_53
+  - first:
+      213: 8946976648398766998
+    second: DOUBLEJUMPTUTO_54
+  - first:
+      213: -3275919929909369915
+    second: DOUBLEJUMPTUTO_55
+  - first:
+      213: 8873540676385341968
+    second: DOUBLEJUMPTUTO_56
+  - first:
+      213: 3833454368236191623
+    second: DOUBLEJUMPTUTO_57
+  - first:
+      213: -39463150055327558
+    second: DOUBLEJUMPTUTO_58
+  - first:
+      213: 8112044060634843364
+    second: DOUBLEJUMPTUTO_59
+  - first:
+      213: -640259567899041714
+    second: DOUBLEJUMPTUTO_60
+  - first:
+      213: -9175157086386011408
+    second: DOUBLEJUMPTUTO_61
+  - first:
+      213: -8432755049558590366
+    second: DOUBLEJUMPTUTO_62
+  - first:
+      213: -4684923546529218786
+    second: DOUBLEJUMPTUTO_63
+  - first:
+      213: 8916030487823893231
+    second: DOUBLEJUMPTUTO_64
+  - first:
+      213: 5279379003012350573
+    second: DOUBLEJUMPTUTO_65
+  - first:
+      213: -1680231734450820085
+    second: DOUBLEJUMPTUTO_66
+  - first:
+      213: -2464002115148208789
+    second: DOUBLEJUMPTUTO_67
+  - first:
+      213: 3697293406560132399
+    second: DOUBLEJUMPTUTO_68
+  - first:
+      213: -8009580794428183702
+    second: DOUBLEJUMPTUTO_69
+  - first:
+      213: 1722122382449847938
+    second: DOUBLEJUMPTUTO_70
+  - first:
+      213: -7184885987217605136
+    second: DOUBLEJUMPTUTO_71
+  - first:
+      213: -4959542325462039845
+    second: DOUBLEJUMPTUTO_72
+  - first:
+      213: 4572331064570217731
+    second: DOUBLEJUMPTUTO_73
+  - first:
+      213: 2986872490849267551
+    second: DOUBLEJUMPTUTO_74
+  - first:
+      213: 1929192080988974908
+    second: DOUBLEJUMPTUTO_75
+  - first:
+      213: 7450943152184836658
+    second: DOUBLEJUMPTUTO_76
+  - first:
+      213: -373910517072441100
+    second: DOUBLEJUMPTUTO_77
+  - first:
+      213: 5667958425071344720
+    second: DOUBLEJUMPTUTO_78
+  - first:
+      213: -7944649530718324098
+    second: DOUBLEJUMPTUTO_79
+  - first:
+      213: -407369220897121727
+    second: DOUBLEJUMPTUTO_80
+  - first:
+      213: -6031582035207298868
+    second: DOUBLEJUMPTUTO_81
+  - first:
+      213: 8747987139667138578
+    second: DOUBLEJUMPTUTO_82
+  - first:
+      213: -737886867809110416
+    second: DOUBLEJUMPTUTO_83
+  - first:
+      213: 8799140813157788645
+    second: DOUBLEJUMPTUTO_84
+  - first:
+      213: 4603701810757530485
+    second: DOUBLEJUMPTUTO_85
+  - first:
+      213: -3712698788066487275
+    second: DOUBLEJUMPTUTO_86
+  - first:
+      213: 8838493024777658552
+    second: DOUBLEJUMPTUTO_87
+  - first:
+      213: -186442367016040336
+    second: DOUBLEJUMPTUTO_88
+  - first:
+      213: -8486723960216091087
+    second: DOUBLEJUMPTUTO_89
+  - first:
+      213: -7502545292784029609
+    second: DOUBLEJUMPTUTO_90
+  - first:
+      213: 5169694466181216675
+    second: DOUBLEJUMPTUTO_91
+  - first:
+      213: -3242671631751503560
+    second: DOUBLEJUMPTUTO_92
+  - first:
+      213: -7172104945173362950
+    second: DOUBLEJUMPTUTO_93
+  - first:
+      213: -8959291033810597588
+    second: DOUBLEJUMPTUTO_94
+  - first:
+      213: -6435299267406805270
+    second: DOUBLEJUMPTUTO_95
+  - first:
+      213: 966356662627504580
+    second: DOUBLEJUMPTUTO_96
+  - first:
+      213: 2118289495285514328
+    second: DOUBLEJUMPTUTO_97
+  - first:
+      213: 783245873312266637
+    second: DOUBLEJUMPTUTO_98
+  - first:
+      213: -5865892348768831473
+    second: DOUBLEJUMPTUTO_99
+  - first:
+      213: -7870265974151888799
+    second: DOUBLEJUMPTUTO_100
+  - first:
+      213: -3768032955455947862
+    second: DOUBLEJUMPTUTO_101
+  - first:
+      213: -7201917663128901581
+    second: DOUBLEJUMPTUTO_102
+  - first:
+      213: 2855195902526208501
+    second: DOUBLEJUMPTUTO_103
+  - first:
+      213: 928730032529610238
+    second: DOUBLEJUMPTUTO_104
+  - first:
+      213: 6200280242431890416
+    second: DOUBLEJUMPTUTO_105
+  - first:
+      213: 3314448064897223171
+    second: DOUBLEJUMPTUTO_106
+  - first:
+      213: -1064498141672156633
+    second: DOUBLEJUMPTUTO_107
+  - first:
+      213: 7853309196732558468
+    second: DOUBLEJUMPTUTO_108
+  - first:
+      213: -6483952153498594820
+    second: DOUBLEJUMPTUTO_109
+  - first:
+      213: -3426384819426678317
+    second: DOUBLEJUMPTUTO_110
+  - first:
+      213: -7678430776703498551
+    second: DOUBLEJUMPTUTO_111
+  - first:
+      213: 5009175890966364321
+    second: DOUBLEJUMPTUTO_112
+  - first:
+      213: -2081982162608376408
+    second: DOUBLEJUMPTUTO_113
+  - first:
+      213: -2242293390555511898
+    second: DOUBLEJUMPTUTO_114
+  - first:
+      213: 8998815402214810248
+    second: DOUBLEJUMPTUTO_115
+  - first:
+      213: -559717301688558901
+    second: DOUBLEJUMPTUTO_116
+  - first:
+      213: 7598162858953124172
+    second: DOUBLEJUMPTUTO_117
+  - first:
+      213: -3980192807322725274
+    second: DOUBLEJUMPTUTO_118
+  - first:
+      213: -304445968257625352
+    second: DOUBLEJUMPTUTO_119
+  - first:
+      213: -4456034701195545990
+    second: DOUBLEJUMPTUTO_120
+  - first:
+      213: -80118754411678257
+    second: DOUBLEJUMPTUTO_121
+  - first:
+      213: 966169697833292694
+    second: DOUBLEJUMPTUTO_122
+  - first:
+      213: 2266898560104701509
+    second: DOUBLEJUMPTUTO_123
+  - first:
+      213: -9090205138297259655
+    second: DOUBLEJUMPTUTO_124
+  - first:
+      213: -9155070313989982836
+    second: DOUBLEJUMPTUTO_125
+  - first:
+      213: -528399649493951530
+    second: DOUBLEJUMPTUTO_126
+  - first:
+      213: 872299567568293842
+    second: DOUBLEJUMPTUTO_127
+  - first:
+      213: -7065919349729752114
+    second: DOUBLEJUMPTUTO_128
+  - first:
+      213: 976826820429736269
+    second: DOUBLEJUMPTUTO_129
+  - first:
+      213: -3051355151181429161
+    second: DOUBLEJUMPTUTO_130
+  - first:
+      213: 526364726900590257
+    second: DOUBLEJUMPTUTO_131
+  - first:
+      213: 6509049977368700460
+    second: DOUBLEJUMPTUTO_132
+  - first:
+      213: 79758869357410307
+    second: DOUBLEJUMPTUTO_133
+  - first:
+      213: 1585659830330605099
+    second: DOUBLEJUMPTUTO_134
+  - first:
+      213: -9055156937228506973
+    second: DOUBLEJUMPTUTO_135
+  - first:
+      213: 2175893779576435938
+    second: DOUBLEJUMPTUTO_136
+  - first:
+      213: 3805519124473419573
+    second: DOUBLEJUMPTUTO_137
+  - first:
+      213: 6020103178949380332
+    second: DOUBLEJUMPTUTO_138
+  - first:
+      213: -3758107681834655153
+    second: DOUBLEJUMPTUTO_139
+  - first:
+      213: 2748121009573000124
+    second: DOUBLEJUMPTUTO_140
+  - first:
+      213: 1849726858518350020
+    second: DOUBLEJUMPTUTO_141
+  - first:
+      213: -1488981792872118646
+    second: DOUBLEJUMPTUTO_142
+  - first:
+      213: -9001661573078194591
+    second: DOUBLEJUMPTUTO_143
+  - first:
+      213: 1306784609984823076
+    second: DOUBLEJUMPTUTO_144
+  - first:
+      213: 5177295044270567727
+    second: DOUBLEJUMPTUTO_145
+  - first:
+      213: 2397080855670316975
+    second: DOUBLEJUMPTUTO_146
+  - first:
+      213: -3171207323468518662
+    second: DOUBLEJUMPTUTO_147
+  - first:
+      213: 7520075516810003536
+    second: DOUBLEJUMPTUTO_148
+  - first:
+      213: 1865010333497885380
+    second: DOUBLEJUMPTUTO_149
+  - first:
+      213: -8822131042565220067
+    second: DOUBLEJUMPTUTO_150
+  - first:
+      213: 394459069766848507
+    second: DOUBLEJUMPTUTO_151
+  - first:
+      213: -480304933213346217
+    second: DOUBLEJUMPTUTO_152
+  - first:
+      213: -6844748783083497024
+    second: DOUBLEJUMPTUTO_153
+  - first:
+      213: -1694193542127396019
+    second: DOUBLEJUMPTUTO_154
+  - first:
+      213: -4461245977049083713
+    second: DOUBLEJUMPTUTO_155
+  - first:
+      213: -7071438479092887512
+    second: DOUBLEJUMPTUTO_156
+  - first:
+      213: 3180810267453632515
+    second: DOUBLEJUMPTUTO_157
+  - first:
+      213: -3461391286540957396
+    second: DOUBLEJUMPTUTO_158
+  - first:
+      213: 8206060216605118496
+    second: DOUBLEJUMPTUTO_159
+  - first:
+      213: -2806498147049849750
+    second: DOUBLEJUMPTUTO_160
+  - first:
+      213: 7684267035215397821
+    second: DOUBLEJUMPTUTO_161
+  - first:
+      213: -2431332505520436298
+    second: DOUBLEJUMPTUTO_162
+  - first:
+      213: -3193974668174788542
+    second: DOUBLEJUMPTUTO_163
+  - first:
+      213: -8413573974420536977
+    second: DOUBLEJUMPTUTO_164
+  - first:
+      213: -3004834201126469391
+    second: DOUBLEJUMPTUTO_165
+  - first:
+      213: -9083859899374841739
+    second: DOUBLEJUMPTUTO_166
+  - first:
+      213: 6236921574663806227
+    second: DOUBLEJUMPTUTO_167
+  - first:
+      213: -2441161998153937346
+    second: DOUBLEJUMPTUTO_168
+  - first:
+      213: -5216158122984653401
+    second: DOUBLEJUMPTUTO_169
+  - first:
+      213: -4108780311460236423
+    second: DOUBLEJUMPTUTO_170
+  - first:
+      213: 7589792183154750053
+    second: DOUBLEJUMPTUTO_171
+  - first:
+      213: 5360744259352143911
+    second: DOUBLEJUMPTUTO_172
+  - first:
+      213: 7281614165685611248
+    second: DOUBLEJUMPTUTO_173
+  - first:
+      213: 1786657556294962559
+    second: DOUBLEJUMPTUTO_174
+  - first:
+      213: 6098626486400217569
+    second: DOUBLEJUMPTUTO_175
+  - first:
+      213: -5698219275862998545
+    second: DOUBLEJUMPTUTO_176
+  - first:
+      213: 1196497363787335521
+    second: DOUBLEJUMPTUTO_177
+  - first:
+      213: -6686242939288296331
+    second: DOUBLEJUMPTUTO_178
+  - first:
+      213: 4166048981896187420
+    second: DOUBLEJUMPTUTO_179
+  - first:
+      213: -6441600903219875331
+    second: DOUBLEJUMPTUTO_180
+  - first:
+      213: -453179445816978441
+    second: DOUBLEJUMPTUTO_181
+  - first:
+      213: 6546498805362339721
+    second: DOUBLEJUMPTUTO_182
+  - first:
+      213: 7713242008613362642
+    second: DOUBLEJUMPTUTO_183
+  - first:
+      213: -826075394367227664
+    second: DOUBLEJUMPTUTO_184
+  - first:
+      213: -2565528222965187904
+    second: DOUBLEJUMPTUTO_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_0
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1368
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05b96d5c3902940800000000000000
+      internalID: 5269374041941823670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_1
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1377
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4bac2196c8347b0800000000000000
+      internalID: -5241191158414396206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_2
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1377
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4adce14569635850800000000000000
+      internalID: 6364546582023297615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_3
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1382
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51318b67e87c66bd0800000000000000
+      internalID: -2637201117087788267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_4
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1372
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ac4c84d5c141ce0800000000000000
+      internalID: -1435491194245952911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1164
+        width: 131
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9cfeef476eb4510800000000000000
+      internalID: 1534573488217508342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_6
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1301
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e03b0071c20c16e0800000000000000
+      internalID: -1865613115806502684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_7
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1165
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b114fe1d5b2c2b0800000000000000
+      internalID: -5565686276209697963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_8
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1328
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc396fc94c9c5c0800000000000000
+      internalID: -4194605399488082722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_9
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1337
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e75814f46f22e0800000000000000
+      internalID: -2148387497689226555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_10
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1332
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3704244432c824450800000000000000
+      internalID: 6071569330745786483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_11
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1231
+        width: 19
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb358dc52fd8bf0800000000000000
+      internalID: -320333517893156930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_12
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1323
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3394d5c8dd8584dd0800000000000000
+      internalID: -2501651884438369997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1267
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb1a48a335c82b20800000000000000
+      internalID: 3109952368356760502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_14
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1285
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea268d912db142d0800000000000000
+      internalID: -3296145500184106257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_15
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1237
+        width: 22
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89390c790dcc0cd0800000000000000
+      internalID: -2590470245025498737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_16
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1323
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291129f4cf5597ec0800000000000000
+      internalID: -3568726687559315054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1160
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9889173d89cd83130800000000000000
+      internalID: 3546827255494842505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1293
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c94cb48f4c795890800000000000000
+      internalID: -7468801826046064185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_19
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1163
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d9fc36726df07b0800000000000000
+      internalID: -5255746775451460336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1299
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace34d3f9febb72d0800000000000000
+      internalID: -3279817922862367030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1163
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10588c0bf7c24ea0800000000000000
+      internalID: -5889925481586208740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_22
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1299
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ece22920a8a02b0800000000000000
+      internalID: -5617525841544163684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_23
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1291
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa30851a01b7c220800000000000000
+      internalID: 2506166374523484845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_24
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1292
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73f0ed92ff0a05b0800000000000000
+      internalID: -5401487268372221058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_25
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1168
+        width: 122
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e6ad698e2d06ea0800000000000000
+      internalID: -5881469216940724716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1163
+        width: 120
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f6c0829adf1e70800000000000000
+      internalID: 9088222895817551918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_27
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1296
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83571ce266856cb50800000000000000
+      internalID: 6613070298734490936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_28
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1266
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc9bdb8bb0d0ee90800000000000000
+      internalID: -6998364317009863502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_29
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1161
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f253efd676314250800000000000000
+      internalID: 5927078468786541302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_30
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1164
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca453b0e63b08de0800000000000000
+      internalID: -1332868204485850424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_31
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1160
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de7a86d4f9b06130800000000000000
+      internalID: 3558048166845251287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_32
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1293
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd81faae83160ea0800000000000000
+      internalID: -5907012357775585845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_33
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1264
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a13104d6f6a0260800000000000000
+      internalID: 7064581480501156438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1247
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76825bda2bdbc280800000000000000
+      internalID: -9021876451391928709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1154
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b263e505550440800000000000000
+      internalID: 4901417253240746610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_36
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1288
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6346d01ae7a2230800000000000000
+      internalID: 3614840881097750209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_37
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1268
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3606ebecb1322cc70800000000000000
+      internalID: 8989786408524603491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_38
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1156
+        width: 121
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422bcc1256fda9520800000000000000
+      internalID: 2709723751268528676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_39
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1269
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b5a051c9187bb20800000000000000
+      internalID: 3150128971736832780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_40
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1232
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f2170cde6d33c60800000000000000
+      internalID: 7796811696532696835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_41
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1286
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f021851dc2d67b70800000000000000
+      internalID: 8896529892187906296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_42
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1268
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c334c334157776990800000000000000
+      internalID: -7392809072401300676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_43
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1254
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b596d9e20b7fed0800000000000000
+      internalID: -2380240163786106009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_44
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1261
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c9f96554913b370800000000000000
+      internalID: 8337035120789658683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_45
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1182
+        width: 12
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72e16d41dff45810800000000000000
+      internalID: 1753307429365473916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_46
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1245
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba5331d01c8dd210800000000000000
+      internalID: 1359396666392926907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_47
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1259
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda8ec682aa43530800000000000000
+      internalID: 3833876273401736667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_48
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1184
+        width: 11
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b120ad030f6dddea0800000000000000
+      internalID: -5846280414156946917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_49
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1229
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd77c3d9e4b7d500800000000000000
+      internalID: 421004006555876824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_50
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1206
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a69d93d6d7c3690800000000000000
+      internalID: -7621078561342264738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_51
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1218
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c655544e0e3fda930800000000000000
+      internalID: 4156246178360808812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_52
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1213
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87afdef2ecaadf510800000000000000
+      internalID: 1584610446448392824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_53
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1225
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eaa17cf631ee460800000000000000
+      internalID: 7272771819052641857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_54
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1209
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693068dcbdb0a2c70800000000000000
+      internalID: 8946976648398766998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1213
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c321292e289982d0800000000000000
+      internalID: -3275919929909369915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_56
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1225
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0128deb2b36252b70800000000000000
+      internalID: 8873540676385341968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_57
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1209
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3369ff6a233530800000000000000
+      internalID: 3833454368236191623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_58
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1206
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8fb3f597cc37ff0800000000000000
+      internalID: -39463150055327558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_59
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1196
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8057cf715c39070800000000000000
+      internalID: 8112044060634843364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_60
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1204
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e402553b0575d17f0800000000000000
+      internalID: -640259567899041714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_61
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1211
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2cd83fd3b4ba080800000000000000
+      internalID: -9175157086386011408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1170
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cbd2906f5d8fa80800000000000000
+      internalID: -8432755049558590366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_63
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f33413bdecbfeb0800000000000000
+      internalID: -4684923546529218786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_64
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1182
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2cb415d7a1cbb70800000000000000
+      internalID: 8916030487823893231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_65
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1197
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62053d5b3f144940800000000000000
+      internalID: 5279379003012350573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_66
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1182
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c68b7c32e9ea8e0800000000000000
+      internalID: -1680231734450820085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_67
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1168
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65a7c0912b1ecdd0800000000000000
+      internalID: -2464002115148208789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_68
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1158
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d1960a3cc6f4330800000000000000
+      internalID: 3697293406560132399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_69
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1143
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b215c34b048d090800000000000000
+      internalID: -8009580794428183702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_70
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1157
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e2ca1ce2536e710800000000000000
+      internalID: 1722122382449847938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_71
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1166
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd763403482a4c90800000000000000
+      internalID: -7184885987217605136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_72
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1171
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd20252288a2c2bb0800000000000000
+      internalID: -4959542325462039845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_73
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1187
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3050133c0ee247f30800000000000000
+      internalID: 4572331064570217731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_74
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1170
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fe47e84b0837920800000000000000
+      internalID: 2986872490849267551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1164
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f28d2f9fdd5ca10800000000000000
+      internalID: 1929192080988974908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_76
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1163
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2324b93f151176760800000000000000
+      internalID: 7450943152184836658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_77
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1171
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f05d14ad5a9fcaf0800000000000000
+      internalID: -373910517072441100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_78
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1167
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c5f005822a8ae40800000000000000
+      internalID: 5667958425071344720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_79
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1161
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a7f88285feeb190800000000000000
+      internalID: -7944649530718324098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_80
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1164
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14adff71adbb85af0800000000000000
+      internalID: -407369220897121727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_81
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1165
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc067dd78148b4ca0800000000000000
+      internalID: -6031582035207298868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_82
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1159
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189b8764f7176970800000000000000
+      internalID: 8747987139667138578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_83
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076ffcf9dcf72c5f0800000000000000
+      internalID: -737886867809110416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_84
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1167
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb69e023f3dc1a70800000000000000
+      internalID: 8799140813157788645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_85
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1161
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573760ac762a3ef30800000000000000
+      internalID: 4603701810757530485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_86
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1136
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514164b7f18d97cc0800000000000000
+      internalID: -3712698788066487275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_87
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1137
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e3a3e392a8aa70800000000000000
+      internalID: 8838493024777658552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_88
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1160
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0780deea7af996df0800000000000000
+      internalID: -186442367016040336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_89
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1360684d589193a80800000000000000
+      internalID: -8486723960216091087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_90
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1155
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75034507eca91e790800000000000000
+      internalID: -7502545292784029609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_91
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1160
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9b80e0ab17eb740800000000000000
+      internalID: 5169694466181216675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_92
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1145
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8312732d457bff2d0800000000000000
+      internalID: -3242671631751503560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_93
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1133
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af68e134d80977c90800000000000000
+      internalID: -7172104945173362950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_94
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1130
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29806ae5443aa380800000000000000
+      internalID: -8959291033810597588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_95
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1132
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6c2e6796931b6a0800000000000000
+      internalID: -6435299267406805270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_96
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1138
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c19e32c340396d00800000000000000
+      internalID: 966356662627504580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_97
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1126
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8504fe1a21da56d10800000000000000
+      internalID: 2118289495285514328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_98
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1126
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d897192d8f5aeda00800000000000000
+      internalID: 783245873312266637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_99
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1086
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b3f4dcf9289ea0800000000000000
+      internalID: -5865892348768831473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_100
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1095
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16045d28bc237c290800000000000000
+      internalID: -7870265974151888799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_101
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1095
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab351cadf145bbc0800000000000000
+      internalID: -3768032955455947862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_102
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1100
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3382793fa06ad0c90800000000000000
+      internalID: -7201917663128901581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_103
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1090
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9b93ebb81bf9720800000000000000
+      internalID: 2855195902526208501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_104
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1019
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef51a214b0383ec00800000000000000
+      internalID: 928730032529610238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_105
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1055
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3960ea702db0650800000000000000
+      internalID: 6200280242431890416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_106
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1050
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a0eae44f84ffd20800000000000000
+      internalID: 3314448064897223171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_107
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 949
+        width: 19
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722519184942a31f0800000000000000
+      internalID: -1064498141672156633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_108
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1041
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c6d861b1f8cfc60800000000000000
+      internalID: 7853309196732558468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_109
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 912
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1561eaedf5406a0800000000000000
+      internalID: -6483952153498594820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_110
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1003
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9284619290370d0800000000000000
+      internalID: -3426384819426678317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_111
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 905
+        width: 171
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6492204ebb07590800000000000000
+      internalID: -7678430776703498551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_112
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 904
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0408edeea248540800000000000000
+      internalID: 5009175890966364321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_113
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1039
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5370101405b13e0800000000000000
+      internalID: -2081982162608376408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_114
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 911
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a38bbd9a06c1e0e0800000000000000
+      internalID: -2242293390555511898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_115
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 902
+        width: 124
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e3583ee632ec70800000000000000
+      internalID: 8998815402214810248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_116
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1034
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca9632641c7b38f0800000000000000
+      internalID: -559717301688558901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_117
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1034
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49a7790dd8127960800000000000000
+      internalID: 7598162858953124172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_118
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1038
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664d6fdcab383c8c0800000000000000
+      internalID: -3980192807322725274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_119
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1033
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f254b0410466cbf0800000000000000
+      internalID: -304445968257625352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_120
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1040
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72fc606c0cf822c0800000000000000
+      internalID: -4456034701195545990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_121
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 906
+        width: 120
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5f177da6c53eef0800000000000000
+      internalID: -80118754411678257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_122
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1039
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6939910a836886d00800000000000000
+      internalID: 966169697833292694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_123
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1009
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e92e8da34a57f10800000000000000
+      internalID: 2266898560104701509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_124
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 900
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9797c54b69a19d180800000000000000
+      internalID: -9090205138297259655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_125
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 906
+        width: 105
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8537e81e08a2f080800000000000000
+      internalID: -9155070313989982836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_126
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 898
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd870815fbaa8f0800000000000000
+      internalID: -528399649493951530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_127
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1032
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df82a6c5d70b1c00800000000000000
+      internalID: 872299567568293842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_128
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 990
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb8ccbc9cfc0fd90800000000000000
+      internalID: -7065919349729752114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_129
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 982
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49e9c651d26e8d00800000000000000
+      internalID: 976826820429736269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_130
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 998
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756c54228a867a5d0800000000000000
+      internalID: -3051355151181429161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_131
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1022
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b684392ee50e4700800000000000000
+      internalID: 526364726900590257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_132
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 961
+        width: 7
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26635ec77ac45a50800000000000000
+      internalID: 6509049977368700460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_133
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 902
+        width: 11
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3083cb3e44c5b1100800000000000000
+      internalID: 79758869357410307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_134
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 972
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e3679e635610610800000000000000
+      internalID: 1585659830330605099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_135
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 947
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a41bedbe955280800000000000000
+      internalID: -9055156937228506973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_136
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 979
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b2a83dd3523e10800000000000000
+      internalID: 2175893779576435938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_137
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 924
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53791303b7befc430800000000000000
+      internalID: 3805519124473419573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_138
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 936
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce84a7402f3bb8350800000000000000
+      internalID: 6020103178949380332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_139
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 900
+        width: 12
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42249489f488dbc0800000000000000
+      internalID: -3758107681834655153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_140
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 944
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3f26f7f79432620800000000000000
+      internalID: 2748121009573000124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_141
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 988
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c84c7d07cc8ba910800000000000000
+      internalID: 1849726858518350020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_142
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 967
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8645d6c2f2165be0800000000000000
+      internalID: -1488981792872118646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_143
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 985
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166e36cfd7ca31380800000000000000
+      internalID: -9001661573078194591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_144
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 950
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fb71cdda1a22210800000000000000
+      internalID: 1306784609984823076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_145
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 929
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21332b896279d740800000000000000
+      internalID: 5177295044270567727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_146
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 912
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5e148654244120800000000000000
+      internalID: 2397080855670316975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_147
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 921
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaaa87bdbb9df3d0800000000000000
+      internalID: -3171207323468518662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_148
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 949
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0548297e6dcac5860800000000000000
+      internalID: 7520075516810003536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 964
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2039e5409d1e910800000000000000
+      internalID: 1865010333497885380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_150
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 945
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1914f5fe8e719580800000000000000
+      internalID: -8822131042565220067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_151
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 922
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff42eb1f66697500800000000000000
+      internalID: 394459069766848507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_152
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 947
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75663ff353d9559f0800000000000000
+      internalID: -480304933213346217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_153
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 909
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9558f2f319201a0800000000000000
+      internalID: -6844748783083497024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 915
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b5cbc13f30d78e0800000000000000
+      internalID: -1694193542127396019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_155
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 907
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0595aab687612c0800000000000000
+      internalID: -4461245977049083713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_156
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 876
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d3aa5b243ddd90800000000000000
+      internalID: -7071438479092887512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_157
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 861
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3003d79e512842c20800000000000000
+      internalID: 3180810267453632515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_158
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 915
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c290811d6faa6ffc0800000000000000
+      internalID: -3461391286540957396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_159
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 875
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02096381a48c1e170800000000000000
+      internalID: 8206060216605118496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_160
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 923
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c3d420ec05d09d0800000000000000
+      internalID: -2806498147049849750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_161
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 907
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db30241d72004aa60800000000000000
+      internalID: 7684267035215397821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_162
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 911
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb089dc7fb224ed0800000000000000
+      internalID: -2431332505520436298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_163
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 892
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24878d136f8bca3d0800000000000000
+      internalID: -3193974668174788542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_164
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 909
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61413b1c0bfc3b80800000000000000
+      internalID: -8413573974420536977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_165
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 903
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f089e0e63fac46d0800000000000000
+      internalID: -3004834201126469391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_166
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 904
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570d854cc85afe180800000000000000
+      internalID: -9083859899374841739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_167
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 904
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5ec5a02ffd8650800000000000000
+      internalID: 6236921574663806227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_168
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 903
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e0ad4b8104f1ed0800000000000000
+      internalID: -2441161998153937346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_169
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 906
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad3b33d2db7c97b0800000000000000
+      internalID: -5216158122984653401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_170
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 909
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9733b43731eaaf6c0800000000000000
+      internalID: -4108780311460236423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_171
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 884
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b9f337cb545960800000000000000
+      internalID: 7589792183154750053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_172
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 908
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728266e5080356a40800000000000000
+      internalID: 5360744259352143911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_173
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 902
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa429018d7d0560800000000000000
+      internalID: 7281614165685611248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_174
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 904
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d8a32d49b7bc810800000000000000
+      internalID: 1786657556294962559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_175
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 902
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17cab3a7ca2a450800000000000000
+      internalID: 6098626486400217569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_176
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 891
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe107e152cbdbe0b0800000000000000
+      internalID: -5698219275862998545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 854
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1674c375300da9010800000000000000
+      internalID: 1196497363787335521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_178
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 851
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574e1c1d871b533a0800000000000000
+      internalID: -6686242939288296331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_179
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 850
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eccc2f977c0d930800000000000000
+      internalID: 4166048981896187420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_180
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 856
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df17eba8b16da96a0800000000000000
+      internalID: -6441600903219875331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_181
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 844
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31290f1bbf5b9f0800000000000000
+      internalID: -453179445816978441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_182
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 863
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f24288af5d9da50800000000000000
+      internalID: 6546498805362339721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_183
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 855
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db15068db0fa0b60800000000000000
+      internalID: 7713242008613362642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_184
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 848
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8fc093ec03984f0800000000000000
+      internalID: -826075394367227664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOUBLEJUMPTUTO_185
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 844
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cabbe88ca9656cd0800000000000000
+      internalID: -2565528222965187904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DOUBLEJUMPTUTO_0: 5269374041941823670
+      DOUBLEJUMPTUTO_1: -5241191158414396206
+      DOUBLEJUMPTUTO_10: 6071569330745786483
+      DOUBLEJUMPTUTO_100: -7870265974151888799
+      DOUBLEJUMPTUTO_101: -3768032955455947862
+      DOUBLEJUMPTUTO_102: -7201917663128901581
+      DOUBLEJUMPTUTO_103: 2855195902526208501
+      DOUBLEJUMPTUTO_104: 928730032529610238
+      DOUBLEJUMPTUTO_105: 6200280242431890416
+      DOUBLEJUMPTUTO_106: 3314448064897223171
+      DOUBLEJUMPTUTO_107: -1064498141672156633
+      DOUBLEJUMPTUTO_108: 7853309196732558468
+      DOUBLEJUMPTUTO_109: -6483952153498594820
+      DOUBLEJUMPTUTO_11: -320333517893156930
+      DOUBLEJUMPTUTO_110: -3426384819426678317
+      DOUBLEJUMPTUTO_111: -7678430776703498551
+      DOUBLEJUMPTUTO_112: 5009175890966364321
+      DOUBLEJUMPTUTO_113: -2081982162608376408
+      DOUBLEJUMPTUTO_114: -2242293390555511898
+      DOUBLEJUMPTUTO_115: 8998815402214810248
+      DOUBLEJUMPTUTO_116: -559717301688558901
+      DOUBLEJUMPTUTO_117: 7598162858953124172
+      DOUBLEJUMPTUTO_118: -3980192807322725274
+      DOUBLEJUMPTUTO_119: -304445968257625352
+      DOUBLEJUMPTUTO_12: -2501651884438369997
+      DOUBLEJUMPTUTO_120: -4456034701195545990
+      DOUBLEJUMPTUTO_121: -80118754411678257
+      DOUBLEJUMPTUTO_122: 966169697833292694
+      DOUBLEJUMPTUTO_123: 2266898560104701509
+      DOUBLEJUMPTUTO_124: -9090205138297259655
+      DOUBLEJUMPTUTO_125: -9155070313989982836
+      DOUBLEJUMPTUTO_126: -528399649493951530
+      DOUBLEJUMPTUTO_127: 872299567568293842
+      DOUBLEJUMPTUTO_128: -7065919349729752114
+      DOUBLEJUMPTUTO_129: 976826820429736269
+      DOUBLEJUMPTUTO_13: 3109952368356760502
+      DOUBLEJUMPTUTO_130: -3051355151181429161
+      DOUBLEJUMPTUTO_131: 526364726900590257
+      DOUBLEJUMPTUTO_132: 6509049977368700460
+      DOUBLEJUMPTUTO_133: 79758869357410307
+      DOUBLEJUMPTUTO_134: 1585659830330605099
+      DOUBLEJUMPTUTO_135: -9055156937228506973
+      DOUBLEJUMPTUTO_136: 2175893779576435938
+      DOUBLEJUMPTUTO_137: 3805519124473419573
+      DOUBLEJUMPTUTO_138: 6020103178949380332
+      DOUBLEJUMPTUTO_139: -3758107681834655153
+      DOUBLEJUMPTUTO_14: -3296145500184106257
+      DOUBLEJUMPTUTO_140: 2748121009573000124
+      DOUBLEJUMPTUTO_141: 1849726858518350020
+      DOUBLEJUMPTUTO_142: -1488981792872118646
+      DOUBLEJUMPTUTO_143: -9001661573078194591
+      DOUBLEJUMPTUTO_144: 1306784609984823076
+      DOUBLEJUMPTUTO_145: 5177295044270567727
+      DOUBLEJUMPTUTO_146: 2397080855670316975
+      DOUBLEJUMPTUTO_147: -3171207323468518662
+      DOUBLEJUMPTUTO_148: 7520075516810003536
+      DOUBLEJUMPTUTO_149: 1865010333497885380
+      DOUBLEJUMPTUTO_15: -2590470245025498737
+      DOUBLEJUMPTUTO_150: -8822131042565220067
+      DOUBLEJUMPTUTO_151: 394459069766848507
+      DOUBLEJUMPTUTO_152: -480304933213346217
+      DOUBLEJUMPTUTO_153: -6844748783083497024
+      DOUBLEJUMPTUTO_154: -1694193542127396019
+      DOUBLEJUMPTUTO_155: -4461245977049083713
+      DOUBLEJUMPTUTO_156: -7071438479092887512
+      DOUBLEJUMPTUTO_157: 3180810267453632515
+      DOUBLEJUMPTUTO_158: -3461391286540957396
+      DOUBLEJUMPTUTO_159: 8206060216605118496
+      DOUBLEJUMPTUTO_16: -3568726687559315054
+      DOUBLEJUMPTUTO_160: -2806498147049849750
+      DOUBLEJUMPTUTO_161: 7684267035215397821
+      DOUBLEJUMPTUTO_162: -2431332505520436298
+      DOUBLEJUMPTUTO_163: -3193974668174788542
+      DOUBLEJUMPTUTO_164: -8413573974420536977
+      DOUBLEJUMPTUTO_165: -3004834201126469391
+      DOUBLEJUMPTUTO_166: -9083859899374841739
+      DOUBLEJUMPTUTO_167: 6236921574663806227
+      DOUBLEJUMPTUTO_168: -2441161998153937346
+      DOUBLEJUMPTUTO_169: -5216158122984653401
+      DOUBLEJUMPTUTO_17: 3546827255494842505
+      DOUBLEJUMPTUTO_170: -4108780311460236423
+      DOUBLEJUMPTUTO_171: 7589792183154750053
+      DOUBLEJUMPTUTO_172: 5360744259352143911
+      DOUBLEJUMPTUTO_173: 7281614165685611248
+      DOUBLEJUMPTUTO_174: 1786657556294962559
+      DOUBLEJUMPTUTO_175: 6098626486400217569
+      DOUBLEJUMPTUTO_176: -5698219275862998545
+      DOUBLEJUMPTUTO_177: 1196497363787335521
+      DOUBLEJUMPTUTO_178: -6686242939288296331
+      DOUBLEJUMPTUTO_179: 4166048981896187420
+      DOUBLEJUMPTUTO_18: -7468801826046064185
+      DOUBLEJUMPTUTO_180: -6441600903219875331
+      DOUBLEJUMPTUTO_181: -453179445816978441
+      DOUBLEJUMPTUTO_182: 6546498805362339721
+      DOUBLEJUMPTUTO_183: 7713242008613362642
+      DOUBLEJUMPTUTO_184: -826075394367227664
+      DOUBLEJUMPTUTO_185: -2565528222965187904
+      DOUBLEJUMPTUTO_19: -5255746775451460336
+      DOUBLEJUMPTUTO_2: 6364546582023297615
+      DOUBLEJUMPTUTO_20: -3279817922862367030
+      DOUBLEJUMPTUTO_21: -5889925481586208740
+      DOUBLEJUMPTUTO_22: -5617525841544163684
+      DOUBLEJUMPTUTO_23: 2506166374523484845
+      DOUBLEJUMPTUTO_24: -5401487268372221058
+      DOUBLEJUMPTUTO_25: -5881469216940724716
+      DOUBLEJUMPTUTO_26: 9088222895817551918
+      DOUBLEJUMPTUTO_27: 6613070298734490936
+      DOUBLEJUMPTUTO_28: -6998364317009863502
+      DOUBLEJUMPTUTO_29: 5927078468786541302
+      DOUBLEJUMPTUTO_3: -2637201117087788267
+      DOUBLEJUMPTUTO_30: -1332868204485850424
+      DOUBLEJUMPTUTO_31: 3558048166845251287
+      DOUBLEJUMPTUTO_32: -5907012357775585845
+      DOUBLEJUMPTUTO_33: 7064581480501156438
+      DOUBLEJUMPTUTO_34: -9021876451391928709
+      DOUBLEJUMPTUTO_35: 4901417253240746610
+      DOUBLEJUMPTUTO_36: 3614840881097750209
+      DOUBLEJUMPTUTO_37: 8989786408524603491
+      DOUBLEJUMPTUTO_38: 2709723751268528676
+      DOUBLEJUMPTUTO_39: 3150128971736832780
+      DOUBLEJUMPTUTO_4: -1435491194245952911
+      DOUBLEJUMPTUTO_40: 7796811696532696835
+      DOUBLEJUMPTUTO_41: 8896529892187906296
+      DOUBLEJUMPTUTO_42: -7392809072401300676
+      DOUBLEJUMPTUTO_43: -2380240163786106009
+      DOUBLEJUMPTUTO_44: 8337035120789658683
+      DOUBLEJUMPTUTO_45: 1753307429365473916
+      DOUBLEJUMPTUTO_46: 1359396666392926907
+      DOUBLEJUMPTUTO_47: 3833876273401736667
+      DOUBLEJUMPTUTO_48: -5846280414156946917
+      DOUBLEJUMPTUTO_49: 421004006555876824
+      DOUBLEJUMPTUTO_5: 1534573488217508342
+      DOUBLEJUMPTUTO_50: -7621078561342264738
+      DOUBLEJUMPTUTO_51: 4156246178360808812
+      DOUBLEJUMPTUTO_52: 1584610446448392824
+      DOUBLEJUMPTUTO_53: 7272771819052641857
+      DOUBLEJUMPTUTO_54: 8946976648398766998
+      DOUBLEJUMPTUTO_55: -3275919929909369915
+      DOUBLEJUMPTUTO_56: 8873540676385341968
+      DOUBLEJUMPTUTO_57: 3833454368236191623
+      DOUBLEJUMPTUTO_58: -39463150055327558
+      DOUBLEJUMPTUTO_59: 8112044060634843364
+      DOUBLEJUMPTUTO_6: -1865613115806502684
+      DOUBLEJUMPTUTO_60: -640259567899041714
+      DOUBLEJUMPTUTO_61: -9175157086386011408
+      DOUBLEJUMPTUTO_62: -8432755049558590366
+      DOUBLEJUMPTUTO_63: -4684923546529218786
+      DOUBLEJUMPTUTO_64: 8916030487823893231
+      DOUBLEJUMPTUTO_65: 5279379003012350573
+      DOUBLEJUMPTUTO_66: -1680231734450820085
+      DOUBLEJUMPTUTO_67: -2464002115148208789
+      DOUBLEJUMPTUTO_68: 3697293406560132399
+      DOUBLEJUMPTUTO_69: -8009580794428183702
+      DOUBLEJUMPTUTO_7: -5565686276209697963
+      DOUBLEJUMPTUTO_70: 1722122382449847938
+      DOUBLEJUMPTUTO_71: -7184885987217605136
+      DOUBLEJUMPTUTO_72: -4959542325462039845
+      DOUBLEJUMPTUTO_73: 4572331064570217731
+      DOUBLEJUMPTUTO_74: 2986872490849267551
+      DOUBLEJUMPTUTO_75: 1929192080988974908
+      DOUBLEJUMPTUTO_76: 7450943152184836658
+      DOUBLEJUMPTUTO_77: -373910517072441100
+      DOUBLEJUMPTUTO_78: 5667958425071344720
+      DOUBLEJUMPTUTO_79: -7944649530718324098
+      DOUBLEJUMPTUTO_8: -4194605399488082722
+      DOUBLEJUMPTUTO_80: -407369220897121727
+      DOUBLEJUMPTUTO_81: -6031582035207298868
+      DOUBLEJUMPTUTO_82: 8747987139667138578
+      DOUBLEJUMPTUTO_83: -737886867809110416
+      DOUBLEJUMPTUTO_84: 8799140813157788645
+      DOUBLEJUMPTUTO_85: 4603701810757530485
+      DOUBLEJUMPTUTO_86: -3712698788066487275
+      DOUBLEJUMPTUTO_87: 8838493024777658552
+      DOUBLEJUMPTUTO_88: -186442367016040336
+      DOUBLEJUMPTUTO_89: -8486723960216091087
+      DOUBLEJUMPTUTO_9: -2148387497689226555
+      DOUBLEJUMPTUTO_90: -7502545292784029609
+      DOUBLEJUMPTUTO_91: 5169694466181216675
+      DOUBLEJUMPTUTO_92: -3242671631751503560
+      DOUBLEJUMPTUTO_93: -7172104945173362950
+      DOUBLEJUMPTUTO_94: -8959291033810597588
+      DOUBLEJUMPTUTO_95: -6435299267406805270
+      DOUBLEJUMPTUTO_96: 966356662627504580
+      DOUBLEJUMPTUTO_97: 2118289495285514328
+      DOUBLEJUMPTUTO_98: 783245873312266637
+      DOUBLEJUMPTUTO_99: -5865892348768831473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3900 @@
+fileFormatVersion: 2
+guid: 3ea77f35826f63b4db3115fa3eface83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6091978424631128756
+    second: SLIDETUTORIAL_0
+  - first:
+      213: 375827986458752279
+    second: SLIDETUTORIAL_1
+  - first:
+      213: 7831118872341381575
+    second: SLIDETUTORIAL_2
+  - first:
+      213: 1399771800321397320
+    second: SLIDETUTORIAL_3
+  - first:
+      213: 6204663646466179787
+    second: SLIDETUTORIAL_4
+  - first:
+      213: 7050235876917353568
+    second: SLIDETUTORIAL_5
+  - first:
+      213: -6211545982287595923
+    second: SLIDETUTORIAL_6
+  - first:
+      213: -7685241190889516153
+    second: SLIDETUTORIAL_7
+  - first:
+      213: 7776981230658602769
+    second: SLIDETUTORIAL_8
+  - first:
+      213: -2672232693781992822
+    second: SLIDETUTORIAL_9
+  - first:
+      213: -1313957658821051087
+    second: SLIDETUTORIAL_10
+  - first:
+      213: -6605010994452515119
+    second: SLIDETUTORIAL_11
+  - first:
+      213: 954036582478661066
+    second: SLIDETUTORIAL_12
+  - first:
+      213: -5666924078593717697
+    second: SLIDETUTORIAL_13
+  - first:
+      213: 2416513288258787674
+    second: SLIDETUTORIAL_14
+  - first:
+      213: 824521939925560370
+    second: SLIDETUTORIAL_15
+  - first:
+      213: 923462624444373933
+    second: SLIDETUTORIAL_16
+  - first:
+      213: 921285814911878642
+    second: SLIDETUTORIAL_17
+  - first:
+      213: -4507938705360370484
+    second: SLIDETUTORIAL_18
+  - first:
+      213: 2886328738017997169
+    second: SLIDETUTORIAL_19
+  - first:
+      213: -3278480728531190839
+    second: SLIDETUTORIAL_20
+  - first:
+      213: -2254929154773660947
+    second: SLIDETUTORIAL_21
+  - first:
+      213: 6624173661945122492
+    second: SLIDETUTORIAL_22
+  - first:
+      213: -5553224522085882920
+    second: SLIDETUTORIAL_23
+  - first:
+      213: -778402736145670906
+    second: SLIDETUTORIAL_24
+  - first:
+      213: -3350235887865270098
+    second: SLIDETUTORIAL_25
+  - first:
+      213: -5292557536846832188
+    second: SLIDETUTORIAL_26
+  - first:
+      213: -3682849989927352007
+    second: SLIDETUTORIAL_27
+  - first:
+      213: -4871551953312734165
+    second: SLIDETUTORIAL_28
+  - first:
+      213: 4297549797625852536
+    second: SLIDETUTORIAL_29
+  - first:
+      213: -2027803632035372588
+    second: SLIDETUTORIAL_30
+  - first:
+      213: -813279924430224624
+    second: SLIDETUTORIAL_31
+  - first:
+      213: -2611158591673297644
+    second: SLIDETUTORIAL_32
+  - first:
+      213: 2320994475627167970
+    second: SLIDETUTORIAL_33
+  - first:
+      213: 1957330158104069537
+    second: SLIDETUTORIAL_34
+  - first:
+      213: -5487552812348357403
+    second: SLIDETUTORIAL_35
+  - first:
+      213: -8576186395249493462
+    second: SLIDETUTORIAL_36
+  - first:
+      213: 3096673417145264305
+    second: SLIDETUTORIAL_37
+  - first:
+      213: -4305799162776968278
+    second: SLIDETUTORIAL_38
+  - first:
+      213: 6493699076031705373
+    second: SLIDETUTORIAL_39
+  - first:
+      213: -6891991701097262640
+    second: SLIDETUTORIAL_40
+  - first:
+      213: -8525459064586959881
+    second: SLIDETUTORIAL_41
+  - first:
+      213: 8032047029327757805
+    second: SLIDETUTORIAL_42
+  - first:
+      213: -5951824255199653757
+    second: SLIDETUTORIAL_43
+  - first:
+      213: 7265503703603677778
+    second: SLIDETUTORIAL_44
+  - first:
+      213: -8262063773142221971
+    second: SLIDETUTORIAL_45
+  - first:
+      213: -3358077249704103479
+    second: SLIDETUTORIAL_46
+  - first:
+      213: 952939961282116726
+    second: SLIDETUTORIAL_47
+  - first:
+      213: -9197711496531466916
+    second: SLIDETUTORIAL_48
+  - first:
+      213: -3259040790507225935
+    second: SLIDETUTORIAL_49
+  - first:
+      213: -647833469736648037
+    second: SLIDETUTORIAL_50
+  - first:
+      213: 2373880800834635356
+    second: SLIDETUTORIAL_51
+  - first:
+      213: 6008187211090930670
+    second: SLIDETUTORIAL_52
+  - first:
+      213: -7948980252503009570
+    second: SLIDETUTORIAL_53
+  - first:
+      213: -2437809831674548859
+    second: SLIDETUTORIAL_54
+  - first:
+      213: 2200080584228197747
+    second: SLIDETUTORIAL_55
+  - first:
+      213: 2076204231301412489
+    second: SLIDETUTORIAL_56
+  - first:
+      213: -5840813334192599269
+    second: SLIDETUTORIAL_57
+  - first:
+      213: 6630144650832912609
+    second: SLIDETUTORIAL_58
+  - first:
+      213: 3433240756468897601
+    second: SLIDETUTORIAL_59
+  - first:
+      213: 6538633176697188298
+    second: SLIDETUTORIAL_60
+  - first:
+      213: 7629599901257264290
+    second: SLIDETUTORIAL_61
+  - first:
+      213: -1368436231428260357
+    second: SLIDETUTORIAL_62
+  - first:
+      213: -7854991551389544380
+    second: SLIDETUTORIAL_63
+  - first:
+      213: 2730098829097487176
+    second: SLIDETUTORIAL_64
+  - first:
+      213: 5181841369760007062
+    second: SLIDETUTORIAL_65
+  - first:
+      213: 1580494526457809175
+    second: SLIDETUTORIAL_66
+  - first:
+      213: 8839624993882565464
+    second: SLIDETUTORIAL_67
+  - first:
+      213: -4748265118261000631
+    second: SLIDETUTORIAL_68
+  - first:
+      213: -6953342813499991652
+    second: SLIDETUTORIAL_69
+  - first:
+      213: 7546694557415008973
+    second: SLIDETUTORIAL_70
+  - first:
+      213: -2953511961828047592
+    second: SLIDETUTORIAL_71
+  - first:
+      213: -5389978538711498107
+    second: SLIDETUTORIAL_72
+  - first:
+      213: -1871899431229114120
+    second: SLIDETUTORIAL_73
+  - first:
+      213: 7967461320987191842
+    second: SLIDETUTORIAL_74
+  - first:
+      213: 547256312288942300
+    second: SLIDETUTORIAL_75
+  - first:
+      213: -7189686559648637638
+    second: SLIDETUTORIAL_76
+  - first:
+      213: 1630404996093974872
+    second: SLIDETUTORIAL_77
+  - first:
+      213: -7548549057813030666
+    second: SLIDETUTORIAL_78
+  - first:
+      213: 8622739011661284762
+    second: SLIDETUTORIAL_79
+  - first:
+      213: -1317207827500353795
+    second: SLIDETUTORIAL_80
+  - first:
+      213: 3329791177726039666
+    second: SLIDETUTORIAL_81
+  - first:
+      213: -7059177130859387231
+    second: SLIDETUTORIAL_82
+  - first:
+      213: 892278160610184042
+    second: SLIDETUTORIAL_83
+  - first:
+      213: 4720797755577501088
+    second: SLIDETUTORIAL_84
+  - first:
+      213: -4512631114345312882
+    second: SLIDETUTORIAL_85
+  - first:
+      213: 3425653124220031893
+    second: SLIDETUTORIAL_86
+  - first:
+      213: -6870431466825528371
+    second: SLIDETUTORIAL_87
+  - first:
+      213: 2493722562170363102
+    second: SLIDETUTORIAL_88
+  - first:
+      213: 3646965972128515899
+    second: SLIDETUTORIAL_89
+  - first:
+      213: -257666799114694110
+    second: SLIDETUTORIAL_90
+  - first:
+      213: 999216199778438518
+    second: SLIDETUTORIAL_91
+  - first:
+      213: -53232843065308644
+    second: SLIDETUTORIAL_92
+  - first:
+      213: -6668993092218326606
+    second: SLIDETUTORIAL_93
+  - first:
+      213: 8559550295537256085
+    second: SLIDETUTORIAL_94
+  - first:
+      213: -1139367136621698078
+    second: SLIDETUTORIAL_95
+  - first:
+      213: -1476331843487074993
+    second: SLIDETUTORIAL_96
+  - first:
+      213: -5232910867126005864
+    second: SLIDETUTORIAL_97
+  - first:
+      213: 1197553139283013000
+    second: SLIDETUTORIAL_98
+  - first:
+      213: 2803048031695635113
+    second: SLIDETUTORIAL_99
+  - first:
+      213: 5001867107532636250
+    second: SLIDETUTORIAL_100
+  - first:
+      213: 572234150858962135
+    second: SLIDETUTORIAL_101
+  - first:
+      213: -7375275028060361256
+    second: SLIDETUTORIAL_102
+  - first:
+      213: 3777845859441023481
+    second: SLIDETUTORIAL_103
+  - first:
+      213: 5012144628288912790
+    second: SLIDETUTORIAL_104
+  - first:
+      213: 2532473913664672935
+    second: SLIDETUTORIAL_105
+  - first:
+      213: 7332824761626327241
+    second: SLIDETUTORIAL_106
+  - first:
+      213: -5587873438585905451
+    second: SLIDETUTORIAL_107
+  - first:
+      213: -503923893979665178
+    second: SLIDETUTORIAL_108
+  - first:
+      213: -9192835753023423208
+    second: SLIDETUTORIAL_109
+  - first:
+      213: -6789942247902012691
+    second: SLIDETUTORIAL_110
+  - first:
+      213: 7457710181566370185
+    second: SLIDETUTORIAL_111
+  - first:
+      213: 2329303237564345278
+    second: SLIDETUTORIAL_112
+  - first:
+      213: 6946638423010052752
+    second: SLIDETUTORIAL_113
+  - first:
+      213: -3549884770114687918
+    second: SLIDETUTORIAL_114
+  - first:
+      213: -2304253041421459587
+    second: SLIDETUTORIAL_115
+  - first:
+      213: -8884942928175421636
+    second: SLIDETUTORIAL_116
+  - first:
+      213: -6844491508617392468
+    second: SLIDETUTORIAL_117
+  - first:
+      213: -757641813954550905
+    second: SLIDETUTORIAL_118
+  - first:
+      213: 5227171840500761984
+    second: SLIDETUTORIAL_119
+  - first:
+      213: 5463066236427367418
+    second: SLIDETUTORIAL_120
+  - first:
+      213: -8564443094190551408
+    second: SLIDETUTORIAL_121
+  - first:
+      213: 4377672890825033352
+    second: SLIDETUTORIAL_122
+  - first:
+      213: -5390203676393351054
+    second: SLIDETUTORIAL_123
+  - first:
+      213: 4685478224005999786
+    second: SLIDETUTORIAL_124
+  - first:
+      213: 9002831967656589443
+    second: SLIDETUTORIAL_125
+  - first:
+      213: 5091162105815991166
+    second: SLIDETUTORIAL_126
+  - first:
+      213: -3548191611030215267
+    second: SLIDETUTORIAL_127
+  - first:
+      213: 278637494314631372
+    second: SLIDETUTORIAL_128
+  - first:
+      213: -4275865247709122553
+    second: SLIDETUTORIAL_129
+  - first:
+      213: -5323202847837184886
+    second: SLIDETUTORIAL_130
+  - first:
+      213: -2608925034915716326
+    second: SLIDETUTORIAL_131
+  - first:
+      213: -3293005835901894318
+    second: SLIDETUTORIAL_132
+  - first:
+      213: -31343787659116201
+    second: SLIDETUTORIAL_133
+  - first:
+      213: 3857453309613938599
+    second: SLIDETUTORIAL_134
+  - first:
+      213: 1011442536208371170
+    second: SLIDETUTORIAL_135
+  - first:
+      213: 1436969313484164029
+    second: SLIDETUTORIAL_136
+  - first:
+      213: 808320988299333675
+    second: SLIDETUTORIAL_137
+  - first:
+      213: -3776517816067857470
+    second: SLIDETUTORIAL_138
+  - first:
+      213: -4937174533623907133
+    second: SLIDETUTORIAL_139
+  - first:
+      213: 6416057343117108105
+    second: SLIDETUTORIAL_140
+  - first:
+      213: 5288646030970534148
+    second: SLIDETUTORIAL_141
+  - first:
+      213: -3263964846564180027
+    second: SLIDETUTORIAL_142
+  - first:
+      213: 6943314652960203605
+    second: SLIDETUTORIAL_143
+  - first:
+      213: 7009661939832054952
+    second: SLIDETUTORIAL_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_0
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1332
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b27b7bb91e0b8450800000000000000
+      internalID: 6091978424631128756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_1
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1341
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715368dff85373500800000000000000
+      internalID: 375827986458752279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_2
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1341
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c104c39f19bdac60800000000000000
+      internalID: 7831118872341381575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_3
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1346
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84214cc390dfc6310800000000000000
+      internalID: 1399771800321397320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_4
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1336
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2856676b46b1650800000000000000
+      internalID: 6204663646466179787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_5
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1265
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c9f522d2877d160800000000000000
+      internalID: 7050235876917353568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_6
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1301
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d663ebbd6d72cc9a0800000000000000
+      internalID: -6211545982287595923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_7
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1296
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78394d3ead9885590800000000000000
+      internalID: -7685241190889516153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_8
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1287
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117494e99336deb60800000000000000
+      internalID: 7776981230658602769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_9
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1308
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a60f9e5825aead0800000000000000
+      internalID: -2672232693781992822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_10
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1317
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d31109872e3cde0800000000000000
+      internalID: -1313957658821051087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_11
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1317
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6bb12de794654a0800000000000000
+      internalID: -6605010994452515119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_12
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1322
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac54e51973b6d3d00800000000000000
+      internalID: 954036582478661066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_13
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1312
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a405e339a0b51b0800000000000000
+      internalID: -5666924078593717697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1132
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a591dad480e298120800000000000000
+      internalID: 2416513288258787674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1302
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c67caf55a417b00800000000000000
+      internalID: 824521939925560370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1298
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab5b5d3d5cc0dc00800000000000000
+      internalID: 923462624444373933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_17
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1135
+        width: 140
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5cd66419019cc00800000000000000
+      internalID: 921285814911878642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1301
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4c2cda1a59071c0800000000000000
+      internalID: -4507938705360370484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_19
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1195
+        width: 19
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171709ed1bc4e0820800000000000000
+      internalID: 2886328738017997169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_20
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1241
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb3fe4c52f7082d0800000000000000
+      internalID: -3278480728531190839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_21
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1277
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4b0081e1e4b0e0800000000000000
+      internalID: -2254929154773660947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_22
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1272
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeccb269dacdeb50800000000000000
+      internalID: 6624173661945122492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_23
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1263
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3251b28bbfee2b0800000000000000
+      internalID: -5553224522085882920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_24
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1230
+        width: 10
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d58dbe5de8235f0800000000000000
+      internalID: -778402736145670906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_25
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1136
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea07606d5329181d0800000000000000
+      internalID: -3350235887865270098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_26
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1132
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd9dee16fe0d86b0800000000000000
+      internalID: -5292557536846832188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_27
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1237
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939445d5273e3ecc0800000000000000
+      internalID: -3682849989927352007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_28
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1200
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b242fed1f45c46cb0800000000000000
+      internalID: -4871551953312734165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_29
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1124
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727a0485c6f3ab30800000000000000
+      internalID: 4297549797625852536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_30
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1259
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e846275bcbd3e0800000000000000
+      internalID: -2027803632035372588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1254
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0134169b736a6b4f0800000000000000
+      internalID: -813279924430224624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_32
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1260
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4159a1b681d43cbd0800000000000000
+      internalID: -2611158591673297644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_33
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1228
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c66dad24d53020800000000000000
+      internalID: 2320994475627167970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_34
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1249
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5c3fd8865d92b10800000000000000
+      internalID: 1957330158104069537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_35
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1225
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4c7cd9acb48d3b0800000000000000
+      internalID: -5487552812348357403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_36
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1146
+        width: 12
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2abd9f79e34bf880800000000000000
+      internalID: -8576186395249493462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_37
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1136
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a656e01899fa20800000000000000
+      internalID: 3096673417145264305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_38
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1122
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3218c797abe34c0800000000000000
+      internalID: -4305799162776968278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_39
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1256
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11f62197e04e1a50800000000000000
+      internalID: 6493699076031705373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_40
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1225
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1582d201aba50a0800000000000000
+      internalID: -6891991701097262640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_41
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1125
+        width: 184
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3092c862c7fa980800000000000000
+      internalID: -8525459064586959881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_42
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1171
+        width: 19
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10052b730977f60800000000000000
+      internalID: 8032047029327757805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_43
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1148
+        width: 11
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380554fbf5fd66da0800000000000000
+      internalID: -5951824255199653757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_44
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1218
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a0597cf1144d460800000000000000
+      internalID: 7265503703603677778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_45
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1193
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bfb3ac5c0475d80800000000000000
+      internalID: -8262063773142221971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_46
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1170
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1f0138886b561d0800000000000000
+      internalID: -3358077249704103479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_47
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1182
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cbe7c88d5893d00800000000000000
+      internalID: 952939961282116726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_48
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1204
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5527be102a2b5080800000000000000
+      internalID: -9197711496531466916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_49
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1194
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcfe4d0baf85c2d0800000000000000
+      internalID: -3259040790507225935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_50
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1201
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b920db244ee6207f0800000000000000
+      internalID: -647833469736648037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_51
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1122
+        width: 12
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c564ed0d208b1f020800000000000000
+      internalID: 2373880800834635356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_52
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1174
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebae1d8f6e516350800000000000000
+      internalID: 6008187211090930670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_53
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1169
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed696fa639c8fa190800000000000000
+      internalID: -7948980252503009570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_54
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1122
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d6519cfd82b2ed0800000000000000
+      internalID: -2437809831674548859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_55
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1168
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375d72482a1488e10800000000000000
+      internalID: 2200080584228197747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_56
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1107
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98632e78fb820dc10800000000000000
+      internalID: 2076204231301412489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_57
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1175
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc510f73341fea0800000000000000
+      internalID: -5840813334192599269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_58
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1173
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e02a529e61030c50800000000000000
+      internalID: 6630144650832912609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_59
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147d8b5274255af20800000000000000
+      internalID: 3433240756468897601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_60
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1121
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfae952b34edba50800000000000000
+      internalID: 6538633176697188298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_61
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1174
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac6bc4dfa8c1e960800000000000000
+      internalID: 7629599901257264290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_62
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1124
+        width: 11
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb1ff6f76520de0800000000000000
+      internalID: -1368436231428260357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_63
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1169
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4405bb13dc67df290800000000000000
+      internalID: -7854991551389544380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_64
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1144
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc01e9b6243e520800000000000000
+      internalID: 2730098829097487176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_65
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1151
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69308fe654999e740800000000000000
+      internalID: 5181841369760007062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_66
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1146
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71987f2e56b0fe510800000000000000
+      internalID: 1580494526457809175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_67
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1158
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85be80cf818acaa70800000000000000
+      internalID: 8839624993882565464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_68
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1133
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946cca64806ca1eb0800000000000000
+      internalID: -4748265118261000631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_69
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1127
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9951df2d83c08f90800000000000000
+      internalID: -6953342813499991652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_70
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1135
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca681347be3bb860800000000000000
+      internalID: 7546694557415008973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_71
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1132
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8154f53e4840307d0800000000000000
+      internalID: -2953511961828047592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_72
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1100
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824f1d8313f235b0800000000000000
+      internalID: -5389978538711498107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_73
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1130
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f83552926da506e0800000000000000
+      internalID: -1871899431229114120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_74
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1133
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a2b17abdb129e60800000000000000
+      internalID: 7967461320987191842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_75
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1127
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8921f67be389700800000000000000
+      internalID: 547256312288942300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_76
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1139
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d1eb5aa2a193c90800000000000000
+      internalID: -7189686559648637638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_77
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1131
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591438a4bc50a610800000000000000
+      internalID: 1630404996093974872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_78
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1098
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8d17730aa2e3790800000000000000
+      internalID: -7548549057813030666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_79
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1083
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9549f4227f1aa770800000000000000
+      internalID: 8622739011661284762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_80
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1097
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df63a72b57658bde0800000000000000
+      internalID: -1317207827500353795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_81
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1106
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27617942f6bc53e20800000000000000
+      internalID: 3329791177726039666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_82
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1130
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6a094fcc3c80e90800000000000000
+      internalID: -7059177130859387231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_83
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1128
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b42047242026c00800000000000000
+      internalID: 892278160610184042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_84
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1130
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a588adfb84a38140800000000000000
+      internalID: 4720797755577501088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_85
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1130
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d821319e9ef51c0800000000000000
+      internalID: -4512631114345312882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_86
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1130
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59397d8dd5d5a8f20800000000000000
+      internalID: 3425653124220031893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_87
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1101
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc2366bf257a0a0800000000000000
+      internalID: -6870431466825528371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_88
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1128
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9a8e357b7b9220800000000000000
+      internalID: 2493722562170363102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_89
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1097
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3748acaa30ac9230800000000000000
+      internalID: 3646965972128515899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_90
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1096
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2225b5059659c6cf0800000000000000
+      internalID: -257666799114694110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_91
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1102
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d0c91f6ddeddd00800000000000000
+      internalID: 999216199778438518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_92
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1090
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a45b2e201e24ff0800000000000000
+      internalID: -53232843065308644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_93
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1109
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1fac0dd1af273a0800000000000000
+      internalID: -6668993092218326606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_94
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1076
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5968692b4a1a9c670800000000000000
+      internalID: 8559550295537256085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_95
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1077
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e8e830a72030f0800000000000000
+      internalID: -1139367136621698078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_96
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1094
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45fa52a204038be0800000000000000
+      internalID: -1476331843487074993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_97
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1090
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f4caf9a47f067b0800000000000000
+      internalID: -5232910867126005864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_98
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1078
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d2e9a3c309e9010800000000000000
+      internalID: 1197553139283013000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_99
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1085
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28399655d66e620800000000000000
+      internalID: 2803048031695635113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_100
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1073
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50813e12a33a6540800000000000000
+      internalID: 5001867107532636250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_101
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1070
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4bb4aadebf0f700800000000000000
+      internalID: 572234150858962135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_102
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1072
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd27a71072c5a990800000000000000
+      internalID: -7375275028060361256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_103
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1066
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f999241bca9d6430800000000000000
+      internalID: 3777845859441023481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_104
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1066
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dfa04ebf6be8540800000000000000
+      internalID: 5012144628288912790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_105
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 891
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a41dea5b97252320800000000000000
+      internalID: 2532473913664672935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_106
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1026
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8fcec054d63c560800000000000000
+      internalID: 7332824761626327241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_107
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 898
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de1f33a6b2e372b0800000000000000
+      internalID: -5587873438585905451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_108
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 893
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eca28963e3b109f0800000000000000
+      internalID: -503923893979665178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_109
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1029
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d378e969c7c6080800000000000000
+      internalID: -9192835753023423208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_110
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 894
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea126c008745c1a0800000000000000
+      internalID: -6789942247902012691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_111
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1021
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981d312c5eb1f7760800000000000000
+      internalID: 7457710181566370185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_112
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1025
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba03114f8535020800000000000000
+      internalID: 2329303237564345278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_113
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1026
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a089247da676060800000000000000
+      internalID: 6946638423010052752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_114
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1021
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25caeb31c964cbec0800000000000000
+      internalID: -3549884770114687918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_115
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1022
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd5793116a500e0800000000000000
+      internalID: -2304253041421459587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_116
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 890
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c372c743b7752b480800000000000000
+      internalID: -8884942928175421636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_117
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1023
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caecea09c3b7301a0800000000000000
+      internalID: -6844491508617392468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_118
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1009
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783a14cc8c05c75f0800000000000000
+      internalID: -757641813954550905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_119
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 901
+        width: 10
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08509fc1815aa8840800000000000000
+      internalID: 5227171840500761984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_120
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 893
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3fea62cc5b0db40800000000000000
+      internalID: 5463066236427367418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_121
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 886
+        width: 117
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e89b7d16cf42980800000000000000
+      internalID: -8564443094190551408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_122
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 999
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886cb70ec4e90cc30800000000000000
+      internalID: 4377672890825033352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_123
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 962
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278d19990562235b0800000000000000
+      internalID: -5390203676393351054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_124
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1016
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaca4b8be99260140800000000000000
+      internalID: 4685478224005999786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_125
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 998
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b3bcb9fb70fc70800000000000000
+      internalID: 9002831967656589443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_126
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 985
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73871b06f077a640800000000000000
+      internalID: 5091162105815991166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_127
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 936
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95e585678a42cec0800000000000000
+      internalID: -3548191611030215267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_128
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 943
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc08ab5235bedd300800000000000000
+      internalID: 278637494314631372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_129
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 955
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003cd2363319a4c0800000000000000
+      internalID: -4275865247709122553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_130
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 939
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c1153a63f2026b0800000000000000
+      internalID: -5323202847837184886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_131
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 926
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13a930e08c3bcbd0800000000000000
+      internalID: -2608925034915716326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_132
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 927
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25187cba3a4ec42d0800000000000000
+      internalID: -3293005835901894318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_133
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 912
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751c9aebdf4a09ff0800000000000000
+      internalID: -31343787659116201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_134
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 902
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a79131f85d688530800000000000000
+      internalID: 3857453309613938599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_135
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 898
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed8b69b0ad590e00800000000000000
+      internalID: 1011442536208371170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_136
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 879
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb4c5b2af321f310800000000000000
+      internalID: 1436969313484164029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_137
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 895
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20131cf7abb73b00800000000000000
+      internalID: 808320988299333675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_138
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 889
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3675d1e0d179bc0800000000000000
+      internalID: -3776517816067857470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_139
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 897
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccfd318be1ab7bb0800000000000000
+      internalID: -4937174533623907133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_140
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 890
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983280be82a6a0950800000000000000
+      internalID: 6416057343117108105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_141
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 894
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40937c27b8b056940800000000000000
+      internalID: 5288646030970534148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_142
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 892
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cffd29e34114b2d0800000000000000
+      internalID: -3263964846564180027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_143
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 891
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553257db3eb9b5060800000000000000
+      internalID: 6943314652960203605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTORIAL_144
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 878
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4e34f3562574160800000000000000
+      internalID: 7009661939832054952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SLIDETUTORIAL_0: 6091978424631128756
+      SLIDETUTORIAL_1: 375827986458752279
+      SLIDETUTORIAL_10: -1313957658821051087
+      SLIDETUTORIAL_100: 5001867107532636250
+      SLIDETUTORIAL_101: 572234150858962135
+      SLIDETUTORIAL_102: -7375275028060361256
+      SLIDETUTORIAL_103: 3777845859441023481
+      SLIDETUTORIAL_104: 5012144628288912790
+      SLIDETUTORIAL_105: 2532473913664672935
+      SLIDETUTORIAL_106: 7332824761626327241
+      SLIDETUTORIAL_107: -5587873438585905451
+      SLIDETUTORIAL_108: -503923893979665178
+      SLIDETUTORIAL_109: -9192835753023423208
+      SLIDETUTORIAL_11: -6605010994452515119
+      SLIDETUTORIAL_110: -6789942247902012691
+      SLIDETUTORIAL_111: 7457710181566370185
+      SLIDETUTORIAL_112: 2329303237564345278
+      SLIDETUTORIAL_113: 6946638423010052752
+      SLIDETUTORIAL_114: -3549884770114687918
+      SLIDETUTORIAL_115: -2304253041421459587
+      SLIDETUTORIAL_116: -8884942928175421636
+      SLIDETUTORIAL_117: -6844491508617392468
+      SLIDETUTORIAL_118: -757641813954550905
+      SLIDETUTORIAL_119: 5227171840500761984
+      SLIDETUTORIAL_12: 954036582478661066
+      SLIDETUTORIAL_120: 5463066236427367418
+      SLIDETUTORIAL_121: -8564443094190551408
+      SLIDETUTORIAL_122: 4377672890825033352
+      SLIDETUTORIAL_123: -5390203676393351054
+      SLIDETUTORIAL_124: 4685478224005999786
+      SLIDETUTORIAL_125: 9002831967656589443
+      SLIDETUTORIAL_126: 5091162105815991166
+      SLIDETUTORIAL_127: -3548191611030215267
+      SLIDETUTORIAL_128: 278637494314631372
+      SLIDETUTORIAL_129: -4275865247709122553
+      SLIDETUTORIAL_13: -5666924078593717697
+      SLIDETUTORIAL_130: -5323202847837184886
+      SLIDETUTORIAL_131: -2608925034915716326
+      SLIDETUTORIAL_132: -3293005835901894318
+      SLIDETUTORIAL_133: -31343787659116201
+      SLIDETUTORIAL_134: 3857453309613938599
+      SLIDETUTORIAL_135: 1011442536208371170
+      SLIDETUTORIAL_136: 1436969313484164029
+      SLIDETUTORIAL_137: 808320988299333675
+      SLIDETUTORIAL_138: -3776517816067857470
+      SLIDETUTORIAL_139: -4937174533623907133
+      SLIDETUTORIAL_14: 2416513288258787674
+      SLIDETUTORIAL_140: 6416057343117108105
+      SLIDETUTORIAL_141: 5288646030970534148
+      SLIDETUTORIAL_142: -3263964846564180027
+      SLIDETUTORIAL_143: 6943314652960203605
+      SLIDETUTORIAL_144: 7009661939832054952
+      SLIDETUTORIAL_15: 824521939925560370
+      SLIDETUTORIAL_16: 923462624444373933
+      SLIDETUTORIAL_17: 921285814911878642
+      SLIDETUTORIAL_18: -4507938705360370484
+      SLIDETUTORIAL_19: 2886328738017997169
+      SLIDETUTORIAL_2: 7831118872341381575
+      SLIDETUTORIAL_20: -3278480728531190839
+      SLIDETUTORIAL_21: -2254929154773660947
+      SLIDETUTORIAL_22: 6624173661945122492
+      SLIDETUTORIAL_23: -5553224522085882920
+      SLIDETUTORIAL_24: -778402736145670906
+      SLIDETUTORIAL_25: -3350235887865270098
+      SLIDETUTORIAL_26: -5292557536846832188
+      SLIDETUTORIAL_27: -3682849989927352007
+      SLIDETUTORIAL_28: -4871551953312734165
+      SLIDETUTORIAL_29: 4297549797625852536
+      SLIDETUTORIAL_3: 1399771800321397320
+      SLIDETUTORIAL_30: -2027803632035372588
+      SLIDETUTORIAL_31: -813279924430224624
+      SLIDETUTORIAL_32: -2611158591673297644
+      SLIDETUTORIAL_33: 2320994475627167970
+      SLIDETUTORIAL_34: 1957330158104069537
+      SLIDETUTORIAL_35: -5487552812348357403
+      SLIDETUTORIAL_36: -8576186395249493462
+      SLIDETUTORIAL_37: 3096673417145264305
+      SLIDETUTORIAL_38: -4305799162776968278
+      SLIDETUTORIAL_39: 6493699076031705373
+      SLIDETUTORIAL_4: 6204663646466179787
+      SLIDETUTORIAL_40: -6891991701097262640
+      SLIDETUTORIAL_41: -8525459064586959881
+      SLIDETUTORIAL_42: 8032047029327757805
+      SLIDETUTORIAL_43: -5951824255199653757
+      SLIDETUTORIAL_44: 7265503703603677778
+      SLIDETUTORIAL_45: -8262063773142221971
+      SLIDETUTORIAL_46: -3358077249704103479
+      SLIDETUTORIAL_47: 952939961282116726
+      SLIDETUTORIAL_48: -9197711496531466916
+      SLIDETUTORIAL_49: -3259040790507225935
+      SLIDETUTORIAL_5: 7050235876917353568
+      SLIDETUTORIAL_50: -647833469736648037
+      SLIDETUTORIAL_51: 2373880800834635356
+      SLIDETUTORIAL_52: 6008187211090930670
+      SLIDETUTORIAL_53: -7948980252503009570
+      SLIDETUTORIAL_54: -2437809831674548859
+      SLIDETUTORIAL_55: 2200080584228197747
+      SLIDETUTORIAL_56: 2076204231301412489
+      SLIDETUTORIAL_57: -5840813334192599269
+      SLIDETUTORIAL_58: 6630144650832912609
+      SLIDETUTORIAL_59: 3433240756468897601
+      SLIDETUTORIAL_6: -6211545982287595923
+      SLIDETUTORIAL_60: 6538633176697188298
+      SLIDETUTORIAL_61: 7629599901257264290
+      SLIDETUTORIAL_62: -1368436231428260357
+      SLIDETUTORIAL_63: -7854991551389544380
+      SLIDETUTORIAL_64: 2730098829097487176
+      SLIDETUTORIAL_65: 5181841369760007062
+      SLIDETUTORIAL_66: 1580494526457809175
+      SLIDETUTORIAL_67: 8839624993882565464
+      SLIDETUTORIAL_68: -4748265118261000631
+      SLIDETUTORIAL_69: -6953342813499991652
+      SLIDETUTORIAL_7: -7685241190889516153
+      SLIDETUTORIAL_70: 7546694557415008973
+      SLIDETUTORIAL_71: -2953511961828047592
+      SLIDETUTORIAL_72: -5389978538711498107
+      SLIDETUTORIAL_73: -1871899431229114120
+      SLIDETUTORIAL_74: 7967461320987191842
+      SLIDETUTORIAL_75: 547256312288942300
+      SLIDETUTORIAL_76: -7189686559648637638
+      SLIDETUTORIAL_77: 1630404996093974872
+      SLIDETUTORIAL_78: -7548549057813030666
+      SLIDETUTORIAL_79: 8622739011661284762
+      SLIDETUTORIAL_8: 7776981230658602769
+      SLIDETUTORIAL_80: -1317207827500353795
+      SLIDETUTORIAL_81: 3329791177726039666
+      SLIDETUTORIAL_82: -7059177130859387231
+      SLIDETUTORIAL_83: 892278160610184042
+      SLIDETUTORIAL_84: 4720797755577501088
+      SLIDETUTORIAL_85: -4512631114345312882
+      SLIDETUTORIAL_86: 3425653124220031893
+      SLIDETUTORIAL_87: -6870431466825528371
+      SLIDETUTORIAL_88: 2493722562170363102
+      SLIDETUTORIAL_89: 3646965972128515899
+      SLIDETUTORIAL_9: -2672232693781992822
+      SLIDETUTORIAL_90: -257666799114694110
+      SLIDETUTORIAL_91: 999216199778438518
+      SLIDETUTORIAL_92: -53232843065308644
+      SLIDETUTORIAL_93: -6668993092218326606
+      SLIDETUTORIAL_94: 8559550295537256085
+      SLIDETUTORIAL_95: -1139367136621698078
+      SLIDETUTORIAL_96: -1476331843487074993
+      SLIDETUTORIAL_97: -5232910867126005864
+      SLIDETUTORIAL_98: 1197553139283013000
+      SLIDETUTORIAL_99: 2803048031695635113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

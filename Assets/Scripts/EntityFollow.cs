@@ -6,19 +6,21 @@ public class EntityFollow : MonoBehaviour
 
     [Header("Movement")]
     public float normalSpeed = 2f;
-    public float panicSpeed = 8f;
+    public float panicSpeed = 12f;
 
     [Header("Distance")]
     public float followDistance = 6f;
-    public float catchDistance = 1.2f;
+    public float catchDistance = 0.7f;
 
     private bool panicMode = false;
 
     void Update()
     {
+        if (player == null)
+            return;
+
         if (!panicMode)
         {
-            // Stay behind player normally
             Vector3 targetPos = new Vector3(
                 player.position.x - followDistance,
                 transform.position.y,
@@ -33,22 +35,18 @@ public class EntityFollow : MonoBehaviour
         }
         else
         {
-            // PANIC CHASE
             transform.position = Vector3.MoveTowards(
                 transform.position,
                 player.position,
                 panicSpeed * Time.deltaTime
             );
 
-            // Check catch distance
-            float distance = Vector3.Distance(
-                transform.position,
-                player.position
-            );
-
-            if (distance <= catchDistance)
+            if (Vector2.Distance(transform.position, player.position) <= catchDistance)
             {
-                player.GetComponent<PlayerController>().Die();
+                PlayerController controller = player.GetComponent<PlayerController>();
+
+                if (controller != null)
+                    controller.Die();
             }
         }
     }

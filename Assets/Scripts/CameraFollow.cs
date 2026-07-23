@@ -15,10 +15,17 @@ public class CameraFollow : MonoBehaviour
 
     void LateUpdate()
     {
-        transform.position = new Vector3(
-            player.position.x + 5f,
-            fixedY,
-            fixedZ
-        );
+       Vector3 targetPos = new Vector3(
+        player.position.x + 5f,
+        fixedY,
+        fixedZ
+    );
+
+    if (CameraShake.instance != null)
+    {
+        targetPos += CameraShake.instance.GetShakeOffset();
+    }
+
+    transform.position = targetPos;
     }
 }

@@ -1,0 +1,4134 @@
+fileFormatVersion: 2
+guid: cbe41ed63d4d40741b390f06a11b9881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6609141658974106318
+    second: SLIDETUTO_0
+  - first:
+      213: -2760327944909404427
+    second: SLIDETUTO_1
+  - first:
+      213: -373662453821210646
+    second: SLIDETUTO_2
+  - first:
+      213: -6881385416614512322
+    second: SLIDETUTO_3
+  - first:
+      213: 2974982419435896654
+    second: SLIDETUTO_4
+  - first:
+      213: 5395935251912167897
+    second: SLIDETUTO_5
+  - first:
+      213: -691084459110364878
+    second: SLIDETUTO_6
+  - first:
+      213: -8670874955688135797
+    second: SLIDETUTO_7
+  - first:
+      213: -5318223212343054600
+    second: SLIDETUTO_8
+  - first:
+      213: -8483897069001789087
+    second: SLIDETUTO_9
+  - first:
+      213: -4846717371098234168
+    second: SLIDETUTO_10
+  - first:
+      213: -1224242429104817893
+    second: SLIDETUTO_11
+  - first:
+      213: 836114006885777027
+    second: SLIDETUTO_12
+  - first:
+      213: -7204131520455270833
+    second: SLIDETUTO_13
+  - first:
+      213: -3468852561824314200
+    second: SLIDETUTO_14
+  - first:
+      213: -5629132733442682459
+    second: SLIDETUTO_15
+  - first:
+      213: 547408017945289887
+    second: SLIDETUTO_16
+  - first:
+      213: 6544969864300221447
+    second: SLIDETUTO_17
+  - first:
+      213: 8509055018744140518
+    second: SLIDETUTO_18
+  - first:
+      213: -2029704011155967606
+    second: SLIDETUTO_19
+  - first:
+      213: -8036754445072611619
+    second: SLIDETUTO_20
+  - first:
+      213: 8733018008462667419
+    second: SLIDETUTO_21
+  - first:
+      213: -3770982179852288998
+    second: SLIDETUTO_22
+  - first:
+      213: -3242114245923717034
+    second: SLIDETUTO_23
+  - first:
+      213: -8694360255677307189
+    second: SLIDETUTO_24
+  - first:
+      213: -5233575248607982249
+    second: SLIDETUTO_25
+  - first:
+      213: 8184383658520018716
+    second: SLIDETUTO_26
+  - first:
+      213: -2725551501909207876
+    second: SLIDETUTO_27
+  - first:
+      213: -441088823640255546
+    second: SLIDETUTO_28
+  - first:
+      213: 935295347445840478
+    second: SLIDETUTO_29
+  - first:
+      213: -7834219915139780844
+    second: SLIDETUTO_30
+  - first:
+      213: -4195902369361067388
+    second: SLIDETUTO_31
+  - first:
+      213: -4615982551458047101
+    second: SLIDETUTO_32
+  - first:
+      213: -5750650198228876685
+    second: SLIDETUTO_33
+  - first:
+      213: 5000492634311225564
+    second: SLIDETUTO_34
+  - first:
+      213: 4406966248439470183
+    second: SLIDETUTO_35
+  - first:
+      213: -5175629586366680443
+    second: SLIDETUTO_36
+  - first:
+      213: 5938723419999417420
+    second: SLIDETUTO_37
+  - first:
+      213: -7794796110782529990
+    second: SLIDETUTO_38
+  - first:
+      213: -8665326897434000754
+    second: SLIDETUTO_39
+  - first:
+      213: -2385032817635655195
+    second: SLIDETUTO_40
+  - first:
+      213: 6490436870929468574
+    second: SLIDETUTO_41
+  - first:
+      213: 2278835706439680869
+    second: SLIDETUTO_42
+  - first:
+      213: -2674399644982360823
+    second: SLIDETUTO_43
+  - first:
+      213: -7411270559194583906
+    second: SLIDETUTO_44
+  - first:
+      213: 5228529102179292492
+    second: SLIDETUTO_45
+  - first:
+      213: -6431020217111782027
+    second: SLIDETUTO_46
+  - first:
+      213: 930903795977702040
+    second: SLIDETUTO_47
+  - first:
+      213: 5092559548116763471
+    second: SLIDETUTO_48
+  - first:
+      213: 2146513080086100662
+    second: SLIDETUTO_49
+  - first:
+      213: 1592049509030642348
+    second: SLIDETUTO_50
+  - first:
+      213: 3934571155019648278
+    second: SLIDETUTO_51
+  - first:
+      213: 951309295083965250
+    second: SLIDETUTO_52
+  - first:
+      213: 740523820913859739
+    second: SLIDETUTO_53
+  - first:
+      213: 2256821346871496952
+    second: SLIDETUTO_54
+  - first:
+      213: 1953526646032472373
+    second: SLIDETUTO_55
+  - first:
+      213: -8951974349147244749
+    second: SLIDETUTO_56
+  - first:
+      213: -2888341525698717402
+    second: SLIDETUTO_57
+  - first:
+      213: 7570386926531028677
+    second: SLIDETUTO_58
+  - first:
+      213: 19405811542941998
+    second: SLIDETUTO_59
+  - first:
+      213: 1779560479409070751
+    second: SLIDETUTO_60
+  - first:
+      213: 98833653675266655
+    second: SLIDETUTO_61
+  - first:
+      213: 3777581008262885384
+    second: SLIDETUTO_62
+  - first:
+      213: 2400455980684711277
+    second: SLIDETUTO_63
+  - first:
+      213: -270508211223059751
+    second: SLIDETUTO_64
+  - first:
+      213: -4202237653421741533
+    second: SLIDETUTO_65
+  - first:
+      213: -159289087108860044
+    second: SLIDETUTO_66
+  - first:
+      213: 6971805481496639985
+    second: SLIDETUTO_67
+  - first:
+      213: 1967775420637110111
+    second: SLIDETUTO_68
+  - first:
+      213: -5544016723804929077
+    second: SLIDETUTO_69
+  - first:
+      213: -6623887550770504322
+    second: SLIDETUTO_70
+  - first:
+      213: 8896936648107151254
+    second: SLIDETUTO_71
+  - first:
+      213: -5278908658378324531
+    second: SLIDETUTO_72
+  - first:
+      213: 8610600757512257056
+    second: SLIDETUTO_73
+  - first:
+      213: 2414614418349899500
+    second: SLIDETUTO_74
+  - first:
+      213: -7975942792556726535
+    second: SLIDETUTO_75
+  - first:
+      213: 8230330954666000559
+    second: SLIDETUTO_76
+  - first:
+      213: -6245224971642445709
+    second: SLIDETUTO_77
+  - first:
+      213: -8545268605250293197
+    second: SLIDETUTO_78
+  - first:
+      213: 1070217710539091838
+    second: SLIDETUTO_79
+  - first:
+      213: -3740885355785879478
+    second: SLIDETUTO_80
+  - first:
+      213: -5973858684918256666
+    second: SLIDETUTO_81
+  - first:
+      213: -199467636509764678
+    second: SLIDETUTO_82
+  - first:
+      213: 6572251866327416595
+    second: SLIDETUTO_83
+  - first:
+      213: -93012020618846055
+    second: SLIDETUTO_84
+  - first:
+      213: 3737955448937374304
+    second: SLIDETUTO_85
+  - first:
+      213: 8188776052223840600
+    second: SLIDETUTO_86
+  - first:
+      213: 3445230036658486447
+    second: SLIDETUTO_87
+  - first:
+      213: -6817316231587245670
+    second: SLIDETUTO_88
+  - first:
+      213: -4212877448257154652
+    second: SLIDETUTO_89
+  - first:
+      213: -5724286897438550708
+    second: SLIDETUTO_90
+  - first:
+      213: -7594731151782677826
+    second: SLIDETUTO_91
+  - first:
+      213: -8790178085160081615
+    second: SLIDETUTO_92
+  - first:
+      213: -422779620681554612
+    second: SLIDETUTO_93
+  - first:
+      213: 6333968843082801749
+    second: SLIDETUTO_94
+  - first:
+      213: -66361449420640238
+    second: SLIDETUTO_95
+  - first:
+      213: 8898632793123847137
+    second: SLIDETUTO_96
+  - first:
+      213: 908025613381346920
+    second: SLIDETUTO_97
+  - first:
+      213: -2699646567401375483
+    second: SLIDETUTO_98
+  - first:
+      213: 6357459427341532799
+    second: SLIDETUTO_99
+  - first:
+      213: -3485158372876698888
+    second: SLIDETUTO_100
+  - first:
+      213: -6492600461726161657
+    second: SLIDETUTO_101
+  - first:
+      213: -5049845866234198746
+    second: SLIDETUTO_102
+  - first:
+      213: 4807396864270741418
+    second: SLIDETUTO_103
+  - first:
+      213: 5800370416248936230
+    second: SLIDETUTO_104
+  - first:
+      213: 8155239448665638150
+    second: SLIDETUTO_105
+  - first:
+      213: 5677425361663366026
+    second: SLIDETUTO_106
+  - first:
+      213: 3346643063110703571
+    second: SLIDETUTO_107
+  - first:
+      213: 2940111927232841776
+    second: SLIDETUTO_108
+  - first:
+      213: 3457504643683912994
+    second: SLIDETUTO_109
+  - first:
+      213: 7780675925290775096
+    second: SLIDETUTO_110
+  - first:
+      213: -7812763883365211779
+    second: SLIDETUTO_111
+  - first:
+      213: -3887730187872423094
+    second: SLIDETUTO_112
+  - first:
+      213: 5580117043150205090
+    second: SLIDETUTO_113
+  - first:
+      213: 8032284702047100108
+    second: SLIDETUTO_114
+  - first:
+      213: -8795234151243980350
+    second: SLIDETUTO_115
+  - first:
+      213: -404530788543486133
+    second: SLIDETUTO_116
+  - first:
+      213: 5011682848812447964
+    second: SLIDETUTO_117
+  - first:
+      213: -3389530072257074822
+    second: SLIDETUTO_118
+  - first:
+      213: 3881170981215134651
+    second: SLIDETUTO_119
+  - first:
+      213: -7518470176775211432
+    second: SLIDETUTO_120
+  - first:
+      213: 8994447885342307307
+    second: SLIDETUTO_121
+  - first:
+      213: 5681118527006886350
+    second: SLIDETUTO_122
+  - first:
+      213: 460011096271244980
+    second: SLIDETUTO_123
+  - first:
+      213: 2318459653067525628
+    second: SLIDETUTO_124
+  - first:
+      213: 5498438189061687169
+    second: SLIDETUTO_125
+  - first:
+      213: -4480076157980166562
+    second: SLIDETUTO_126
+  - first:
+      213: -7419709899952098673
+    second: SLIDETUTO_127
+  - first:
+      213: -7512293189959483066
+    second: SLIDETUTO_128
+  - first:
+      213: 7509992018279330544
+    second: SLIDETUTO_129
+  - first:
+      213: 1653271778545939944
+    second: SLIDETUTO_130
+  - first:
+      213: -852509049147967129
+    second: SLIDETUTO_131
+  - first:
+      213: 6008155683400458421
+    second: SLIDETUTO_132
+  - first:
+      213: 8135545933124459864
+    second: SLIDETUTO_133
+  - first:
+      213: -1353741752076052279
+    second: SLIDETUTO_134
+  - first:
+      213: -6464947867188386472
+    second: SLIDETUTO_135
+  - first:
+      213: -8182875131325219682
+    second: SLIDETUTO_136
+  - first:
+      213: 8235594460194471471
+    second: SLIDETUTO_137
+  - first:
+      213: -7522719586802924122
+    second: SLIDETUTO_138
+  - first:
+      213: 6327534428863561232
+    second: SLIDETUTO_139
+  - first:
+      213: -4752482631620677712
+    second: SLIDETUTO_140
+  - first:
+      213: -1702553345420054054
+    second: SLIDETUTO_141
+  - first:
+      213: 209968295799808012
+    second: SLIDETUTO_142
+  - first:
+      213: -5190280443396093750
+    second: SLIDETUTO_143
+  - first:
+      213: 8690159717169072751
+    second: SLIDETUTO_144
+  - first:
+      213: 5936513014586074904
+    second: SLIDETUTO_145
+  - first:
+      213: 7665831327835216320
+    second: SLIDETUTO_146
+  - first:
+      213: -5826111712787387660
+    second: SLIDETUTO_147
+  - first:
+      213: 3036189565130616815
+    second: SLIDETUTO_148
+  - first:
+      213: -3806037086332409692
+    second: SLIDETUTO_149
+  - first:
+      213: 5483386183902717058
+    second: SLIDETUTO_150
+  - first:
+      213: -5248247516877028799
+    second: SLIDETUTO_151
+  - first:
+      213: -2047580792331517060
+    second: SLIDETUTO_152
+  - first:
+      213: -2261621455332979271
+    second: SLIDETUTO_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLIDETUTO_0
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1333
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec23365725368bb50800000000000000
+      internalID: 6609141658974106318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_1
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1342
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f64714eb5851b9d0800000000000000
+      internalID: -2760327944909404427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_2
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1342
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeff51e5afb70daf0800000000000000
+      internalID: -373662453821210646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_3
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1347
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3973283c686080a0800000000000000
+      internalID: -6881385416614512322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1337
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f32839fb2494920800000000000000
+      internalID: 2974982419435896654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_5
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1333
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19b31d58632ea40800000000000000
+      internalID: 5395935251912167897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_6
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1342
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2390fe09856c866f0800000000000000
+      internalID: -691084459110364878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_7
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1342
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83b0660b2ddaa780800000000000000
+      internalID: -8670874955688135797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_8
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1347
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe2e006a20e136b0800000000000000
+      internalID: -5318223212343054600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_9
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1337
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161bb2bb094234a80800000000000000
+      internalID: -8483897069001789087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1132
+        width: 131
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c289f0ea300dbcb0800000000000000
+      internalID: -4846717371098234168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1266
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19fe3e3ffd920fe0800000000000000
+      internalID: -1224242429104817893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_12
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1135
+        width: 140
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eb72462497a9b00800000000000000
+      internalID: 836114006885777027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_13
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1301
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e91102d88c50c90800000000000000
+      internalID: -7204131520455270833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_14
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1302
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac024a49f82cdfc0800000000000000
+      internalID: -3468852561824314200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_15
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1297
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a110a57a9d41e1b0800000000000000
+      internalID: -5629132733442682459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_16
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1196
+        width: 19
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9464d821b8c89700800000000000000
+      internalID: 547408017945289887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_17
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1288
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70450433a6764da50800000000000000
+      internalID: 6544969864300221447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_18
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1266
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2df76e47c361670800000000000000
+      internalID: 8509055018744140518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_19
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1302
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81fcd7a4fa05d3e0800000000000000
+      internalID: -2029704011155967606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_20
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1297
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6c76aa966b77090800000000000000
+      internalID: -8036754445072611619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_21
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1196
+        width: 19
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea183fb99e13970800000000000000
+      internalID: 8733018008462667419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_22
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1288
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c739bdfa7caabc0800000000000000
+      internalID: -3770982179852288998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1235
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650cb725542b103d0800000000000000
+      internalID: -3242114245923717034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_24
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1128
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc66413896d675780800000000000000
+      internalID: -8694360255677307189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_25
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1261
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dc1714a0b9e57b0800000000000000
+      internalID: -5233575248607982249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1131
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ff89f1395c49170800000000000000
+      internalID: 8184383658520018716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_27
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1267
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb45baf7955ec2ad0800000000000000
+      internalID: -2725551501909207876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1131
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c317884d00f0e9f0800000000000000
+      internalID: -441088823640255546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_29
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1267
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ab590c926dafc00800000000000000
+      internalID: 935295347445840478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_30
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1229
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6dc1ae72474390800000000000000
+      internalID: -7834219915139780844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_31
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1250
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4828302a60925c5c0800000000000000
+      internalID: -4195902369361067388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_32
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1136
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b11f2735cb0ffb0800000000000000
+      internalID: -4615982551458047101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_33
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1229
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c90bec169130b0800000000000000
+      internalID: -5750650198228876685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_34
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1250
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0f312ae81556540800000000000000
+      internalID: 5000492634311225564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_35
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1150
+        width: 184
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768de5f2470b82d30800000000000000
+      internalID: 4406966248439470183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_36
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1215
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582bc9710587c28b0800000000000000
+      internalID: -5175629586366680443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1122
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44bb5c5c759a6250800000000000000
+      internalID: 5938723419999417420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1256
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ef5306c3253d390800000000000000
+      internalID: -7794796110782529990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1236
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e820fcff8139eb780800000000000000
+      internalID: -8665326897434000754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_40
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1219
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e18d2fe949a6eed0800000000000000
+      internalID: -2385032817635655195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_41
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1226
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c49d042f9a21a50800000000000000
+      internalID: 6490436870929468574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_42
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1147
+        width: 12
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56340df400d00af10800000000000000
+      internalID: 2278835706439680869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_43
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1122
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905456541bf92ead0800000000000000
+      internalID: -2674399644982360823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_44
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1256
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c65e861b0e52990800000000000000
+      internalID: -7411270559194583906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_45
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1219
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45503934877f8840800000000000000
+      internalID: 5228529102179292492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_46
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1226
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d52bf7f2d60c6a0800000000000000
+      internalID: -6431020217111782027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_47
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1147
+        width: 12
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a405ff11c3bec00800000000000000
+      internalID: 930903795977702040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_48
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1181
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43060f6de76ca640800000000000000
+      internalID: 5092559548116763471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_49
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baf24c0642f9cd10800000000000000
+      internalID: 2146513080086100662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_50
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1177
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca24b9ae798181610800000000000000
+      internalID: 1592049509030642348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_51
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1181
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dc1768e976a9630800000000000000
+      internalID: 3934571155019648278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_52
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bc10d73cab33d00800000000000000
+      internalID: 951309295083965250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_53
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1177
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c194ddd7ed64a00800000000000000
+      internalID: 740523820913859739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_54
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1149
+        width: 11
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05bcdce07d15f10800000000000000
+      internalID: 2256821346871496952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_55
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1194
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539960462225c1b10800000000000000
+      internalID: 1953526646032472373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_56
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1169
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377ba052c234c380800000000000000
+      internalID: -8951974349147244749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_57
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1176
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629d7ba7fac8ae7d0800000000000000
+      internalID: -2888341525698717402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_58
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1171
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a420dcca6f0960800000000000000
+      internalID: 7570386926531028677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_59
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1183
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2168979b71f44000800000000000000
+      internalID: 19405811542941998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_60
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1174
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f926087d3d442b810800000000000000
+      internalID: 1779560479409070751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_61
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1149
+        width: 11
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f521b233fa02f5100800000000000000
+      internalID: 98833653675266655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_62
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1194
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80075cb99e9ac6430800000000000000
+      internalID: 3777581008262885384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_63
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1169
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d659cab0ff1205120800000000000000
+      internalID: 2400455980684711277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_64
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1176
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d229311736fe3cf0800000000000000
+      internalID: -270508211223059751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_65
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1171
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aa60e5e17aea5c0800000000000000
+      internalID: -4202237653421741533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_66
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1183
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b7425b671acdf0800000000000000
+      internalID: -159289087108860044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1138
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f97abfa524d0c060800000000000000
+      internalID: 6971805481496639985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_68
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1165
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fd1d0c151fe4b10800000000000000
+      internalID: 1967775420637110111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_69
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1150
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc348c4c922bf03b0800000000000000
+      internalID: -5544016723804929077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_70
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1165
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d11301e593314a0800000000000000
+      internalID: -6623887550770504322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_71
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1150
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc4935eb4487b70800000000000000
+      internalID: 8896936648107151254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_72
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1123
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc540a74b8c8db6b0800000000000000
+      internalID: -5278908658378324531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_73
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1108
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e3a3e94cffe7770800000000000000
+      internalID: 8610600757512257056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_74
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1173
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee3843350f628120800000000000000
+      internalID: 2414614418349899500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_75
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6b1dcd942cf4190800000000000000
+      internalID: -7975942792556726535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_76
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1122
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0c4c8a562083270800000000000000
+      internalID: 8230330954666000559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_77
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1123
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3706ad61af08459a0800000000000000
+      internalID: -6245224971642445709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_78
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1108
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33232c17a7b196980800000000000000
+      internalID: -8545268605250293197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_79
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1122
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fa305665d2ade00800000000000000
+      internalID: 1070217710539091838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_80
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1138
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a400ce6c694b51cc0800000000000000
+      internalID: -3740885355785879478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_81
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba01b4d27981da0800000000000000
+      internalID: -5973858684918256666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1131
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab316adcd395b3df0800000000000000
+      internalID: -199467636509764678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_83
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1139
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ff7da4044553b50800000000000000
+      internalID: 6572251866327416595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_84
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1135
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9902c2f5f0e85bef0800000000000000
+      internalID: -93012020618846055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_85
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1129
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062e5202da2efd330800000000000000
+      internalID: 3737955448937374304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_86
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1101
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851170afe6064a170800000000000000
+      internalID: 8188776052223840600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_87
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1131
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facf888f67aefcf20800000000000000
+      internalID: 3445230036658486447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_88
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1133
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91dcbec1070461a0800000000000000
+      internalID: -6817316231587245670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_89
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1127
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d066184ad885c0800000000000000
+      internalID: -4212877448257154652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_90
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1139
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4590c5356f3f80b0800000000000000
+      internalID: -5724286897438550708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_91
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1131
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2766d81481a9690800000000000000
+      internalID: -7594731151782677826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_92
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1101
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1372c999a93030680800000000000000
+      internalID: -8790178085160081615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_93
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1131
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45600bcc2cf12af0800000000000000
+      internalID: -422779620681554612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_94
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1128
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a75e9a17c6e750800000000000000
+      internalID: 6333968843082801749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_95
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1130
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210b0840d9c341ff0800000000000000
+      internalID: -66361449420640238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_96
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1130
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf9ccd06b4e7b70800000000000000
+      internalID: 8898632793123847137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_97
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1102
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662d840c74f99c00800000000000000
+      internalID: 908025613381346920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_98
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1128
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50930f210cde88ad0800000000000000
+      internalID: -2699646567401375483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_99
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1102
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e76a87aab3a3850800000000000000
+      internalID: 6357459427341532799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_100
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1098
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fab4beccea32afc0800000000000000
+      internalID: -3485158372876698888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_101
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1097
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70566428746a5e5a0800000000000000
+      internalID: -6492600461726161657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_102
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1103
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625c2ac90f75be9b0800000000000000
+      internalID: -5049845866234198746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_103
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1091
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf2f253afd47b240800000000000000
+      internalID: 4807396864270741418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_104
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1110
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627d332792e0f7050800000000000000
+      internalID: 5800370416248936230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_105
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1098
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605c7fbf11b3d2170800000000000000
+      internalID: 8155239448665638150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_106
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1097
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a831db049444ace40800000000000000
+      internalID: 5677425361663366026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_107
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1103
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d91db6722aa17e20800000000000000
+      internalID: 3346643063110703571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_108
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1091
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0384a9e68306dc820800000000000000
+      internalID: 2940111927232841776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_109
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1110
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0b00a7268bff20800000000000000
+      internalID: 3457504643683912994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_110
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1095
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832f36fb7838afb60800000000000000
+      internalID: 7780675925290775096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_111
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1091
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e30254ac739390800000000000000
+      internalID: -7812763883365211779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_112
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1095
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a433d410ef10c0ac0800000000000000
+      internalID: -3887730187872423094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_113
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1091
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a03212d2ee807d40800000000000000
+      internalID: 5580117043150205090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_114
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 896
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc52503168687f60800000000000000
+      internalID: 8032284702047100108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_115
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1031
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1e7ba732d01f580800000000000000
+      internalID: -8795234151243980350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_116
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 903
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4728202461d26af0800000000000000
+      internalID: -404530788543486133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_117
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 898
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8326a7ff21d8540800000000000000
+      internalID: 5011682848812447964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_118
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1034
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79ec979b58f5f0d0800000000000000
+      internalID: -3389530072257074822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_119
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 899
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3e1efa170bcd530800000000000000
+      internalID: 3881170981215134651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_120
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1026
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f1f2753709a790800000000000000
+      internalID: -7518470176775211432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_121
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1030
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3779472b2b2dc70800000000000000
+      internalID: 8994447885342307307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_122
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1031
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9c221533367de40800000000000000
+      internalID: 5681118527006886350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_123
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1026
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be4cf1a7a9426600800000000000000
+      internalID: 460011096271244980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_124
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1027
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd4a2f45c2dc2020800000000000000
+      internalID: 2318459653067525628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_125
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 895
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187c676a6606e4c40800000000000000
+      internalID: 5498438189061687169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_126
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1028
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5635e4887293d1c0800000000000000
+      internalID: -4480076157980166562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_127
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1014
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82f7e44825e70990800000000000000
+      internalID: -7419709899952098673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_128
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 906
+        width: 10
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64101e34529feb790800000000000000
+      internalID: -7512293189959483066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_129
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 898
+        width: 63
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2fe8373f9d83860800000000000000
+      internalID: 7509992018279330544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_130
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 891
+        width: 117
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5b8655ce991f610800000000000000
+      internalID: 1653271778545939944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_131
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1004
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769babd59874b24f0800000000000000
+      internalID: -852509049147967129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_132
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 967
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b02450f2c1416350800000000000000
+      internalID: 6008155683400458421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_133
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1021
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dd1c51ce347e070800000000000000
+      internalID: 8135545933124459864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_134
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1003
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c854e58c0b863de0800000000000000
+      internalID: -1353741752076052279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_135
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 990
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85521d4ea24e746a0800000000000000
+      internalID: -6464947867188386472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_136
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 941
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c7bfb3c66907e80800000000000000
+      internalID: -8182875131325219682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_137
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 948
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef01a0785ba4270800000000000000
+      internalID: 8235594460194471471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_138
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 960
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50db3946ee99790800000000000000
+      internalID: -7522719586802924122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_139
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 944
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e7770d90befc750800000000000000
+      internalID: 6327534428863561232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_140
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 931
+        width: 7
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf290de93acb0eb0800000000000000
+      internalID: -4752482631620677712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_141
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 932
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1b51bb0c05f58e0800000000000000
+      internalID: -1702553345420054054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_142
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 917
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00ed357d05f9e200800000000000000
+      internalID: 209968295799808012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_143
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 907
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac808be9f6b68f7b0800000000000000
+      internalID: -5190280443396093750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_144
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 903
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a85476836a99870800000000000000
+      internalID: 8690159717169072751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_145
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 884
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817e2ee322bb26250800000000000000
+      internalID: 5936513014586074904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_146
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 900
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9dda33af0826a60800000000000000
+      internalID: 7665831327835216320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_147
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 894
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faa099e34e752fa0800000000000000
+      internalID: -5826111712787387660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_148
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 902
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefab54b256b22a20800000000000000
+      internalID: 3036189565130616815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_149
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 895
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a13b6f6d3e2bc0800000000000000
+      internalID: -3806037086332409692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_150
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 899
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2846ec99ea6e81c40800000000000000
+      internalID: 5483386183902717058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_151
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 897
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142083790ba7a27b0800000000000000
+      internalID: -5248247516877028799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_152
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 896
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ca203e188593e0800000000000000
+      internalID: -2047580792331517060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIDETUTO_153
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 883
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdc97ad44b1d90e0800000000000000
+      internalID: -2261621455332979271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SLIDETUTO_0: 6609141658974106318
+      SLIDETUTO_1: -2760327944909404427
+      SLIDETUTO_10: -4846717371098234168
+      SLIDETUTO_100: -3485158372876698888
+      SLIDETUTO_101: -6492600461726161657
+      SLIDETUTO_102: -5049845866234198746
+      SLIDETUTO_103: 4807396864270741418
+      SLIDETUTO_104: 5800370416248936230
+      SLIDETUTO_105: 8155239448665638150
+      SLIDETUTO_106: 5677425361663366026
+      SLIDETUTO_107: 3346643063110703571
+      SLIDETUTO_108: 2940111927232841776
+      SLIDETUTO_109: 3457504643683912994
+      SLIDETUTO_11: -1224242429104817893
+      SLIDETUTO_110: 7780675925290775096
+      SLIDETUTO_111: -7812763883365211779
+      SLIDETUTO_112: -3887730187872423094
+      SLIDETUTO_113: 5580117043150205090
+      SLIDETUTO_114: 8032284702047100108
+      SLIDETUTO_115: -8795234151243980350
+      SLIDETUTO_116: -404530788543486133
+      SLIDETUTO_117: 5011682848812447964
+      SLIDETUTO_118: -3389530072257074822
+      SLIDETUTO_119: 3881170981215134651
+      SLIDETUTO_12: 836114006885777027
+      SLIDETUTO_120: -7518470176775211432
+      SLIDETUTO_121: 8994447885342307307
+      SLIDETUTO_122: 5681118527006886350
+      SLIDETUTO_123: 460011096271244980
+      SLIDETUTO_124: 2318459653067525628
+      SLIDETUTO_125: 5498438189061687169
+      SLIDETUTO_126: -4480076157980166562
+      SLIDETUTO_127: -7419709899952098673
+      SLIDETUTO_128: -7512293189959483066
+      SLIDETUTO_129: 7509992018279330544
+      SLIDETUTO_13: -7204131520455270833
+      SLIDETUTO_130: 1653271778545939944
+      SLIDETUTO_131: -852509049147967129
+      SLIDETUTO_132: 6008155683400458421
+      SLIDETUTO_133: 8135545933124459864
+      SLIDETUTO_134: -1353741752076052279
+      SLIDETUTO_135: -6464947867188386472
+      SLIDETUTO_136: -8182875131325219682
+      SLIDETUTO_137: 8235594460194471471
+      SLIDETUTO_138: -7522719586802924122
+      SLIDETUTO_139: 6327534428863561232
+      SLIDETUTO_14: -3468852561824314200
+      SLIDETUTO_140: -4752482631620677712
+      SLIDETUTO_141: -1702553345420054054
+      SLIDETUTO_142: 209968295799808012
+      SLIDETUTO_143: -5190280443396093750
+      SLIDETUTO_144: 8690159717169072751
+      SLIDETUTO_145: 5936513014586074904
+      SLIDETUTO_146: 7665831327835216320
+      SLIDETUTO_147: -5826111712787387660
+      SLIDETUTO_148: 3036189565130616815
+      SLIDETUTO_149: -3806037086332409692
+      SLIDETUTO_15: -5629132733442682459
+      SLIDETUTO_150: 5483386183902717058
+      SLIDETUTO_151: -5248247516877028799
+      SLIDETUTO_152: -2047580792331517060
+      SLIDETUTO_153: -2261621455332979271
+      SLIDETUTO_16: 547408017945289887
+      SLIDETUTO_17: 6544969864300221447
+      SLIDETUTO_18: 8509055018744140518
+      SLIDETUTO_19: -2029704011155967606
+      SLIDETUTO_2: -373662453821210646
+      SLIDETUTO_20: -8036754445072611619
+      SLIDETUTO_21: 8733018008462667419
+      SLIDETUTO_22: -3770982179852288998
+      SLIDETUTO_23: -3242114245923717034
+      SLIDETUTO_24: -8694360255677307189
+      SLIDETUTO_25: -5233575248607982249
+      SLIDETUTO_26: 8184383658520018716
+      SLIDETUTO_27: -2725551501909207876
+      SLIDETUTO_28: -441088823640255546
+      SLIDETUTO_29: 935295347445840478
+      SLIDETUTO_3: -6881385416614512322
+      SLIDETUTO_30: -7834219915139780844
+      SLIDETUTO_31: -4195902369361067388
+      SLIDETUTO_32: -4615982551458047101
+      SLIDETUTO_33: -5750650198228876685
+      SLIDETUTO_34: 5000492634311225564
+      SLIDETUTO_35: 4406966248439470183
+      SLIDETUTO_36: -5175629586366680443
+      SLIDETUTO_37: 5938723419999417420
+      SLIDETUTO_38: -7794796110782529990
+      SLIDETUTO_39: -8665326897434000754
+      SLIDETUTO_4: 2974982419435896654
+      SLIDETUTO_40: -2385032817635655195
+      SLIDETUTO_41: 6490436870929468574
+      SLIDETUTO_42: 2278835706439680869
+      SLIDETUTO_43: -2674399644982360823
+      SLIDETUTO_44: -7411270559194583906
+      SLIDETUTO_45: 5228529102179292492
+      SLIDETUTO_46: -6431020217111782027
+      SLIDETUTO_47: 930903795977702040
+      SLIDETUTO_48: 5092559548116763471
+      SLIDETUTO_49: 2146513080086100662
+      SLIDETUTO_5: 5395935251912167897
+      SLIDETUTO_50: 1592049509030642348
+      SLIDETUTO_51: 3934571155019648278
+      SLIDETUTO_52: 951309295083965250
+      SLIDETUTO_53: 740523820913859739
+      SLIDETUTO_54: 2256821346871496952
+      SLIDETUTO_55: 1953526646032472373
+      SLIDETUTO_56: -8951974349147244749
+      SLIDETUTO_57: -2888341525698717402
+      SLIDETUTO_58: 7570386926531028677
+      SLIDETUTO_59: 19405811542941998
+      SLIDETUTO_6: -691084459110364878
+      SLIDETUTO_60: 1779560479409070751
+      SLIDETUTO_61: 98833653675266655
+      SLIDETUTO_62: 3777581008262885384
+      SLIDETUTO_63: 2400455980684711277
+      SLIDETUTO_64: -270508211223059751
+      SLIDETUTO_65: -4202237653421741533
+      SLIDETUTO_66: -159289087108860044
+      SLIDETUTO_67: 6971805481496639985
+      SLIDETUTO_68: 1967775420637110111
+      SLIDETUTO_69: -5544016723804929077
+      SLIDETUTO_7: -8670874955688135797
+      SLIDETUTO_70: -6623887550770504322
+      SLIDETUTO_71: 8896936648107151254
+      SLIDETUTO_72: -5278908658378324531
+      SLIDETUTO_73: 8610600757512257056
+      SLIDETUTO_74: 2414614418349899500
+      SLIDETUTO_75: -7975942792556726535
+      SLIDETUTO_76: 8230330954666000559
+      SLIDETUTO_77: -6245224971642445709
+      SLIDETUTO_78: -8545268605250293197
+      SLIDETUTO_79: 1070217710539091838
+      SLIDETUTO_8: -5318223212343054600
+      SLIDETUTO_80: -3740885355785879478
+      SLIDETUTO_81: -5973858684918256666
+      SLIDETUTO_82: -199467636509764678
+      SLIDETUTO_83: 6572251866327416595
+      SLIDETUTO_84: -93012020618846055
+      SLIDETUTO_85: 3737955448937374304
+      SLIDETUTO_86: 8188776052223840600
+      SLIDETUTO_87: 3445230036658486447
+      SLIDETUTO_88: -6817316231587245670
+      SLIDETUTO_89: -4212877448257154652
+      SLIDETUTO_9: -8483897069001789087
+      SLIDETUTO_90: -5724286897438550708
+      SLIDETUTO_91: -7594731151782677826
+      SLIDETUTO_92: -8790178085160081615
+      SLIDETUTO_93: -422779620681554612
+      SLIDETUTO_94: 6333968843082801749
+      SLIDETUTO_95: -66361449420640238
+      SLIDETUTO_96: 8898632793123847137
+      SLIDETUTO_97: 908025613381346920
+      SLIDETUTO_98: -2699646567401375483
+      SLIDETUTO_99: 6357459427341532799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

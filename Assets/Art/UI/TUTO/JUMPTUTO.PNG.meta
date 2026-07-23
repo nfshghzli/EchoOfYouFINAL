@@ -1,0 +1,4160 @@
+fileFormatVersion: 2
+guid: 310aaff6225a44048b1e8b49aa24c399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1390340824674260830
+    second: JUMPTUTO_0
+  - first:
+      213: -6999398266832461625
+    second: JUMPTUTO_1
+  - first:
+      213: -9128214696305374308
+    second: JUMPTUTO_2
+  - first:
+      213: -6756828372213827493
+    second: JUMPTUTO_3
+  - first:
+      213: 7185250716961779778
+    second: JUMPTUTO_4
+  - first:
+      213: 4752718834616020663
+    second: JUMPTUTO_5
+  - first:
+      213: -8488411628763982181
+    second: JUMPTUTO_6
+  - first:
+      213: 556763955626718842
+    second: JUMPTUTO_7
+  - first:
+      213: 3785013225352688220
+    second: JUMPTUTO_8
+  - first:
+      213: -4344230486823944311
+    second: JUMPTUTO_9
+  - first:
+      213: -8730318461696390705
+    second: JUMPTUTO_10
+  - first:
+      213: -8361864913552602347
+    second: JUMPTUTO_11
+  - first:
+      213: -4549733701906002550
+    second: JUMPTUTO_12
+  - first:
+      213: 8853911653304360640
+    second: JUMPTUTO_13
+  - first:
+      213: -7217701155802823413
+    second: JUMPTUTO_14
+  - first:
+      213: -6153104280600990357
+    second: JUMPTUTO_15
+  - first:
+      213: -4635306578178096061
+    second: JUMPTUTO_16
+  - first:
+      213: 3948243033661757146
+    second: JUMPTUTO_17
+  - first:
+      213: -7692639677753501995
+    second: JUMPTUTO_18
+  - first:
+      213: -4015863479687539193
+    second: JUMPTUTO_19
+  - first:
+      213: 7645926415970715038
+    second: JUMPTUTO_20
+  - first:
+      213: -6384329076903812641
+    second: JUMPTUTO_21
+  - first:
+      213: -7653442342360200387
+    second: JUMPTUTO_22
+  - first:
+      213: 2048134184707728848
+    second: JUMPTUTO_23
+  - first:
+      213: -1513543979621630778
+    second: JUMPTUTO_24
+  - first:
+      213: -3020640177865493421
+    second: JUMPTUTO_25
+  - first:
+      213: 8472655981145236460
+    second: JUMPTUTO_26
+  - first:
+      213: -1579482919681883385
+    second: JUMPTUTO_27
+  - first:
+      213: 7793129535354709039
+    second: JUMPTUTO_28
+  - first:
+      213: 2813365191228864593
+    second: JUMPTUTO_29
+  - first:
+      213: -3073361563032563182
+    second: JUMPTUTO_30
+  - first:
+      213: -3664003444447335637
+    second: JUMPTUTO_31
+  - first:
+      213: 868197906894631101
+    second: JUMPTUTO_32
+  - first:
+      213: 8513022561094725111
+    second: JUMPTUTO_33
+  - first:
+      213: 1389525692200937844
+    second: JUMPTUTO_34
+  - first:
+      213: -7080577409135093819
+    second: JUMPTUTO_35
+  - first:
+      213: -1930065864799299837
+    second: JUMPTUTO_36
+  - first:
+      213: -4377232309388779767
+    second: JUMPTUTO_37
+  - first:
+      213: -6828156465786704929
+    second: JUMPTUTO_38
+  - first:
+      213: -3924031064909869785
+    second: JUMPTUTO_39
+  - first:
+      213: -1943710999139570424
+    second: JUMPTUTO_40
+  - first:
+      213: -8437315784286279828
+    second: JUMPTUTO_41
+  - first:
+      213: -3299048621696715518
+    second: JUMPTUTO_42
+  - first:
+      213: 3096175739567156547
+    second: JUMPTUTO_43
+  - first:
+      213: 4479453451260374930
+    second: JUMPTUTO_44
+  - first:
+      213: -7465252942737301968
+    second: JUMPTUTO_45
+  - first:
+      213: 8812235445155961384
+    second: JUMPTUTO_46
+  - first:
+      213: 4002212046764473274
+    second: JUMPTUTO_47
+  - first:
+      213: -2786134356145009032
+    second: JUMPTUTO_48
+  - first:
+      213: 5853540032774948505
+    second: JUMPTUTO_49
+  - first:
+      213: 5126327618371860769
+    second: JUMPTUTO_50
+  - first:
+      213: 5697132862729301107
+    second: JUMPTUTO_51
+  - first:
+      213: 7641130251230653830
+    second: JUMPTUTO_52
+  - first:
+      213: 854101502740559199
+    second: JUMPTUTO_53
+  - first:
+      213: -7660908241292725562
+    second: JUMPTUTO_54
+  - first:
+      213: -2815186084392333784
+    second: JUMPTUTO_55
+  - first:
+      213: -1333894171028418127
+    second: JUMPTUTO_56
+  - first:
+      213: -7735874505129417836
+    second: JUMPTUTO_57
+  - first:
+      213: 8512368555723246464
+    second: JUMPTUTO_58
+  - first:
+      213: 4184043373580219373
+    second: JUMPTUTO_59
+  - first:
+      213: -3456870525017431634
+    second: JUMPTUTO_60
+  - first:
+      213: -6455962730858175498
+    second: JUMPTUTO_61
+  - first:
+      213: 1408843771770460612
+    second: JUMPTUTO_62
+  - first:
+      213: 6933686313171706060
+    second: JUMPTUTO_63
+  - first:
+      213: 2020814926789049560
+    second: JUMPTUTO_64
+  - first:
+      213: 6928637723077983395
+    second: JUMPTUTO_65
+  - first:
+      213: -3267050625038974454
+    second: JUMPTUTO_66
+  - first:
+      213: -8396473751208197126
+    second: JUMPTUTO_67
+  - first:
+      213: -465465016238670341
+    second: JUMPTUTO_68
+  - first:
+      213: 7567021330329430771
+    second: JUMPTUTO_69
+  - first:
+      213: 7885356811820625775
+    second: JUMPTUTO_70
+  - first:
+      213: -4009638437442735623
+    second: JUMPTUTO_71
+  - first:
+      213: -7682059633759017261
+    second: JUMPTUTO_72
+  - first:
+      213: 5253482235137204674
+    second: JUMPTUTO_73
+  - first:
+      213: -5433809398798630873
+    second: JUMPTUTO_74
+  - first:
+      213: -6648903344992430215
+    second: JUMPTUTO_75
+  - first:
+      213: -6510046430104163470
+    second: JUMPTUTO_76
+  - first:
+      213: -814500077482459577
+    second: JUMPTUTO_77
+  - first:
+      213: 5075411722940863241
+    second: JUMPTUTO_78
+  - first:
+      213: -7810382592411509666
+    second: JUMPTUTO_79
+  - first:
+      213: 6453411830546846626
+    second: JUMPTUTO_80
+  - first:
+      213: -5694884735225213
+    second: JUMPTUTO_81
+  - first:
+      213: -7530339553398549646
+    second: JUMPTUTO_82
+  - first:
+      213: -6367633445885922108
+    second: JUMPTUTO_83
+  - first:
+      213: -8076880809354853958
+    second: JUMPTUTO_84
+  - first:
+      213: -5688788441562107254
+    second: JUMPTUTO_85
+  - first:
+      213: -3049373057754878580
+    second: JUMPTUTO_86
+  - first:
+      213: -228399505310185698
+    second: JUMPTUTO_87
+  - first:
+      213: -3330885979931282223
+    second: JUMPTUTO_88
+  - first:
+      213: -1329806011042050585
+    second: JUMPTUTO_89
+  - first:
+      213: 3289545121689858357
+    second: JUMPTUTO_90
+  - first:
+      213: 130894049282208310
+    second: JUMPTUTO_91
+  - first:
+      213: 3173055070732209284
+    second: JUMPTUTO_92
+  - first:
+      213: -3612809028960161232
+    second: JUMPTUTO_93
+  - first:
+      213: 8138346509787083653
+    second: JUMPTUTO_94
+  - first:
+      213: 8440349153530639517
+    second: JUMPTUTO_95
+  - first:
+      213: -4924489225724223304
+    second: JUMPTUTO_96
+  - first:
+      213: -417103408015999643
+    second: JUMPTUTO_97
+  - first:
+      213: -5395141996591378615
+    second: JUMPTUTO_98
+  - first:
+      213: -185755556330893465
+    second: JUMPTUTO_99
+  - first:
+      213: 3436482460620776994
+    second: JUMPTUTO_100
+  - first:
+      213: 3781376571292070698
+    second: JUMPTUTO_101
+  - first:
+      213: -5275089450864502168
+    second: JUMPTUTO_102
+  - first:
+      213: 168690660244000772
+    second: JUMPTUTO_103
+  - first:
+      213: 1213213211857168743
+    second: JUMPTUTO_104
+  - first:
+      213: 924193991604790525
+    second: JUMPTUTO_105
+  - first:
+      213: -6163998203120907261
+    second: JUMPTUTO_106
+  - first:
+      213: 8097939264282736168
+    second: JUMPTUTO_107
+  - first:
+      213: -790816495461423241
+    second: JUMPTUTO_108
+  - first:
+      213: -6571878239417174439
+    second: JUMPTUTO_109
+  - first:
+      213: 6050218961837279482
+    second: JUMPTUTO_110
+  - first:
+      213: -2665935811734270793
+    second: JUMPTUTO_111
+  - first:
+      213: 5061193347220243163
+    second: JUMPTUTO_112
+  - first:
+      213: -7414036651939386823
+    second: JUMPTUTO_113
+  - first:
+      213: -6533037435181116095
+    second: JUMPTUTO_114
+  - first:
+      213: -9213808667794679710
+    second: JUMPTUTO_115
+  - first:
+      213: -7885932765122719884
+    second: JUMPTUTO_116
+  - first:
+      213: 7849737859941738580
+    second: JUMPTUTO_117
+  - first:
+      213: -7272171875149291386
+    second: JUMPTUTO_118
+  - first:
+      213: -2403897405318816910
+    second: JUMPTUTO_119
+  - first:
+      213: 1140788928057480972
+    second: JUMPTUTO_120
+  - first:
+      213: -4148513870503647972
+    second: JUMPTUTO_121
+  - first:
+      213: -560473955414281269
+    second: JUMPTUTO_122
+  - first:
+      213: 3204076284766818588
+    second: JUMPTUTO_123
+  - first:
+      213: -734566861686759981
+    second: JUMPTUTO_124
+  - first:
+      213: -4632269283233103287
+    second: JUMPTUTO_125
+  - first:
+      213: -8149335951577736957
+    second: JUMPTUTO_126
+  - first:
+      213: -8787209709642219688
+    second: JUMPTUTO_127
+  - first:
+      213: -8197438430950704507
+    second: JUMPTUTO_128
+  - first:
+      213: 2537415581250770689
+    second: JUMPTUTO_129
+  - first:
+      213: 171744287918570249
+    second: JUMPTUTO_130
+  - first:
+      213: 4024603280762027520
+    second: JUMPTUTO_131
+  - first:
+      213: -6469722772915375499
+    second: JUMPTUTO_132
+  - first:
+      213: 684020227422121947
+    second: JUMPTUTO_133
+  - first:
+      213: 6063046968837046065
+    second: JUMPTUTO_134
+  - first:
+      213: 1614265291343078236
+    second: JUMPTUTO_135
+  - first:
+      213: -1988546307323506586
+    second: JUMPTUTO_136
+  - first:
+      213: -1352491621951306969
+    second: JUMPTUTO_137
+  - first:
+      213: -3997221236405537196
+    second: JUMPTUTO_138
+  - first:
+      213: -7090676273205463963
+    second: JUMPTUTO_139
+  - first:
+      213: -979473721498843406
+    second: JUMPTUTO_140
+  - first:
+      213: 3090802798342053098
+    second: JUMPTUTO_141
+  - first:
+      213: -2733046327276902346
+    second: JUMPTUTO_142
+  - first:
+      213: 1970992493785988997
+    second: JUMPTUTO_143
+  - first:
+      213: 3243433334789739656
+    second: JUMPTUTO_144
+  - first:
+      213: -1142056922313234015
+    second: JUMPTUTO_145
+  - first:
+      213: -3870640115112168931
+    second: JUMPTUTO_146
+  - first:
+      213: -1503939113990706025
+    second: JUMPTUTO_147
+  - first:
+      213: 7662376631775127465
+    second: JUMPTUTO_148
+  - first:
+      213: 4484493015490480598
+    second: JUMPTUTO_149
+  - first:
+      213: -8096994231158752662
+    second: JUMPTUTO_150
+  - first:
+      213: -8403304805437620812
+    second: JUMPTUTO_151
+  - first:
+      213: -790626038580882370
+    second: JUMPTUTO_152
+  - first:
+      213: 7804973136762930297
+    second: JUMPTUTO_153
+  - first:
+      213: 200676559891619672
+    second: JUMPTUTO_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JUMPTUTO_0
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1333
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57de6b1d9b7b4310800000000000000
+      internalID: 1390340824674260830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_1
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1342
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c067f75c542dde90800000000000000
+      internalID: -6999398266832461625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_2
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1342
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bc739d811125180800000000000000
+      internalID: -9128214696305374308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_3
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1347
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58f9e9056cea32a0800000000000000
+      internalID: -6756828372213827493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1337
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240b0ae357327b360800000000000000
+      internalID: 7185250716961779778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_5
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1333
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea89e599c05f140800000000000000
+      internalID: 4752718834616020663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_6
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1342
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b965a30e89a133a80800000000000000
+      internalID: -8488411628763982181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_7
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1342
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a763fd62ed50ab700800000000000000
+      internalID: 556763955626718842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_8
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1347
+        width: 104
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c527d4f7971178430800000000000000
+      internalID: 3785013225352688220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_9
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1337
+        width: 90
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fbf62936136b3c0800000000000000
+      internalID: -4344230486823944311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1132
+        width: 131
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc94d824d9da7d680800000000000000
+      internalID: -8730318461696390705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1266
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b05e70a20b4fb80800000000000000
+      internalID: -8361864913552602347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_12
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1133
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d054bbd491cd0c0800000000000000
+      internalID: -4549733701906002550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_13
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1296
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ced5e71db96fda70800000000000000
+      internalID: 8853911653304360640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_14
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1302
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0542713a0395db90800000000000000
+      internalID: -7217701155802823413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_15
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1297
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6da7d0e148cb9aa0800000000000000
+      internalID: -6153104280600990357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_16
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1196
+        width: 19
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344c9aed9351cafb0800000000000000
+      internalID: -4635306578178096061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_17
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1288
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6d154de1afac630800000000000000
+      internalID: 3948243033661757146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_18
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1266
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d65d6e68f04e3590800000000000000
+      internalID: -7692639677753501995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_19
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1302
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70692c23179c448c0800000000000000
+      internalID: -4015863479687539193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_20
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1297
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95c5b2c099cb1a60800000000000000
+      internalID: 7645926415970715038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_21
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1196
+        width: 19
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd163f9b78e4667a0800000000000000
+      internalID: -6384329076903812641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_22
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1288
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bcfa24db289c590800000000000000
+      internalID: -7653442342360200387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1235
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a6d3803f6c6c10800000000000000
+      internalID: 2048134184707728848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_24
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1250
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccb8b605cfcefae0800000000000000
+      internalID: -1513543979621630778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_25
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1205
+        width: 22
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354fd0423c78416d0800000000000000
+      internalID: -3020640177865493421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_26
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1291
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3204c89bbe49570800000000000000
+      internalID: 8472655981145236460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_27
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1250
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703809b27ac841ae0800000000000000
+      internalID: -1579482919681883385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_28
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1152
+        width: 171
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f242c6bc502c62c60800000000000000
+      internalID: 7793129535354709039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_29
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1128
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15835ae4cb41b0720800000000000000
+      internalID: 2813365191228864593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_30
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1261
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212da1911f93955d0800000000000000
+      internalID: -3073361563032563182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1131
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba8eda748d62dc0800000000000000
+      internalID: -3664003444447335637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_32
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1267
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0313b75657c0c00800000000000000
+      internalID: 868197906894631101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1131
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdefe65ae4542670800000000000000
+      internalID: 8513022561094725111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_34
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1267
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4796ae94146984310800000000000000
+      internalID: 1389525692200937844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_35
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1229
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7d8d36c5cbcbd90800000000000000
+      internalID: -7080577409135093819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_36
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1136
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d78762570735e0800000000000000
+      internalID: -1930065864799299837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_37
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1229
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fd48bf762f043c0800000000000000
+      internalID: -4377232309388779767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1215
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb2ff91fd38d31a0800000000000000
+      internalID: -6828156465786704929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_39
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1122
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d0370798a0b89c0800000000000000
+      internalID: -3924031064909869785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1256
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d244ef42d8605e0800000000000000
+      internalID: -1943710999139570424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_41
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1236
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67e1db3ff1a8ea80800000000000000
+      internalID: -8437315784286279828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_42
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1219
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2057607f1cc6732d0800000000000000
+      internalID: -3299048621696715518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_43
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1226
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d251f4e63d7fa20800000000000000
+      internalID: 3096175739567156547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_44
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1147
+        width: 12
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fa5464e273a2e30800000000000000
+      internalID: 4479453451260374930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_45
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1122
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e14bd4008166890800000000000000
+      internalID: -7465252942737301968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_46
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1256
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a90a9b2795b4a70800000000000000
+      internalID: 8812235445155961384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_47
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1219
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb7f23e6a6ba8730800000000000000
+      internalID: 4002212046764473274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_48
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1226
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e077d8099a559d0800000000000000
+      internalID: -2786134356145009032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_49
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1147
+        width: 12
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996441c75a3fb3150800000000000000
+      internalID: 5853540032774948505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_50
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1181
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1293457fecf542740800000000000000
+      internalID: 5126327618371860769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_51
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c2f296728401f40800000000000000
+      internalID: 5697132862729301107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_52
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1177
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d2813aa7fba0a60800000000000000
+      internalID: 7641130251230653830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_53
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1181
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f557af0aac06adb00800000000000000
+      internalID: 854101502740559199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_54
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c272e43b8cfea590800000000000000
+      internalID: -7660908241292725562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_55
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1177
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0c27fb237ee8d0800000000000000
+      internalID: -2815186084392333784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_56
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1149
+        width: 11
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b113e7915e0d7de0800000000000000
+      internalID: -1333894171028418127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_57
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1194
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493a2cebf17a4a490800000000000000
+      internalID: -7735874505129417836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_58
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1169
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bc619d912022670800000000000000
+      internalID: 8512368555723246464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_59
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1176
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3731fb745b01a30800000000000000
+      internalID: 4184043373580219373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_60
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1171
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea161d1a29ab600d0800000000000000
+      internalID: -3456870525017431634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_61
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1183
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a908f910d766a0800000000000000
+      internalID: -6455962730858175498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_62
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1174
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9566032f73d8310800000000000000
+      internalID: 1408843771770460612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_63
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1149
+        width: 11
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0669037f6693060800000000000000
+      internalID: 6933686313171706060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_64
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1194
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc711c18706b0c10800000000000000
+      internalID: 2020814926789049560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_65
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1169
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac3f65bc47772060800000000000000
+      internalID: 6928637723077983395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_66
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1176
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02855f14ca19a2d0800000000000000
+      internalID: -3267050625038974454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_67
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1159
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af308551c9bb97b80800000000000000
+      internalID: -8396473751208197126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_68
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1168
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdf8bba8065a89f0800000000000000
+      internalID: -465465016238670341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_69
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1171
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fae612eec5730960800000000000000
+      internalID: 7567021330329430771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_70
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1183
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f66cfed3a6e6d60800000000000000
+      internalID: 7885356811820625775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_71
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1138
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1397ac517ea58c0800000000000000
+      internalID: -4009638437442735623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_72
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1165
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d62d62e677d36590800000000000000
+      internalID: -7682059633759017261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_73
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1150
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ad2b324e18e840800000000000000
+      internalID: 5253482235137204674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_74
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1165
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720cd6f242b3794b0800000000000000
+      internalID: -5433809398798630873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_75
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1150
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d1d792a95ab3a0800000000000000
+      internalID: -6648903344992430215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_76
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1123
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b6756734ba7a5a0800000000000000
+      internalID: -6510046430104163470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_77
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1108
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e3124be7052b4f0800000000000000
+      internalID: -814500077482459577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_78
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1122
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9035eb2421c7f6640800000000000000
+      internalID: 5075411722940863241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_79
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1131
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cda63d962fb9390800000000000000
+      internalID: -7810382592411509666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_80
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1123
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35c054edf1f8950800000000000000
+      internalID: 6453411830546846626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_81
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1108
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382f1525884cbeff0800000000000000
+      internalID: -5694884735225213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_82
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731b99d21cde7790800000000000000
+      internalID: -7530339553398549646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_83
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1122
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4b21e3e1f91a7a0800000000000000
+      internalID: -6367633445885922108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_84
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1131
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab10c3172b729ef80800000000000000
+      internalID: -8076880809354853958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_85
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1151
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b75a8d0d5d01b0800000000000000
+      internalID: -5688788441562107254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_86
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1150
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dafd83c537ea5d0800000000000000
+      internalID: -3049373057754878580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_87
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178c1b2cdf84dcf0800000000000000
+      internalID: -228399505310185698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_88
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1156
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4fdda59d056c1d0800000000000000
+      internalID: -3330885979931282223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_89
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1138
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edc8a38a749b8de0800000000000000
+      internalID: -1329806011042050585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_90
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53171f20cdfc6ad20800000000000000
+      internalID: 3289545121689858357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_91
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1131
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632bdaeb17701d100800000000000000
+      internalID: 130894049282208310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_92
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1139
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cceb776c4f80c20800000000000000
+      internalID: 3173055070732209284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_93
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1135
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03271836459bcddc0800000000000000
+      internalID: -3612809028960161232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_94
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1129
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58336e6280731f070800000000000000
+      internalID: 8138346509787083653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_95
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1101
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94767416d4222570800000000000000
+      internalID: 8440349153530639517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_96
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1133
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b02878e323b8abb0800000000000000
+      internalID: -4924489225724223304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_97
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1127
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56df99a09a6263af0800000000000000
+      internalID: -417103408015999643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_98
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1139
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f016450fa9025b0800000000000000
+      internalID: -5395141996591378615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_99
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1131
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f87d14e401c6df0800000000000000
+      internalID: -185755556330893465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_100
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1101
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22669263796d0bf20800000000000000
+      internalID: 3436482460620776994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_101
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1128
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2339ddf4f52a7430800000000000000
+      internalID: 3781376571292070698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_102
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1110
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a9fc2d71e1bc6b0800000000000000
+      internalID: -5275089450864502168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_103
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1102
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40015c0034f475200800000000000000
+      internalID: 168690660244000772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_104
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1128
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769ae810df236d010800000000000000
+      internalID: 1213213211857168743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_105
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1110
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4672de98563dc00800000000000000
+      internalID: 924193991604790525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_106
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1102
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c05d2ea44157aa0800000000000000
+      internalID: -6163998203120907261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_107
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1098
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826b24c2bd8a16070800000000000000
+      internalID: 8097939264282736168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_108
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1095
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a08956947605f0800000000000000
+      internalID: -790816495461423241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_109
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1097
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9567b608f8ffbc4a0800000000000000
+      internalID: -6571878239417174439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_110
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1103
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c4a12712b6f350800000000000000
+      internalID: 6050218961837279482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_111
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1091
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc06930181b00bd0800000000000000
+      internalID: -2665935811734270793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_112
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1098
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd202a0b888fc3640800000000000000
+      internalID: 5061193347220243163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_113
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1095
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a2d6142fc0c1990800000000000000
+      internalID: -7414036651939386823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_114
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1097
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14553b3f01df555a0800000000000000
+      internalID: -6533037435181116095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_115
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1103
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268deaf55d9f12080800000000000000
+      internalID: -9213808667794679710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_116
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1091
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f0f3c7ee98f8290800000000000000
+      internalID: -7885932765122719884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_117
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1091
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45823c17efedfec60800000000000000
+      internalID: 7849737859941738580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_118
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1091
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680e32c853e041b90800000000000000
+      internalID: -7272171875149291386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_119
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 896
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b1d77db04a3aed0800000000000000
+      internalID: -2403897405318816910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_120
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1031
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0790946c75e4df00800000000000000
+      internalID: 1140788928057480972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_121
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 903
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1569d25d948d66c0800000000000000
+      internalID: -4148513870503647972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_122
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 894
+        width: 124
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc37ca538ebc838f0800000000000000
+      internalID: -560473955414281269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_123
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1026
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1197c2b76a277c20800000000000000
+      internalID: 3204076284766818588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_124
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1026
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd1369c45b4ec5f0800000000000000
+      internalID: -734566861686759981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_125
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1030
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94200f431afd6bfb0800000000000000
+      internalID: -4632269283233103287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_126
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1025
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30993ea012eb7ee80800000000000000
+      internalID: -8149335951577736957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_127
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1032
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f79e1635f8d0680800000000000000
+      internalID: -8787209709642219688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_128
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 898
+        width: 120
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a3c0fcd29dc3e80800000000000000
+      internalID: -8197438430950704507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_129
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1031
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1075efff606b63320800000000000000
+      internalID: 2537415581250770689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_130
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1001
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bb6991588226200800000000000000
+      internalID: 171744287918570249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_131
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 892
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e31bf4c534ad730800000000000000
+      internalID: 4024603280762027520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_132
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 898
+        width: 105
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572bf158a6de636a0800000000000000
+      internalID: -6469722772915375499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_133
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 990
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf6da2d5c02e7900800000000000000
+      internalID: 684020227422121947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_134
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1014
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f7a024815442450800000000000000
+      internalID: 6063046968837046065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_135
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 982
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c532fbfcab5076610800000000000000
+      internalID: 1614265291343078236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_136
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 953
+        width: 7
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66051945ba34764e0800000000000000
+      internalID: -1988546307323506586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_137
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 936
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72386ef190cfa3de0800000000000000
+      internalID: -1352491621951306969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_138
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 980
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4567663b6740788c0800000000000000
+      internalID: -3997221236405537196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_139
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 959
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5643c4e5f7bd89d90800000000000000
+      internalID: -7090676273205463963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_140
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 977
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64b3bf6d53862f0800000000000000
+      internalID: -979473721498843406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_141
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 941
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec16f1f4ccb4ea20800000000000000
+      internalID: 3090802798342053098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_142
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 956
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63869fb78d4421ad0800000000000000
+      internalID: -2733046327276902346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_143
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 937
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f3317fa3f5a5b10800000000000000
+      internalID: 1970992493785988997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_144
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 939
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8849dccfe6df20d20800000000000000
+      internalID: 3243433334789739656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_145
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 901
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a96e30b7499620f0800000000000000
+      internalID: -1142056922313234015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_146
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 915
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12bc55a259b84ac0800000000000000
+      internalID: -3870640115112168931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_147
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 899
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ca4c2185fe02be0800000000000000
+      internalID: -1503939113990706025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_148
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 903
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7e53813fa365a60800000000000000
+      internalID: 7662376631775127465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_149
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 884
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9c70243ae1c3e30800000000000000
+      internalID: 4484493015490480598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_150
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 900
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a356f75a2b1af80800000000000000
+      internalID: -8096994231158752662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_151
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 894
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdbe845dc6716b80800000000000000
+      internalID: -8403304805437620812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_152
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 896
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34563c8ec12705f0800000000000000
+      internalID: -790626038580882370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_153
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 894
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974883227b5d05c60800000000000000
+      internalID: 7804973136762930297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUMPTUTO_154
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 883
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f561b9442f8c200800000000000000
+      internalID: 200676559891619672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JUMPTUTO_0: 1390340824674260830
+      JUMPTUTO_1: -6999398266832461625
+      JUMPTUTO_10: -8730318461696390705
+      JUMPTUTO_100: 3436482460620776994
+      JUMPTUTO_101: 3781376571292070698
+      JUMPTUTO_102: -5275089450864502168
+      JUMPTUTO_103: 168690660244000772
+      JUMPTUTO_104: 1213213211857168743
+      JUMPTUTO_105: 924193991604790525
+      JUMPTUTO_106: -6163998203120907261
+      JUMPTUTO_107: 8097939264282736168
+      JUMPTUTO_108: -790816495461423241
+      JUMPTUTO_109: -6571878239417174439
+      JUMPTUTO_11: -8361864913552602347
+      JUMPTUTO_110: 6050218961837279482
+      JUMPTUTO_111: -2665935811734270793
+      JUMPTUTO_112: 5061193347220243163
+      JUMPTUTO_113: -7414036651939386823
+      JUMPTUTO_114: -6533037435181116095
+      JUMPTUTO_115: -9213808667794679710
+      JUMPTUTO_116: -7885932765122719884
+      JUMPTUTO_117: 7849737859941738580
+      JUMPTUTO_118: -7272171875149291386
+      JUMPTUTO_119: -2403897405318816910
+      JUMPTUTO_12: -4549733701906002550
+      JUMPTUTO_120: 1140788928057480972
+      JUMPTUTO_121: -4148513870503647972
+      JUMPTUTO_122: -560473955414281269
+      JUMPTUTO_123: 3204076284766818588
+      JUMPTUTO_124: -734566861686759981
+      JUMPTUTO_125: -4632269283233103287
+      JUMPTUTO_126: -8149335951577736957
+      JUMPTUTO_127: -8787209709642219688
+      JUMPTUTO_128: -8197438430950704507
+      JUMPTUTO_129: 2537415581250770689
+      JUMPTUTO_13: 8853911653304360640
+      JUMPTUTO_130: 171744287918570249
+      JUMPTUTO_131: 4024603280762027520
+      JUMPTUTO_132: -6469722772915375499
+      JUMPTUTO_133: 684020227422121947
+      JUMPTUTO_134: 6063046968837046065
+      JUMPTUTO_135: 1614265291343078236
+      JUMPTUTO_136: -1988546307323506586
+      JUMPTUTO_137: -1352491621951306969
+      JUMPTUTO_138: -3997221236405537196
+      JUMPTUTO_139: -7090676273205463963
+      JUMPTUTO_14: -7217701155802823413
+      JUMPTUTO_140: -979473721498843406
+      JUMPTUTO_141: 3090802798342053098
+      JUMPTUTO_142: -2733046327276902346
+      JUMPTUTO_143: 1970992493785988997
+      JUMPTUTO_144: 3243433334789739656
+      JUMPTUTO_145: -1142056922313234015
+      JUMPTUTO_146: -3870640115112168931
+      JUMPTUTO_147: -1503939113990706025
+      JUMPTUTO_148: 7662376631775127465
+      JUMPTUTO_149: 4484493015490480598
+      JUMPTUTO_15: -6153104280600990357
+      JUMPTUTO_150: -8096994231158752662
+      JUMPTUTO_151: -8403304805437620812
+      JUMPTUTO_152: -790626038580882370
+      JUMPTUTO_153: 7804973136762930297
+      JUMPTUTO_154: 200676559891619672
+      JUMPTUTO_16: -4635306578178096061
+      JUMPTUTO_17: 3948243033661757146
+      JUMPTUTO_18: -7692639677753501995
+      JUMPTUTO_19: -4015863479687539193
+      JUMPTUTO_2: -9128214696305374308
+      JUMPTUTO_20: 7645926415970715038
+      JUMPTUTO_21: -6384329076903812641
+      JUMPTUTO_22: -7653442342360200387
+      JUMPTUTO_23: 2048134184707728848
+      JUMPTUTO_24: -1513543979621630778
+      JUMPTUTO_25: -3020640177865493421
+      JUMPTUTO_26: 8472655981145236460
+      JUMPTUTO_27: -1579482919681883385
+      JUMPTUTO_28: 7793129535354709039
+      JUMPTUTO_29: 2813365191228864593
+      JUMPTUTO_3: -6756828372213827493
+      JUMPTUTO_30: -3073361563032563182
+      JUMPTUTO_31: -3664003444447335637
+      JUMPTUTO_32: 868197906894631101
+      JUMPTUTO_33: 8513022561094725111
+      JUMPTUTO_34: 1389525692200937844
+      JUMPTUTO_35: -7080577409135093819
+      JUMPTUTO_36: -1930065864799299837
+      JUMPTUTO_37: -4377232309388779767
+      JUMPTUTO_38: -6828156465786704929
+      JUMPTUTO_39: -3924031064909869785
+      JUMPTUTO_4: 7185250716961779778
+      JUMPTUTO_40: -1943710999139570424
+      JUMPTUTO_41: -8437315784286279828
+      JUMPTUTO_42: -3299048621696715518
+      JUMPTUTO_43: 3096175739567156547
+      JUMPTUTO_44: 4479453451260374930
+      JUMPTUTO_45: -7465252942737301968
+      JUMPTUTO_46: 8812235445155961384
+      JUMPTUTO_47: 4002212046764473274
+      JUMPTUTO_48: -2786134356145009032
+      JUMPTUTO_49: 5853540032774948505
+      JUMPTUTO_5: 4752718834616020663
+      JUMPTUTO_50: 5126327618371860769
+      JUMPTUTO_51: 5697132862729301107
+      JUMPTUTO_52: 7641130251230653830
+      JUMPTUTO_53: 854101502740559199
+      JUMPTUTO_54: -7660908241292725562
+      JUMPTUTO_55: -2815186084392333784
+      JUMPTUTO_56: -1333894171028418127
+      JUMPTUTO_57: -7735874505129417836
+      JUMPTUTO_58: 8512368555723246464
+      JUMPTUTO_59: 4184043373580219373
+      JUMPTUTO_6: -8488411628763982181
+      JUMPTUTO_60: -3456870525017431634
+      JUMPTUTO_61: -6455962730858175498
+      JUMPTUTO_62: 1408843771770460612
+      JUMPTUTO_63: 6933686313171706060
+      JUMPTUTO_64: 2020814926789049560
+      JUMPTUTO_65: 6928637723077983395
+      JUMPTUTO_66: -3267050625038974454
+      JUMPTUTO_67: -8396473751208197126
+      JUMPTUTO_68: -465465016238670341
+      JUMPTUTO_69: 7567021330329430771
+      JUMPTUTO_7: 556763955626718842
+      JUMPTUTO_70: 7885356811820625775
+      JUMPTUTO_71: -4009638437442735623
+      JUMPTUTO_72: -7682059633759017261
+      JUMPTUTO_73: 5253482235137204674
+      JUMPTUTO_74: -5433809398798630873
+      JUMPTUTO_75: -6648903344992430215
+      JUMPTUTO_76: -6510046430104163470
+      JUMPTUTO_77: -814500077482459577
+      JUMPTUTO_78: 5075411722940863241
+      JUMPTUTO_79: -7810382592411509666
+      JUMPTUTO_8: 3785013225352688220
+      JUMPTUTO_80: 6453411830546846626
+      JUMPTUTO_81: -5694884735225213
+      JUMPTUTO_82: -7530339553398549646
+      JUMPTUTO_83: -6367633445885922108
+      JUMPTUTO_84: -8076880809354853958
+      JUMPTUTO_85: -5688788441562107254
+      JUMPTUTO_86: -3049373057754878580
+      JUMPTUTO_87: -228399505310185698
+      JUMPTUTO_88: -3330885979931282223
+      JUMPTUTO_89: -1329806011042050585
+      JUMPTUTO_9: -4344230486823944311
+      JUMPTUTO_90: 3289545121689858357
+      JUMPTUTO_91: 130894049282208310
+      JUMPTUTO_92: 3173055070732209284
+      JUMPTUTO_93: -3612809028960161232
+      JUMPTUTO_94: 8138346509787083653
+      JUMPTUTO_95: 8440349153530639517
+      JUMPTUTO_96: -4924489225724223304
+      JUMPTUTO_97: -417103408015999643
+      JUMPTUTO_98: -5395141996591378615
+      JUMPTUTO_99: -185755556330893465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
