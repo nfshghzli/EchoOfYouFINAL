@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-guid: 5d320461ceaf7844987dccd1750bd41d
+<<<<<<<< HEAD:Assets/Prefabs/Environment/LEVEL1/BG SKY.PNG.meta
+guid: f04ebc25870e5de4596235e669985890
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3472526214991220043
-    second: LADDER_0
+      213: 8206499527979982105
+    second: BG SKY_0
 ========
-guid: 7b0d7b7e808754c4e9b6ca94cde81bff
+guid: 1cd7356811f334a4bb59ed0f8555433e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5552815406551829851
-    second: RETRY_0
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      213: -1622266423409852828
+    second: BG0(1)_0
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Prefabs/Environment/BG0(1).PNG.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,23 +122,17 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      name: LADDER_0
-      rect:
-        serializedVersion: 2
-        x: 1273
-        y: 246
-        width: 201
-        height: 834
+<<<<<<<< HEAD:Assets/Prefabs/Environment/LEVEL1/BG SKY.PNG.meta
+      name: BG SKY_0
 ========
-      name: RETRY_0
+      name: BG0(1)_0
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Prefabs/Environment/BG0(1).PNG.meta
       rect:
         serializedVersion: 2
-        x: 16
-        y: 23
-        width: 1179
-        height: 374
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,13 +141,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      spriteID: b4d88cdb134e03030800000000000000
-      internalID: 3472526214991220043
+<<<<<<<< HEAD:Assets/Prefabs/Environment/LEVEL1/BG SKY.PNG.meta
+      spriteID: 91d58ae37d753e170800000000000000
+      internalID: 8206499527979982105
 ========
-      spriteID: b5d86d231309f0d40800000000000000
-      internalID: 5552815406551829851
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      spriteID: 46ebc95784d8c79e0800000000000000
+      internalID: -1622266423409852828
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Prefabs/Environment/BG0(1).PNG.meta
       vertices: []
       indices: 
       edges: []
@@ -172,11 +166,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      LADDER_0: 3472526214991220043
+<<<<<<<< HEAD:Assets/Prefabs/Environment/LEVEL1/BG SKY.PNG.meta
+      BG SKY_0: 8206499527979982105
 ========
-      RETRY_0: 5552815406551829851
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      BG0(1)_0: -1622266423409852828
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Prefabs/Environment/BG0(1).PNG.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

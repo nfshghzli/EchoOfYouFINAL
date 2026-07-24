@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-guid: 5d320461ceaf7844987dccd1750bd41d
+<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/ContinueButtonHover.PNG.meta
+guid: d0ecc86559e1ddb43872cadcd3c04b42
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3472526214991220043
-    second: LADDER_0
+      213: -865767959969858843
+    second: ContinueButtonHover_0
 ========
-guid: 7b0d7b7e808754c4e9b6ca94cde81bff
+guid: 9c921adc7bab1d24ea30d7b647e3eab9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5552815406551829851
-    second: RETRY_0
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      213: -8983619601603015532
+    second: AIRCOND COMPRESSOR (1)_0
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/AIRCOND COMPRESSOR (1).PNG.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,23 +122,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      name: LADDER_0
+<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/ContinueButtonHover.PNG.meta
+      name: ContinueButtonHover_0
       rect:
         serializedVersion: 2
-        x: 1273
-        y: 246
-        width: 201
-        height: 834
+        x: 115
+        y: 18
+        width: 1858
+        height: 364
 ========
-      name: RETRY_0
+      name: AIRCOND COMPRESSOR (1)_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 23
-        width: 1179
-        height: 374
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+        x: 362
+        y: 529
+        width: 1451
+        height: 1041
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/AIRCOND COMPRESSOR (1).PNG.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,13 +147,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      spriteID: b4d88cdb134e03030800000000000000
-      internalID: 3472526214991220043
+<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/ContinueButtonHover.PNG.meta
+      spriteID: 5eaf410a0ac2cf3f0800000000000000
+      internalID: -865767959969858843
 ========
-      spriteID: b5d86d231309f0d40800000000000000
-      internalID: 5552815406551829851
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      spriteID: 49c4731d195c35380800000000000000
+      internalID: -8983619601603015532
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/AIRCOND COMPRESSOR (1).PNG.meta
       vertices: []
       indices: 
       edges: []
@@ -172,11 +172,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      LADDER_0: 3472526214991220043
+<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/ContinueButtonHover.PNG.meta
+      ContinueButtonHover_0: -865767959969858843
 ========
-      RETRY_0: 5552815406551829851
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      AIRCOND COMPRESSOR (1)_0: -8983619601603015532
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/AIRCOND COMPRESSOR (1).PNG.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

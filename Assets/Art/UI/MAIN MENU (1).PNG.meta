@@ -1,19 +1,13 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-guid: 5d320461ceaf7844987dccd1750bd41d
+guid: 05100ad030878d24eb06f81af6f42e6f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3472526214991220043
-    second: LADDER_0
-========
-guid: 7b0d7b7e808754c4e9b6ca94cde81bff
-TextureImporter:
-  internalIDToNameTable:
+      213: 33862796988517902
+    second: MAIN MENU (1)_0
   - first:
-      213: 5552815406551829851
-    second: RETRY_0
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      213: 2145015752045278865
+    second: MAIN MENU (1)_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,23 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      name: LADDER_0
+      name: MAIN MENU (1)_0
       rect:
         serializedVersion: 2
-        x: 1273
-        y: 246
-        width: 201
-        height: 834
-========
-      name: RETRY_0
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 23
-        width: 1179
-        height: 374
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+        x: 23
+        y: 25
+        width: 838
+        height: 328
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,13 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      spriteID: b4d88cdb134e03030800000000000000
-      internalID: 3472526214991220043
-========
-      spriteID: b5d86d231309f0d40800000000000000
-      internalID: 5552815406551829851
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      spriteID: e0e0a91d80e487000800000000000000
+      internalID: 33862796988517902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAIN MENU (1)_1
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 10
+        width: 977
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196b6423670a4cd10800000000000000
+      internalID: 2145015752045278865
       vertices: []
       indices: 
       edges: []
@@ -172,11 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      LADDER_0: 3472526214991220043
-========
-      RETRY_0: 5552815406551829851
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      MAIN MENU (1)_0: 33862796988517902
+      MAIN MENU (1)_1: 2145015752045278865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

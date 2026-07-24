@@ -19,6 +19,7 @@ EditorBuildSettings:
     guid: 53fa2b00ec78c6f41b30ddc702c64ea8
   - enabled: 1
     path: Assets/Scenes/Level2_Paranoia.unity
+<<<<<<< HEAD
     guid: f4ce7323bf1458f45b334e6c122f5c6b
   - enabled: 1
     path: Assets/Scenes/Level3Cutscene.unity
@@ -27,6 +28,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Level3_Acceptance.unity
     guid: 8c3c2c743c4c03c418712306ceaae07c
   - enabled: 1
+=======
+    guid: fc43b68c7da4a9c45874f7d9f3168580
+  - enabled: 1
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
     path: Assets/Scenes/EndingScene.unity
     guid: 9f83964c17d2c4044872c8355ad73458
   - enabled: 1

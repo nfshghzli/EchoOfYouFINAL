@@ -8,6 +8,10 @@ public class WhisperSystem : MonoBehaviour
     [Header("Reaction Time")]
     public float reactionTime = 1.5f;
 
+<<<<<<< HEAD
+=======
+    private float triggerTimer;
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
     private float reactionTimer;
 
     private bool whisperActive = false;
@@ -15,8 +19,23 @@ public class WhisperSystem : MonoBehaviour
 
     void Update()
     {
+<<<<<<< HEAD
         // Player resists the whisper
         if (whisperActive && Input.GetKeyDown(KeyCode.Space))
+=======
+        triggerTimer -= Time.deltaTime;
+
+        if (triggerTimer <= 0 &&
+            !whisperActive &&
+            !turningBack)
+        {
+            TriggerWhisper();
+        }
+
+        // Resist whisper
+        if (whisperActive &&
+            Input.GetKeyDown(KeyCode.Space))
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         {
             ResistWhisper();
         }
@@ -44,11 +63,16 @@ public class WhisperSystem : MonoBehaviour
 
     public void TriggerWhisper()
     {
+<<<<<<< HEAD
         // Prevent multiple triggers
         if (whisperActive || turningBack)
             return;
 
         whisperActive = true;
+=======
+        whisperActive = true;
+
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         reactionTimer = reactionTime;
 
         entity.SetPanic(false);
@@ -73,6 +97,11 @@ public class WhisperSystem : MonoBehaviour
 
         UIManager.instance.HideWarning();
 
+<<<<<<< HEAD
+=======
+        SetNextTrigger();
+
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         Debug.Log("RESISTED");
     }
 
@@ -103,6 +132,20 @@ public class WhisperSystem : MonoBehaviour
         player.StopTurning();
 
         AudioManager.instance.StopHeartbeat();
+<<<<<<< HEAD
+=======
+
+        ScreenEffects.instance.SetWhisper();
+
+        CameraShake.instance.Shake(0.1f, 0.1f);
+
+        UIManager.instance.HideWarning();
+
+        SetNextTrigger();
+
+        Debug.Log("RECOVERED");
+    }
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
 
         ScreenEffects.instance.SetWhisper();
 

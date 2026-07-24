@@ -1,10 +1,19 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Art/OBSTACLES/LAMP POST.png.meta
 guid: 8ec31715c3792894e846f542dc3756a9
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 2837589395586707965
     second: LAMP POST_0
+========
+guid: 45e6c9fc86070484db804ebc7710c0fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3249499742457449120
+    second: CONE (1)_0
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/CONE (1).png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,6 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<<< HEAD:Assets/Art/OBSTACLES/LAMP POST.png.meta
       name: LAMP POST_0
       rect:
         serializedVersion: 2
@@ -120,6 +130,15 @@ TextureImporter:
         y: 171
         width: 536
         height: 1637
+========
+      name: CONE (1)_0
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 251
+        width: 1335
+        height: 1628
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/CONE (1).png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +147,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<<< HEAD:Assets/Art/OBSTACLES/LAMP POST.png.meta
       spriteID: df17c566584216720800000000000000
       internalID: 2837589395586707965
+========
+      spriteID: 0aa46e69cca881d20800000000000000
+      internalID: 3249499742457449120
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/CONE (1).png.meta
       vertices: []
       indices: 
       edges: []
@@ -148,7 +172,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<<< HEAD:Assets/Art/OBSTACLES/LAMP POST.png.meta
       LAMP POST_0: 2837589395586707965
+========
+      CONE (1)_0: 3249499742457449120
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/CONE (1).png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

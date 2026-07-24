@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 9a4d3d74ef40e6348a2e772c58594dcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -154491689685670071
+    second: GAME OVER TEXT_0
+  - first:
+      213: 1656407790880600370
+    second: GAME OVER TEXT_1
+  - first:
+      213: 4012562230089002532
+    second: GAME OVER TEXT_2
+  - first:
+      213: 6848688663467301453
+    second: GAME OVER TEXT_3
+  - first:
+      213: -280987151549680649
+    second: GAME OVER TEXT_4
+  - first:
+      213: 6711095562668345856
+    second: GAME OVER TEXT_5
+  - first:
+      213: 5868352876128958604
+    second: GAME OVER TEXT_6
+  - first:
+      213: -4115129927007832025
+    second: GAME OVER TEXT_7
+  - first:
+      213: -6546975908338612777
+    second: GAME OVER TEXT_8
+  - first:
+      213: 2250411126718116509
+    second: GAME OVER TEXT_9
+  - first:
+      213: -309421295988113327
+    second: GAME OVER TEXT_10
+  - first:
+      213: -1073491897231482661
+    second: GAME OVER TEXT_11
+  - first:
+      213: 3531663259560437640
+    second: GAME OVER TEXT_12
+  - first:
+      213: 7723398910737286989
+    second: GAME OVER TEXT_13
+  - first:
+      213: -2610491266846584400
+    second: GAME OVER TEXT_14
+  - first:
+      213: 774926566574908064
+    second: GAME OVER TEXT_15
+  - first:
+      213: -2487518609787501235
+    second: GAME OVER TEXT_16
+  - first:
+      213: -5172335971639788704
+    second: GAME OVER TEXT_17
+  - first:
+      213: -6805302433877557800
+    second: GAME OVER TEXT_18
+  - first:
+      213: -3185051391928306152
+    second: GAME OVER TEXT_19
+  - first:
+      213: -589962767604469281
+    second: GAME OVER TEXT_20
+  - first:
+      213: -8443461274155113015
+    second: GAME OVER TEXT_21
+  - first:
+      213: -9028484930876056106
+    second: GAME OVER TEXT_22
+  - first:
+      213: 2210436106374309426
+    second: GAME OVER TEXT_23
+  - first:
+      213: -8209996549295671317
+    second: GAME OVER TEXT_24
+  - first:
+      213: 4566041004581108989
+    second: GAME OVER TEXT_25
+  - first:
+      213: 1440928480514123093
+    second: GAME OVER TEXT_26
+  - first:
+      213: -3528263693567072510
+    second: GAME OVER TEXT_27
+  - first:
+      213: -638389574399481245
+    second: GAME OVER TEXT_28
+  - first:
+      213: -7234073900308688130
+    second: GAME OVER TEXT_29
+  - first:
+      213: 1218547179062620073
+    second: GAME OVER TEXT_30
+  - first:
+      213: 1921194496890248532
+    second: GAME OVER TEXT_31
+  - first:
+      213: -1267946360763415637
+    second: GAME OVER TEXT_32
+  - first:
+      213: 8704509451176231185
+    second: GAME OVER TEXT_33
+  - first:
+      213: -3540648964458448936
+    second: GAME OVER TEXT_34
+  - first:
+      213: -7848321294418805455
+    second: GAME OVER TEXT_35
+  - first:
+      213: 3714918579624108974
+    second: GAME OVER TEXT_36
+  - first:
+      213: -3355696111997487268
+    second: GAME OVER TEXT_37
+  - first:
+      213: 1074957024867394595
+    second: GAME OVER TEXT_38
+  - first:
+      213: -2567626906050022908
+    second: GAME OVER TEXT_39
+  - first:
+      213: 3305090468001469395
+    second: GAME OVER TEXT_40
+  - first:
+      213: 3801539710345546371
+    second: GAME OVER TEXT_41
+  - first:
+      213: -5393083567523492799
+    second: GAME OVER TEXT_42
+  - first:
+      213: -8977731074390371601
+    second: GAME OVER TEXT_43
+  - first:
+      213: 385176266767701233
+    second: GAME OVER TEXT_44
+  - first:
+      213: 7045396135753892727
+    second: GAME OVER TEXT_45
+  - first:
+      213: -2784746492053747981
+    second: GAME OVER TEXT_46
+  - first:
+      213: -6719487049115048534
+    second: GAME OVER TEXT_47
+  - first:
+      213: -4644905387307939593
+    second: GAME OVER TEXT_48
+  - first:
+      213: -7184777563149897553
+    second: GAME OVER TEXT_49
+  - first:
+      213: -5633389259161979081
+    second: GAME OVER TEXT_50
+  - first:
+      213: -1311943396464745187
+    second: GAME OVER TEXT_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAME OVER TEXT_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947298370a22bddf0800000000000000
+      internalID: -154491689685670071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 904
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231b0aa1c1ebcf610800000000000000
+      internalID: 1656407790880600370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eaa9bb61c7fa730800000000000000
+      internalID: 4012562230089002532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 832
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a9633bd0e6b0f50800000000000000
+      internalID: 6848688663467301453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 832
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3be65acabb91cf0800000000000000
+      internalID: -280987151549680649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 831
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a0c8a7bd9922d50800000000000000
+      internalID: 6711095562668345856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88fe4659d3907150800000000000000
+      internalID: 5868352876128958604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 833
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7287e10622f14e6c0800000000000000
+      internalID: -4115129927007832025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 829
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5cf6649187425a0800000000000000
+      internalID: -6546975908338612777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92be9e1ff01b3f10800000000000000
+      internalID: 2250411126718116509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 832
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15000be78f6b4bbf0800000000000000
+      internalID: -309421295988113327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 830
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0e14c9ec03a11f0800000000000000
+      internalID: -1073491897231482661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 833
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e564e50df20130800000000000000
+      internalID: 3531663259560437640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_13
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 832
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47822593660f2b60800000000000000
+      internalID: 7723398910737286989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_14
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b19956160ca5cbd0800000000000000
+      internalID: -2610491266846584400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_15
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 833
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2e5b74b9711ca00800000000000000
+      internalID: 774926566574908064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_16
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 832
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45417bf00f8a7dd0800000000000000
+      internalID: -2487518609787501235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_17
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 830
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b7f6786db2838b0800000000000000
+      internalID: -5172335971639788704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_18
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 831
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd70af0e75be81a0800000000000000
+      internalID: -6805302433877557800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_19
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 833
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816ffb852ac6cc3d0800000000000000
+      internalID: -3185051391928306152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_20
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 832
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ba361df700d7f0800000000000000
+      internalID: -589962767604469281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_21
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 829
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5a73fd4bcc2da80800000000000000
+      internalID: -8443461274155113015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_22
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 832
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd5a235ac064b280800000000000000
+      internalID: -9028484930876056106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_23
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 833
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23663276deb0dae10800000000000000
+      internalID: 2210436106374309426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_24
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 832
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be77c0803ab301e80800000000000000
+      internalID: -8209996549295671317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_25
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 831
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcbceb0a16dd5f30800000000000000
+      internalID: 4566041004581108989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_26
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 833
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a9c391d43ff310800000000000000
+      internalID: 1440928480514123093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_27
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 830
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207e60f3dd6190fc0800000000000000
+      internalID: -3528263693567072510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_28
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 832
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a2b9d701cf327f0800000000000000
+      internalID: -638389574399481245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_29
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 827
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef21d2d8d186b9b90800000000000000
+      internalID: -7234073900308688130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 728
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afe416043629e010800000000000000
+      internalID: 1218547179062620073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 730
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d149b473479aa10800000000000000
+      internalID: 1921194496890248532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_32
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 729
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38274b089576ee0800000000000000
+      internalID: -1267946360763415637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 731
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111c3653a31acc870800000000000000
+      internalID: 8704509451176231185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 728
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d77917a6861ddec0800000000000000
+      internalID: -3540648964458448936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 731
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d780b6d59251390800000000000000
+      internalID: -7848321294418805455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_36
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 730
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea36ef304ca0e8330800000000000000
+      internalID: 3714918579624108974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_37
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 729
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57fa365a2c2e61d0800000000000000
+      internalID: -3355696111997487268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_38
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 728
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324280008b30bee00800000000000000
+      internalID: 1074957024867394595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_39
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 731
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402372dcee4fd5cd0800000000000000
+      internalID: -2567626906050022908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_40
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 728
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d1cff44a0edd20800000000000000
+      internalID: 3305090468001469395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_41
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 729
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a00b2a938c1c430800000000000000
+      internalID: 3801539710345546371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_42
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 730
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c04c1b11be725b0800000000000000
+      internalID: -5393083567523492799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_43
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 730
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2d9f56721b86380800000000000000
+      internalID: -8977731074390371601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_44
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 729
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4999c16cb685500800000000000000
+      internalID: 385176266767701233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_45
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 730
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7734585157646c160800000000000000
+      internalID: 7045396135753892727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_46
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 730
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f60f97d1d79a59d0800000000000000
+      internalID: -2784746492053747981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_47
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 728
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5e8a451269fb2a0800000000000000
+      internalID: -6719487049115048534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_48
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 731
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f84636f82bf98fb0800000000000000
+      internalID: -4644905387307939593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_49
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 730
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0f0467fda8a4c90800000000000000
+      internalID: -7184777563149897553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_50
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 728
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7373626d05e22d1b0800000000000000
+      internalID: -5633389259161979081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME OVER TEXT_51
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 726
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15ac409e6a0bcde0800000000000000
+      internalID: -1311943396464745187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GAME OVER TEXT_0: -154491689685670071
+      GAME OVER TEXT_1: 1656407790880600370
+      GAME OVER TEXT_10: -309421295988113327
+      GAME OVER TEXT_11: -1073491897231482661
+      GAME OVER TEXT_12: 3531663259560437640
+      GAME OVER TEXT_13: 7723398910737286989
+      GAME OVER TEXT_14: -2610491266846584400
+      GAME OVER TEXT_15: 774926566574908064
+      GAME OVER TEXT_16: -2487518609787501235
+      GAME OVER TEXT_17: -5172335971639788704
+      GAME OVER TEXT_18: -6805302433877557800
+      GAME OVER TEXT_19: -3185051391928306152
+      GAME OVER TEXT_2: 4012562230089002532
+      GAME OVER TEXT_20: -589962767604469281
+      GAME OVER TEXT_21: -8443461274155113015
+      GAME OVER TEXT_22: -9028484930876056106
+      GAME OVER TEXT_23: 2210436106374309426
+      GAME OVER TEXT_24: -8209996549295671317
+      GAME OVER TEXT_25: 4566041004581108989
+      GAME OVER TEXT_26: 1440928480514123093
+      GAME OVER TEXT_27: -3528263693567072510
+      GAME OVER TEXT_28: -638389574399481245
+      GAME OVER TEXT_29: -7234073900308688130
+      GAME OVER TEXT_3: 6848688663467301453
+      GAME OVER TEXT_30: 1218547179062620073
+      GAME OVER TEXT_31: 1921194496890248532
+      GAME OVER TEXT_32: -1267946360763415637
+      GAME OVER TEXT_33: 8704509451176231185
+      GAME OVER TEXT_34: -3540648964458448936
+      GAME OVER TEXT_35: -7848321294418805455
+      GAME OVER TEXT_36: 3714918579624108974
+      GAME OVER TEXT_37: -3355696111997487268
+      GAME OVER TEXT_38: 1074957024867394595
+      GAME OVER TEXT_39: -2567626906050022908
+      GAME OVER TEXT_4: -280987151549680649
+      GAME OVER TEXT_40: 3305090468001469395
+      GAME OVER TEXT_41: 3801539710345546371
+      GAME OVER TEXT_42: -5393083567523492799
+      GAME OVER TEXT_43: -8977731074390371601
+      GAME OVER TEXT_44: 385176266767701233
+      GAME OVER TEXT_45: 7045396135753892727
+      GAME OVER TEXT_46: -2784746492053747981
+      GAME OVER TEXT_47: -6719487049115048534
+      GAME OVER TEXT_48: -4644905387307939593
+      GAME OVER TEXT_49: -7184777563149897553
+      GAME OVER TEXT_5: 6711095562668345856
+      GAME OVER TEXT_50: -5633389259161979081
+      GAME OVER TEXT_51: -1311943396464745187
+      GAME OVER TEXT_6: 5868352876128958604
+      GAME OVER TEXT_7: -4115129927007832025
+      GAME OVER TEXT_8: -6546975908338612777
+      GAME OVER TEXT_9: 2250411126718116509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

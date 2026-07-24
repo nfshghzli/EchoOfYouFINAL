@@ -9,6 +9,7 @@ public class OpeningCutsceneManager : MonoBehaviour
     [Header("Fade")]
     public Image blackFade;
 
+<<<<<<< HEAD
 
     [Header("Character")]
     public Transform player;
@@ -51,21 +52,49 @@ public class OpeningCutsceneManager : MonoBehaviour
     public AudioClip entityAppearSFX;
 
 
+=======
+    [Header("Character")]
+    public Transform player;
+    public Transform walkTarget;
+
+    public float walkSpeed = 2f;
+    public Animator playerAnimator;
+
+    [Header("Subtitle")]
+    public TextMeshProUGUI subtitleText;
+
+    [Header("Voice Over")]
+    public AudioSource voiceSource;
+
+    public AudioClip line1;
+    public AudioClip line2;
+    public AudioClip line3;
+    public AudioClip line4;
+    public AudioClip line5;
+    public AudioClip line6;
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
 
     [Header("Entity")]
     public GameObject entity;
     public SpriteRenderer entityRenderer;
 
+<<<<<<< HEAD
     [Range(0f,1f)]
     public float entityMaxAlpha = 0.4f;
 
 
 
+=======
+    [Range (0f, 1f)]
+    public float entityMaxAlpha = 0.4f;
+
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
     [Header("Next Scene")]
     public string nextSceneName = "Level1";
 
 
 
+<<<<<<< HEAD
     [Header("Skip Button")]
     public GameObject skipButton;
     public CanvasGroup skipCanvasGroup;
@@ -194,11 +223,41 @@ public class OpeningCutsceneManager : MonoBehaviour
 
             blackFade.color = c;
 
+=======
+
+    IEnumerator Start()
+    {
+        yield return StartCoroutine(FadeIn());
+
+        yield return StartCoroutine(PlayerWalk());
+
+        yield return StartCoroutine(PlayCutscene());
+
+    }
+    IEnumerator FadeIn()
+    {
+        Color color = blackFade.color;
+
+        float timer = 0f;
+
+        while (timer < 2f)
+        {
+            timer += Time.deltaTime;
+
+            color.a = Mathf.Lerp(
+                1f,
+                0f,
+                timer / 2f
+            );
+
+            blackFade.color = color;
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
 
             yield return null;
         }
     }
 
+<<<<<<< HEAD
 
 
 
@@ -223,11 +282,31 @@ public class OpeningCutsceneManager : MonoBehaviour
 
             blackFade.color = c;
 
+=======
+    IEnumerator FadeOut()
+    {
+        Color color = blackFade.color;
+
+        float timer = 0f;
+
+        while (timer < 2f)
+        {
+            timer += Time.deltaTime;
+
+            color.a = Mathf.Lerp(
+                0f,
+                1f,
+                timer / 2f
+            );
+
+            blackFade.color = color;
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
 
             yield return null;
         }
     }
 
+<<<<<<< HEAD
 
 
 
@@ -244,6 +323,52 @@ public class OpeningCutsceneManager : MonoBehaviour
             voiceSource.Play();
 
 
+=======
+    IEnumerator FadeInEntity()
+    {
+        if (entityRenderer == null)
+        {
+            Debug.LogError("Entity Renderer not assigned!");
+            yield break;
+        }
+
+        Color color = entityRenderer.color;
+
+        float timer = 0f;
+
+        while (timer < 3f)
+        {
+            timer += Time.deltaTime;
+
+            color.a = Mathf.Lerp(
+                0f,
+                entityMaxAlpha,
+                timer / 2f
+            );
+
+            entityRenderer.color = color;
+
+            yield return null;
+        }
+
+
+        color.a = entityMaxAlpha;
+        entityRenderer.color = color;
+    }
+
+    IEnumerator PlayLine(
+        string subtitle,
+        AudioClip voiceClip
+    )
+    {
+        subtitleText.text = subtitle;
+
+        if (voiceClip != null)
+        {
+            voiceSource.clip = voiceClip;
+            voiceSource.Play();
+
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
             yield return new WaitWhile(
                 () => voiceSource.isPlaying
             );
@@ -252,6 +377,7 @@ public class OpeningCutsceneManager : MonoBehaviour
         {
             yield return new WaitForSeconds(2f);
         }
+<<<<<<< HEAD
 
 
         subtitleText.text = "";
@@ -417,10 +543,148 @@ public class OpeningCutsceneManager : MonoBehaviour
 
 
 
+=======
+    }
+
+    IEnumerator MoveEntity(
+        float targetX,
+        float speed
+    )
+    {
+        while (
+            Mathf.Abs(
+                entity.transform.position.x
+                - targetX
+            ) > 0.1f)
+        {
+            entity.transform.position =
+                Vector3.MoveTowards(
+                    entity.transform.position,
+                    new Vector3(
+                        targetX,
+                        entity.transform.position.y,
+                        entity.transform.position.z
+                    ),
+                    speed * Time.deltaTime
+                );
+
+            yield return null;
+        }
+    }
+    IEnumerator PlayCutscene()
+    {
+        yield return StartCoroutine(
+            PlayLine(
+                "I don't know when it started...",
+                line1
+            )
+        );
+
+        yield return StartCoroutine(
+            PlayLine(
+                "But lately...",
+                line2
+            )
+        );
+
+        yield return StartCoroutine(
+            PlayLine(
+                "It feels like something is following me.",
+                line3
+            )
+        );
+
+        yield return StartCoroutine(
+            PlayLine(
+                "No matter where I go...",
+                line4
+            )
+        );
+
+        yield return StartCoroutine(
+            PlayLine(
+                "I can feel it.",
+                line5
+            )
+        );
+
+        yield return StartCoroutine(
+            PlayLine(
+                "Maybe I'm imagining things.",
+                line6
+            )
+        );
+
+        // ENTITY APPEARS
+
+       yield return StartCoroutine(
+            FadeInEntity()
+        );
+
+        subtitleText.text = "...";
+
+        yield return new WaitForSeconds(2f);
+
+        subtitleText.text = "What...?";
+
+        yield return new WaitForSeconds(2f);
+
+        playerAnimator.Play("PlayerIdle");
+
+        yield return StartCoroutine(
+            MoveEntity(
+                1f,
+                1f
+            )
+        );
+
+        subtitleText.text = "Who's there?";
+
+        yield return new WaitForSeconds(2f);
+
+        yield return StartCoroutine(
+            MoveEntity(
+                3f,
+                1f
+            )
+        );
+
+        yield return StartCoroutine(
+            MoveEntity(
+                4f,
+                1f
+            )
+        );
+        
+        subtitleText.text = "\"Sayy...\"";
+
+        yield return new WaitForSeconds(2f);
+
+        subtitleText.text = "What did you just—";
+
+        yield return new WaitForSeconds(2f);
+
+        subtitleText.text = "\"Sayy...\"";
+
+        yield return new WaitForSeconds(3f);
+
+        subtitleText.text = "No...";
+
+        yield return new WaitForSeconds(2f);
+
+        subtitleText.text = "";
+
+        yield return StartCoroutine(FadeOut());
+
+        SceneManager.LoadScene(nextSceneName);
+    }
+
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
     IEnumerator PlayerWalk()
     {
         playerAnimator.Play("PlayerWalk");
 
+<<<<<<< HEAD
 
 
         if(walkingSFX != null)
@@ -441,6 +705,13 @@ public class OpeningCutsceneManager : MonoBehaviour
                 walkTarget.position
             ) > 0.05f
         )
+=======
+        while (
+            Vector2.Distance(
+                player.position,
+                walkTarget.position
+            ) > 0.05f)
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         {
             player.position =
                 Vector2.MoveTowards(
@@ -449,6 +720,7 @@ public class OpeningCutsceneManager : MonoBehaviour
                     walkSpeed * Time.deltaTime
                 );
 
+<<<<<<< HEAD
 
             yield return null;
         }
@@ -458,6 +730,11 @@ public class OpeningCutsceneManager : MonoBehaviour
         sfxSource.Stop();
 
 
+=======
+            yield return null;
+        }
+
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         playerAnimator.Play("PlayerIdle");
     }
 }

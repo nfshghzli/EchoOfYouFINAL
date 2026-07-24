@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-guid: 5d320461ceaf7844987dccd1750bd41d
+<<<<<<<< HEAD:Assets/Art/OBSTACLES/LAMP POST.png.meta
+guid: 9aecd74d539f358458e85ca74786a3c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3472526214991220043
-    second: LADDER_0
+      213: 2837589395586707965
+    second: LAMP POST_0
 ========
-guid: 7b0d7b7e808754c4e9b6ca94cde81bff
+guid: 45e6c9fc86070484db804ebc7710c0fa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5552815406551829851
-    second: RETRY_0
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      213: 3249499742457449120
+    second: CONE (1)_0
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/CONE (1).png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,23 +122,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      name: LADDER_0
+<<<<<<<< HEAD:Assets/Art/OBSTACLES/LAMP POST.png.meta
+      name: LAMP POST_0
       rect:
         serializedVersion: 2
-        x: 1273
-        y: 246
-        width: 201
-        height: 834
+        x: 756
+        y: 171
+        width: 536
+        height: 1637
 ========
-      name: RETRY_0
+      name: CONE (1)_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 23
-        width: 1179
-        height: 374
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+        x: 372
+        y: 251
+        width: 1335
+        height: 1628
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/CONE (1).png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,13 +147,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      spriteID: b4d88cdb134e03030800000000000000
-      internalID: 3472526214991220043
+<<<<<<<< HEAD:Assets/Art/OBSTACLES/LAMP POST.png.meta
+      spriteID: df17c566584216720800000000000000
+      internalID: 2837589395586707965
 ========
-      spriteID: b5d86d231309f0d40800000000000000
-      internalID: 5552815406551829851
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      spriteID: 0aa46e69cca881d20800000000000000
+      internalID: 3249499742457449120
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/CONE (1).png.meta
       vertices: []
       indices: 
       edges: []
@@ -172,11 +172,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Art/UI/LEVEL COMPLETE/LADDER.png.meta
-      LADDER_0: 3472526214991220043
+<<<<<<<< HEAD:Assets/Art/OBSTACLES/LAMP POST.png.meta
+      LAMP POST_0: 2837589395586707965
 ========
-      RETRY_0: 5552815406551829851
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/UI/RETRY.PNG.meta
+      CONE (1)_0: 3249499742457449120
+>>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/CONE (1).png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

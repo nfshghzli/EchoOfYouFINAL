@@ -158,8 +158,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 157, y: -182}
   m_SizeDelta: {x: 300, y: 90}
+=======
+  m_AnchoredPosition: {x: 179, y: -186}
+  m_SizeDelta: {x: 350, y: 90}
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &41649298
 MonoBehaviour:
@@ -911,8 +916,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 163, y: -50}
   m_SizeDelta: {x: 300, y: 100}
+=======
+  m_AnchoredPosition: {x: 146, y: -50}
+  m_SizeDelta: {x: 280, y: 80}
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &482185678
 MonoBehaviour:
@@ -1442,8 +1452,13 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -328, y: 213}
   m_SizeDelta: {x: 1000, y: 1000}
+=======
+  m_AnchoredPosition: {x: -205, y: -102}
+  m_SizeDelta: {x: 1500, y: 250}
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &560002660
 MonoBehaviour:
@@ -2564,7 +2579,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 102.2, y: -313.3}
+=======
+  m_AnchoredPosition: {x: 96, y: -314}
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
   m_SizeDelta: {x: 180, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1550970023
@@ -3069,7 +3088,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -566.2, y: 0}
+=======
+  m_AnchoredPosition: {x: -569, y: 0}
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
   m_SizeDelta: {x: 397.952, y: 487.244}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!1660057539 &9223372036854775807
