@@ -6,23 +6,13 @@ public class SafeZone : MonoBehaviour
     private bool triggered = false;
 
 
-    private bool triggered = false;
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
-<<<<<<< HEAD
         if(collision.CompareTag("Player") && !triggered)
-=======
-        if (
-            collision.CompareTag("Player")
-            && !triggered
-        )
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         {
             triggered = true;
 
             StartCoroutine(EndLevel());
-<<<<<<< HEAD
         }
     }
 
@@ -57,21 +47,6 @@ public class SafeZone : MonoBehaviour
             Debug.LogError(
                 "LevelCompleteManager not found!"
             );
-=======
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         }
-    }
-
-    IEnumerator EndLevel()
-    {
-        PlayerController player =
-            FindObjectOfType<PlayerController>();
-
-        player.StopRunning();
-
-        yield return new WaitForSeconds(1.5f);
-
-        FindObjectOfType<LevelTransition>()
-            .StartTransition();
     }
 }

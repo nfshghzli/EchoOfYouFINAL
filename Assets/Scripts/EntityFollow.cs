@@ -41,29 +41,12 @@ public class EntityFollow : MonoBehaviour
                 panicSpeed * Time.deltaTime
             );
 
-<<<<<<< HEAD
             if (Vector2.Distance(transform.position, player.position) <= catchDistance)
             {
                 PlayerController controller = player.GetComponent<PlayerController>();
 
                 if (controller != null)
                     controller.Die();
-=======
-            float distance = Vector3.Distance(
-                transform.position,
-                player.position
-            );
-
-            if (distance <= catchDistance)
-            {
-                PlayerController playerController =
-                    player.GetComponent<PlayerController>();
-
-                if (playerController != null)
-                {
-                    playerController.Die();
-                }
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
             }
         }
     }

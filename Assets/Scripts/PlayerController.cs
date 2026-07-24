@@ -6,7 +6,6 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Movement")]
     public float forwardSpeed = 5f;
-<<<<<<< HEAD
     public float jumpForce = 12f;
     public int maxJumps = 2;
     public float maxHeight = 4f;
@@ -28,9 +27,6 @@ public class PlayerController : MonoBehaviour
     private bool invincible;
 
 
-=======
-    public float jumpForce = 18f;
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
 
     [Header("Health")]
     public int hp = 3;
@@ -47,7 +43,6 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D rb;
     private Animator animator;
-<<<<<<< HEAD
 
 
     private bool isGrounded;
@@ -157,64 +152,11 @@ public class PlayerController : MonoBehaviour
 
 
 
-=======
-
-    private bool isGrounded;
-    private bool isSliding;
-    private bool isTurning;
-    private bool isDead = false;
-    private bool canMove = true;
-
-    private void Start()
-    {
-        Time.timeScale = 1f;
-
-        rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
-
-        UIManager.instance.UpdateHP(hp);
-
-        animator.SetBool("IsRunning", true);
-        animator.SetBool("IsJumping", false);
-        animator.SetBool("IsSliding", false);
-    }
-
-    private void Update()
-    {
-            Debug.Log("UPDATE RUNNING");
-
-            if (!canMove || isDead)
-                return;
-
-        if (Input.GetKeyDown(KeyCode.W))
-        {
-            Debug.Log("W DETECTED");
-        }
-
-        if (!canMove || isDead)
-            return;
-
-        // Auto Run
-        rb.linearVelocity = new Vector2(
-            forwardSpeed,
-            rb.linearVelocity.y
-        );
-
-        // Jump
-        if (
-            (Input.GetKeyDown(KeyCode.W) ||
-             Input.GetKeyDown(KeyCode.UpArrow))
-            &&
-            !isSliding
-        )
-        {
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
             rb.linearVelocity = new Vector2(
                 rb.linearVelocity.x,
                 jumpForce
             );
 
-<<<<<<< HEAD
 
             jumpsLeft--;
 
@@ -229,36 +171,15 @@ public class PlayerController : MonoBehaviour
         if(
             Input.GetKey(KeyCode.S) ||
             Input.GetKey(KeyCode.DownArrow)
-=======
-            isGrounded = false;
-
-            animator.SetBool("IsJumping", true);
-        }
-
-        // Slide Start
-        if (
-            Input.GetKeyDown(KeyCode.S) ||
-            Input.GetKeyDown(KeyCode.DownArrow)
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         )
         {
             StartSlide();
         }
-<<<<<<< HEAD
         else
-=======
-
-        // Slide End
-        if (
-            Input.GetKeyUp(KeyCode.S) ||
-            Input.GetKeyUp(KeyCode.DownArrow)
-        )
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         {
             StopSlide();
         }
 
-<<<<<<< HEAD
     }
 
 
@@ -270,17 +191,12 @@ public class PlayerController : MonoBehaviour
 
 
         if(saveTimer >= rewindTime)
-=======
-        // Turning
-        if (isTurning)
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         {
             lastSafePosition = transform.position;
             saveTimer = 0f;
         }
     }
 
-<<<<<<< HEAD
 
 
 
@@ -309,22 +225,6 @@ public class PlayerController : MonoBehaviour
 
 
     void StopSlide()
-=======
-    private void StartSlide()
-    {
-        Debug.Log("SLIDE START");
-
-        if (isDead)
-            return;
-
-        isSliding = true;
-
-        animator.SetBool("IsRunning", false);
-        animator.SetBool("IsSliding", true);
-    }
-
-    private void StopSlide()
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
     {
         if(!isSliding)
             return;
@@ -332,29 +232,12 @@ public class PlayerController : MonoBehaviour
 
         isSliding = false;
 
-<<<<<<< HEAD
 
         StartRunningSFX();
 
 
         if(animator != null)
             animator.SetBool("IsSliding",false);
-=======
-        animator.SetBool("IsSliding", false);
-        animator.SetBool("IsRunning", true);
-    }
-
-    private void OnCollisionStay2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            Debug.Log("GROUND DETECTED");
-
-            isGrounded = true;
-
-            animator.SetBool("IsJumping", false);
-        }
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
     }
 
 
@@ -458,7 +341,6 @@ public class PlayerController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-<<<<<<< HEAD
 
         if(isDead)
             return;
@@ -504,28 +386,6 @@ public class PlayerController : MonoBehaviour
             Destroy(collision.gameObject);
 
 
-=======
-        if (isDead)
-            return;
-
-        if (collision.gameObject.CompareTag("Obstacle"))
-        {
-            hp--;
-            hp = Mathf.Max(hp, 0);
-
-            ScreenEffects.instance.Flash();
-            AudioManager.instance.PlayHit();
-            CameraShake.instance.Shake(0.15f, 0.15f);
-
-            UIManager.instance.UpdateHP(hp);
-
-            Destroy(collision.gameObject);
-
-            if (hp <= 0)
-            {
-                Die();
-            }
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         }
 
     }
@@ -682,7 +542,6 @@ public class PlayerController : MonoBehaviour
             return;
 
 
-<<<<<<< HEAD
         isDead=true;
 
 
@@ -707,23 +566,11 @@ public class PlayerController : MonoBehaviour
 
 
 
-=======
-        rb.linearVelocity = Vector2.zero;
-        rb.bodyType = RigidbodyType2D.Kinematic;
-
-        animator.SetBool("IsRunning", false);
-
-        CameraShake.instance.Shake(
-            0.4f,
-            0.5f
-        );
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
 
         PlayerPrefs.SetString(
             "LastLevel",
             SceneManager.GetActiveScene().name
         );
-<<<<<<< HEAD
 
 
 
@@ -736,13 +583,6 @@ public class PlayerController : MonoBehaviour
 
     }
 
-=======
-
-        StartCoroutine(
-            ScreenFade.instance.PlayDeathSequence()
-        );
-    }
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
 
 
 
@@ -751,7 +591,6 @@ public class PlayerController : MonoBehaviour
 
     private void OnDrawGizmosSelected()
     {
-<<<<<<< HEAD
 
         if(groundCheck == null)
             return;
@@ -768,29 +607,3 @@ public class PlayerController : MonoBehaviour
     }
 
 }
-=======
-        if (isDead) return;
-
-        animator.Play("PlayerTurn");
-    }
-
-    public void StopTurning()
-    {
-        if (isDead) return;
-
-        animator.Play("PlayerRun");
-    }
-
-    public void StopRunning()
-    {
-        canMove = false;
-
-        rb.linearVelocity = Vector2.zero;
-
-        animator.SetBool(
-            "IsRunning",
-            false
-        );
-    }
-}
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c

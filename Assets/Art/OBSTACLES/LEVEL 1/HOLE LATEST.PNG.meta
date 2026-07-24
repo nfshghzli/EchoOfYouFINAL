@@ -1,5 +1,4 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
 guid: 017910bcdbd41be42aba461ace79592d
 TextureImporter:
   internalIDToNameTable:
@@ -15,23 +14,6 @@ TextureImporter:
   - first:
       213: 287395916488289225
     second: HOLE LATEST_3
-========
-guid: d56713dcaf5bb36419b058e258dbf7be
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 907912250313261465
-    second: HOLE (1)_0
-  - first:
-      213: -1447672305607063976
-    second: HOLE (1)_1
-  - first:
-      213: -7863176423771222018
-    second: HOLE (1)_2
-  - first:
-      213: -3741225479248922309
-    second: HOLE (1)_3
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -140,11 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       name: HOLE LATEST_0
-========
-      name: HOLE (1)_0
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
       rect:
         serializedVersion: 2
         x: 1366
@@ -159,23 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       spriteID: c8e1a7e932cc6cec0800000000000000
       internalID: -3546923203152961908
-========
-      spriteID: 991c52f916d899c00800000000000000
-      internalID: 907912250313261465
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       name: HOLE LATEST_1
-========
-      name: HOLE (1)_1
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
       rect:
         serializedVersion: 2
         x: 274
@@ -190,23 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       spriteID: ef295796bd6ab32b0800000000000000
       internalID: -5603701850035088642
-========
-      spriteID: 856ce1945b5d8ebe0800000000000000
-      internalID: -1447672305607063976
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       name: HOLE LATEST_2
-========
-      name: HOLE (1)_2
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
       rect:
         serializedVersion: 2
         x: 715
@@ -221,23 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       spriteID: 4b6afa63b126ac110800000000000000
       internalID: 1281944912961447604
-========
-      spriteID: effc3e614b260e290800000000000000
-      internalID: -7863176423771222018
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       name: HOLE LATEST_3
-========
-      name: HOLE (1)_3
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
       rect:
         serializedVersion: 2
         x: 1161
@@ -252,13 +203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       spriteID: 9cbae2830190df300800000000000000
       internalID: 287395916488289225
-========
-      spriteID: b393abc9f3f741cc0800000000000000
-      internalID: -3741225479248922309
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
       vertices: []
       indices: 
       edges: []
@@ -277,17 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Art/OBSTACLES/LEVEL 1/HOLE LATEST.PNG.meta
       HOLE LATEST_0: -3546923203152961908
       HOLE LATEST_1: -5603701850035088642
       HOLE LATEST_2: 1281944912961447604
       HOLE LATEST_3: 287395916488289225
-========
-      HOLE (1)_0: 907912250313261465
-      HOLE (1)_1: -1447672305607063976
-      HOLE (1)_2: -7863176423771222018
-      HOLE (1)_3: -3741225479248922309
->>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c:Assets/Art/OBSTACLES/HOLE (1).png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
