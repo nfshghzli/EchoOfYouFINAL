@@ -5,154 +5,277 @@ public class WhisperSystem : MonoBehaviour
     public PlayerController player;
     public EntityFollow entity;
 
+
+    [Header("Whisper Timing")]
+    public float minTriggerTime = 10f;
+    public float maxTriggerTime = 15f;
+
+
     [Header("Reaction Time")]
     public float reactionTime = 1.5f;
 
-<<<<<<< HEAD
-=======
+
     private float triggerTimer;
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
     private float reactionTimer;
+
 
     private bool whisperActive = false;
     private bool turningBack = false;
 
+
+
+    void Start()
+    {
+        SetNextTrigger();
+    }
+
+
+
     void Update()
     {
-<<<<<<< HEAD
-        // Player resists the whisper
-        if (whisperActive && Input.GetKeyDown(KeyCode.Space))
-=======
-        triggerTimer -= Time.deltaTime;
 
-        if (triggerTimer <= 0 &&
-            !whisperActive &&
-            !turningBack)
+        // COUNTDOWN UNTIL NEXT WHISPER
+        if(!whisperActive && !turningBack)
         {
-            TriggerWhisper();
+            triggerTimer -= Time.deltaTime;
+
+
+            if(triggerTimer <= 0)
+            {
+                TriggerWhisper();
+            }
         }
 
-        // Resist whisper
-        if (whisperActive &&
-            Input.GetKeyDown(KeyCode.Space))
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
-        {
-            ResistWhisper();
-        }
 
-        // Countdown before turning
-        if (whisperActive)
+
+        // PLAYER TRYING TO RESIST
+        if(whisperActive)
         {
+
             reactionTimer -= Time.deltaTime;
 
-            if (reactionTimer <= 0)
+
+            if(Input.GetKeyDown(KeyCode.Space))
+            {
+                ResistWhisper();
+            }
+
+
+
+            if(reactionTimer <= 0)
             {
                 StartTurningBack();
             }
+
         }
 
-        // Recover while turning
-        if (turningBack)
+
+
+
+        // PLAYER RECOVERING FROM TURNING
+        if(turningBack)
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+
+            if(Input.GetKeyDown(KeyCode.Space))
             {
                 Recover();
             }
+
         }
+
     }
+
+
+
+
 
     public void TriggerWhisper()
     {
-<<<<<<< HEAD
-        // Prevent multiple triggers
-        if (whisperActive || turningBack)
+
+        if(whisperActive || turningBack)
             return;
 
-        whisperActive = true;
-=======
+
+
         whisperActive = true;
 
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
+
         reactionTimer = reactionTime;
+
+
 
         entity.SetPanic(false);
 
-        ScreenEffects.instance.SetWhisper();
 
-        AudioManager.instance.PlayWhisper();
-        AudioManager.instance.StartHeartbeat();
 
-        CameraShake.instance.Shake(0.1f, 0.2f);
+        if(ScreenEffects.instance != null)
+            ScreenEffects.instance.SetWhisper();
 
-        UIManager.instance.ShowWarning();
+
+
+        if(AudioManager.instance != null)
+        {
+            AudioManager.instance.PlayWhisper();
+            AudioManager.instance.StartHeartbeat();
+        }
+
+
+
+        if(CameraShake.instance != null)
+            CameraShake.instance.Shake(0.1f,0.2f);
+
+
+
+        if(UIManager.instance != null)
+            UIManager.instance.ShowWarning();
+
+
 
         Debug.Log("WHISPER!");
+
     }
+
+
+
+
+
+
 
     void ResistWhisper()
     {
+
         whisperActive = false;
 
-        AudioManager.instance.StopHeartbeat();
 
-        UIManager.instance.HideWarning();
 
-<<<<<<< HEAD
-=======
+        if(AudioManager.instance != null)
+            AudioManager.instance.StopHeartbeat();
+
+
+
+        if(UIManager.instance != null)
+            UIManager.instance.HideWarning();
+
+
+
         SetNextTrigger();
 
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
+
+
         Debug.Log("RESISTED");
+
     }
+
+
+
+
+
+
+
+
 
     void StartTurningBack()
     {
+
         whisperActive = false;
+
         turningBack = true;
+
+
 
         entity.SetPanic(true);
 
-        ScreenEffects.instance.SetPanic();
 
-        CameraShake.instance.Shake(0.25f, 0.3f);
+
+        if(ScreenEffects.instance != null)
+            ScreenEffects.instance.SetPanic();
+
+
+
+        if(CameraShake.instance != null)
+            CameraShake.instance.Shake(0.25f,0.3f);
+
+
 
         player.StartTurning();
 
-        UIManager.instance.ShowWarning();
+
+
+        if(UIManager.instance != null)
+            UIManager.instance.ShowWarning();
+
+
 
         Debug.Log("TURNING BACK!");
+
     }
+
+
+
+
+
+
+
+
 
     void Recover()
     {
+
         turningBack = false;
+
+
 
         entity.SetPanic(false);
 
+
+
         player.StopTurning();
 
-        AudioManager.instance.StopHeartbeat();
-<<<<<<< HEAD
-=======
 
-        ScreenEffects.instance.SetWhisper();
 
-        CameraShake.instance.Shake(0.1f, 0.1f);
+        if(AudioManager.instance != null)
+            AudioManager.instance.StopHeartbeat();
 
-        UIManager.instance.HideWarning();
+
+
+        if(ScreenEffects.instance != null)
+            ScreenEffects.instance.SetWhisper();
+
+
+
+        if(CameraShake.instance != null)
+            CameraShake.instance.Shake(0.1f,0.1f);
+
+
+
+        if(UIManager.instance != null)
+            UIManager.instance.HideWarning();
+
+
 
         SetNextTrigger();
 
-        Debug.Log("RECOVERED");
-    }
->>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
 
-        ScreenEffects.instance.SetWhisper();
-
-        CameraShake.instance.Shake(0.1f, 0.1f);
-
-        UIManager.instance.HideWarning();
 
         Debug.Log("RECOVERED");
+
     }
+
+
+
+
+
+
+
+
+    void SetNextTrigger()
+    {
+
+        triggerTimer = Random.Range(
+            minTriggerTime,
+            maxTriggerTime
+        );
+
+    }
+
 }
