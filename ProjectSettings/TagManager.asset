@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Ground
+  - Obstacle
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -11,8 +14,13 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< HEAD
+  - Ground
+  - Wall
+=======
   - 
-  - 
+  - Ground
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
   - 
   - 
   - 

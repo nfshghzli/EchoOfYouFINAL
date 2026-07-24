@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using UnityEngine.Rendering.Universal;
 
+<<<<<<< HEAD
 
 public class Level2CutsceneManager : MonoBehaviour
 {
@@ -14,12 +15,20 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
+    [Header("Background Transition")]
+    public GameObject level1Background;
+    public GameObject sewerBackground;
+
+    public float blackScreenDuration = 1f;
+
+
+
     [Header("Subtitle")]
     public TextMeshProUGUI subtitleText;
 
 
 
-    [Header("Voice")]
+    [Header("Voice Over")]
     public AudioSource voiceSource;
 
 
@@ -38,7 +47,6 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
-
     [Header("Cutscene SFX")]
     public AudioSource sfxSource;
 
@@ -46,9 +54,8 @@ public class Level2CutsceneManager : MonoBehaviour
     public AudioClip lampFlickerSFX;
     public AudioClip blackoutSFX;
     public AudioClip whisperSFX;
-    public AudioClip sewerAmbience;
     public AudioClip glitchSFX;
-
+    public AudioClip sewerAmbience;
 
 
 
@@ -62,12 +69,10 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
-
     [Header("Lighting")]
     public LightFlicker lightFlicker;
 
     public Light2D spotLight;
-
 
 
 
@@ -76,8 +81,7 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
-
-    [Header("Skip")]
+    [Header("Skip Button")]
     public GameObject skipButton;
 
     public CanvasGroup skipCanvasGroup;
@@ -86,35 +90,50 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
+    private bool skipAllowed = false;
+
+
+
+
     void Start()
-    {
-        StartCoroutine(StartCutscene());
-    }
-
-
-
-
-    IEnumerator StartCutscene()
     {
 
         subtitleText.text = "";
 
 
-        entity.SetActive(false);
+        // Background setup
+
+        if(level1Background != null)
+            level1Background.SetActive(true);
 
 
-        Color c = entityRenderer.color;
-        c.a = 0;
-        entityRenderer.color = c;
+        if(sewerBackground != null)
+            sewerBackground.SetActive(false);
 
 
+
+        // Entity setup
+
+        if(entity != null)
+            entity.SetActive(false);
+
+
+
+        if(entityRenderer != null)
+        {
+            Color c = entityRenderer.color;
+            c.a = 0;
+            entityRenderer.color = c;
+        }
+
+
+
+        // Skip setup
 
         skipButton.SetActive(false);
 
         skipCanvasGroup.alpha = 0;
-
         skipCanvasGroup.interactable = false;
-
         skipCanvasGroup.blocksRaycasts = false;
 
 
@@ -124,6 +143,18 @@ public class Level2CutsceneManager : MonoBehaviour
         );
 
 
+        StartCoroutine(
+            StartCutscene()
+        );
+
+    }
+
+
+
+
+
+    IEnumerator StartCutscene()
+    {
 
         yield return FadeIn();
 
@@ -140,8 +171,7 @@ public class Level2CutsceneManager : MonoBehaviour
     IEnumerator PlayCutscene()
     {
 
-
-        // Sewer atmosphere preparation
+        // underground ambience preparation
 
         if(sewerAmbience != null)
         {
@@ -150,6 +180,9 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
+
+        // S1
+
         yield return PlayLine(
             "Huh...It's gone...",
             S1
@@ -157,7 +190,8 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
-        // Lamp flickers
+
+        // light flicker moment
 
         if(lampFlickerSFX != null)
         {
@@ -165,9 +199,16 @@ public class Level2CutsceneManager : MonoBehaviour
         }
 
 
-        yield return lightFlicker.Flicker();
+        if(lightFlicker != null)
+        {
+            yield return lightFlicker.Flicker();
+        }
 
 
+
+
+
+        // S2
 
         yield return PlayLine(
             "No...",
@@ -175,6 +216,10 @@ public class Level2CutsceneManager : MonoBehaviour
         );
 
 
+
+
+
+        // S3
 
         yield return PlayLine(
             "Not again...",
@@ -184,10 +229,11 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
+
+
         // Entity whisper
 
-
-        PlayWhisperSound();
+        PlayWhisper();
 
 
 
@@ -199,6 +245,10 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
+
+
+        // S4
+
         yield return PlayLine(
             "What do you want from me?",
             S4
@@ -208,28 +258,19 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
-        // BLACKOUT TRANSITION
 
+        // BACKGROUND CHANGE
 
-        if(blackoutSFX != null)
-        {
-            sfxSource.PlayOneShot(blackoutSFX);
-        }
-
-
-
-        yield return FadeToBlack();
+        yield return StartCoroutine(
+            ChangeBackground()
+        );
 
 
 
-        // Switch background happens here
-        // Scene loading to Level 2 happens after fade
 
 
 
-        yield return new WaitForSeconds(1f);
-
-
+        // S5
 
         yield return PlayLine(
             "Where am I?",
@@ -238,6 +279,11 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
+
+
+
+        // S6
+
         yield return PlayLine(
             "This wasn't here before...",
             S6
@@ -245,7 +291,12 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
-        PlayWhisperSound();
+
+
+
+        // Second whisper
+
+        PlayWhisper();
 
 
 
@@ -257,6 +308,7 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
+
         if(glitchSFX != null)
         {
             sfxSource.PlayOneShot(glitchSFX);
@@ -264,11 +316,14 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
+
         yield return FadeOut();
 
 
 
-        SceneManager.LoadScene(nextSceneName);
+        SceneManager.LoadScene(
+            nextSceneName
+        );
 
     }
 
@@ -276,13 +331,131 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
-    void PlayWhisperSound()
+
+    IEnumerator ChangeBackground()
     {
+
+        // blackout sound
+
+        if(blackoutSFX != null)
+        {
+            sfxSource.PlayOneShot(blackoutSFX);
+        }
+
+
+
+
+        Color c = blackFade.color;
+
+
+        float timer = 0;
+
+
+
+        // fade black
+
+        while(timer < 1f)
+        {
+
+            timer += Time.deltaTime;
+
+
+            c.a = Mathf.Lerp(
+                0,
+                1,
+                timer
+            );
+
+
+            blackFade.color = c;
+
+
+            yield return null;
+
+        }
+
+
+
+
+
+
+        // SWITCH BACKGROUND HERE
+
+
+        if(level1Background != null)
+            level1Background.SetActive(false);
+
+
+
+        if(sewerBackground != null)
+            sewerBackground.SetActive(true);
+
+
+
+
+
+
+
+        yield return new WaitForSeconds(
+            blackScreenDuration
+        );
+
+
+
+
+
+
+
+        // fade back
+
+
+        timer = 0;
+
+
+
+        while(timer < 1f)
+        {
+
+            timer += Time.deltaTime;
+
+
+            c.a = Mathf.Lerp(
+                1,
+                0,
+                timer
+            );
+
+
+            blackFade.color = c;
+
+
+
+            yield return null;
+
+        }
+
+
+    }
+
+
+
+
+
+
+
+    void PlayWhisper()
+    {
+
         if(whisperSFX != null)
         {
-            sfxSource.PlayOneShot(whisperSFX);
+            sfxSource.PlayOneShot(
+                whisperSFX
+            );
         }
+
     }
+
+
 
 
 
@@ -314,17 +487,162 @@ public class Level2CutsceneManager : MonoBehaviour
                 ()=>voiceSource.isPlaying
             );
 
+=======
+public class Level2CutsceneManager : MonoBehaviour
+{
+    [Header("Fade")]
+    public Image blackFade;
+
+    [Header("Subtitle")]
+    public TextMeshProUGUI subtitleText;
+
+    [Header("Voice Over")]
+    public AudioSource voiceSource;
+
+    public AudioClip line1;
+    public AudioClip line2;
+    public AudioClip line3;
+    public AudioClip line4;
+
+    [Header("Entity")]
+    public GameObject entity;
+    public SpriteRenderer entityRenderer;
+    [Range (0f, 1f)]
+    public float entityMaxAlpha = 0.4f;
+
+    [Header("Next Scene")]
+    public string nextSceneName = "Level2";
+
+    public LightFlicker lightFlicker;
+    public Light2D spotLight;
+
+    IEnumerator Start()
+    {
+        subtitleText.text = "";
+
+        entity.SetActive(false);
+
+        Color entityColor = entityRenderer.color;
+        entityColor.a = 0f;
+        entityRenderer.color = entityColor;
+
+        yield return StartCoroutine(FadeIn());
+
+        yield return StartCoroutine(PlayCutscene());
+    }
+
+    IEnumerator PlayCutscene()
+    {
+        yield return StartCoroutine(
+            PlayLine(
+                "Who was that...?",
+                line1
+            )
+        );
+
+        yield return StartCoroutine(
+            PlayLine(
+                "Why does it keep whispering my name?",
+                line2
+            )
+        );
+
+        yield return StartCoroutine(
+            PlayLine(
+                "It felt real.",
+                line3
+            )
+        );
+
+        yield return StartCoroutine(
+            PlayLine(
+                "No... it IS real.",
+                line4
+            )
+        );
+
+        yield return new WaitForSeconds(1f);
+
+        yield return StartCoroutine(
+            lightFlicker.Flicker()
+        );
+
+        entity.SetActive(true);
+
+        yield return StartCoroutine(
+            FadeInEntity()
+        );
+
+        yield return new WaitForSeconds(1f);
+
+        subtitleText.text =
+            "\"Sayy...\"";
+
+        yield return new WaitForSeconds(3f);
+
+        subtitleText.text =
+            "\"Turn around...\"";
+
+        yield return new WaitForSeconds(3f);
+
+       subtitleText.text =
+            "No.";
+
+        yield return new WaitForSeconds(0.5f);
+
+        spotLight.enabled = false;
+
+        subtitleText.text = "";
+
+        yield return new WaitForSeconds(1f);
+
+        subtitleText.text =
+            "\"Sayy...\"";
+
+        yield return new WaitForSeconds(2f);
+
+        subtitleText.text = "";
+
+        yield return StartCoroutine(
+            FadeOut()
+        );
+
+        SceneManager.LoadScene(nextSceneName);
+    }
+
+    IEnumerator PlayLine(
+        string subtitle,
+        AudioClip voiceClip
+    )
+    {
+        subtitleText.text = subtitle;
+
+        if (
+            voiceClip != null
+            && voiceSource != null
+        )
+        {
+            voiceSource.clip = voiceClip;
+            voiceSource.Play();
+
+            yield return new WaitWhile(
+                () => voiceSource.isPlaying
+            );
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
         }
         else
         {
             yield return new WaitForSeconds(2f);
         }
+<<<<<<< HEAD
 
 
 
         subtitleText.text = "";
 
     }
+
+
 
 
 
@@ -338,7 +656,8 @@ public class Level2CutsceneManager : MonoBehaviour
         float timer = 0;
 
 
-        while(timer < 2)
+
+        while(timer < 2f)
         {
 
             timer += Time.deltaTime;
@@ -354,10 +673,14 @@ public class Level2CutsceneManager : MonoBehaviour
             blackFade.color = c;
 
 
+
             yield return null;
+
         }
 
     }
+
+
 
 
 
@@ -371,7 +694,8 @@ public class Level2CutsceneManager : MonoBehaviour
         float timer = 0;
 
 
-        while(timer < 2)
+
+        while(timer < 2f)
         {
 
             timer += Time.deltaTime;
@@ -387,6 +711,7 @@ public class Level2CutsceneManager : MonoBehaviour
             blackFade.color = c;
 
 
+
             yield return null;
 
         }
@@ -397,15 +722,19 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
 
-    IEnumerator FadeToBlack()
+
+
+    IEnumerator FadeInEntity()
     {
 
-        Color c = blackFade.color;
+        Color c = entityRenderer.color;
+
 
         float timer = 0;
 
 
-        while(timer < 1)
+
+        while(timer < 3f)
         {
 
             timer += Time.deltaTime;
@@ -413,19 +742,23 @@ public class Level2CutsceneManager : MonoBehaviour
 
             c.a = Mathf.Lerp(
                 0,
-                1,
-                timer
+                entityMaxAlpha,
+                timer / 3
             );
 
 
-            blackFade.color = c;
+            entityRenderer.color = c;
+
 
 
             yield return null;
 
         }
 
+
     }
+
+
 
 
 
@@ -447,6 +780,7 @@ public class Level2CutsceneManager : MonoBehaviour
         float t = 0;
 
 
+
         while(t < 1)
         {
 
@@ -454,6 +788,7 @@ public class Level2CutsceneManager : MonoBehaviour
 
 
             skipCanvasGroup.alpha = t;
+
 
 
             yield return null;
@@ -466,7 +801,13 @@ public class Level2CutsceneManager : MonoBehaviour
 
         skipCanvasGroup.blocksRaycasts = true;
 
+
+        skipAllowed = true;
+
     }
+
+
+
 
 
 
@@ -475,7 +816,13 @@ public class Level2CutsceneManager : MonoBehaviour
     public void SkipCutscene()
     {
 
+        if(!skipAllowed)
+            return;
+
+
+
         StopAllCoroutines();
+
 
 
         StartCoroutine(
@@ -483,6 +830,8 @@ public class Level2CutsceneManager : MonoBehaviour
         );
 
     }
+
+
 
 
 
@@ -499,6 +848,7 @@ public class Level2CutsceneManager : MonoBehaviour
         yield return FadeOut();
 
 
+
         SceneManager.LoadScene(
             nextSceneName
         );
@@ -506,3 +856,85 @@ public class Level2CutsceneManager : MonoBehaviour
     }
 
 }
+=======
+    }
+
+    IEnumerator FadeIn()
+    {
+        Color color = blackFade.color;
+
+        float timer = 0f;
+
+        while (timer < 2f)
+        {
+            timer += Time.deltaTime;
+
+            color.a = Mathf.Lerp(
+                1f,
+                0f,
+                timer / 2f
+            );
+
+            blackFade.color = color;
+
+            yield return null;
+        }
+    }
+
+    IEnumerator FadeOut()
+    {
+        Color color = blackFade.color;
+
+        float timer = 0f;
+
+        while (timer < 2f)
+        {
+            timer += Time.deltaTime;
+
+            color.a = Mathf.Lerp(
+                0f,
+                1f,
+                timer / 2f
+            );
+
+            blackFade.color = color;
+
+            yield return null;
+        }
+    }
+
+    IEnumerator FadeInEntity()
+    {
+        if (entityRenderer == null)
+        {
+            Debug.LogError("Entity Renderer not assigned!");
+            yield break;
+        }
+
+        Color color = entityRenderer.color;
+
+        float timer = 0f;
+
+        while (timer < 3f)
+        {
+            timer += Time.deltaTime;
+
+            color.a = Mathf.Lerp(
+                0f,
+                entityMaxAlpha,
+                timer / 2f
+            );
+
+            entityRenderer.color = color;
+
+            yield return null;
+        }
+
+
+        color.a = entityMaxAlpha;
+        entityRenderer.color = color;
+    }
+
+   
+}
+>>>>>>> b47d0c4f3253e44916ff3d2e0af2482b73a1aa6c
